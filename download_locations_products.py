@@ -11,9 +11,13 @@ list_products_url = "https://app2.ontherun.com.au/api/v2/listOrderingEnabledBran
 github_api_url = "https://api.github.com"
 
 # Common payload parameters
-api_key = None
+is_modal_view = "false"
+apple_id = "null"
+apple_token = "null"
+api_key = "null"
 client_version = "3.7.160"
-client_os = None
+client_os = "null"
+facebook_token = "null"
 auth_token = os.getenv('AUTH_TOKEN')
 email = os.getenv('EMAIL')
 password = os.getenv('PASSWORD')
@@ -26,10 +30,10 @@ def login():
     login_payload = {
         "email": email,
         "password": password,
-        "facebook_token": None,
-        "is_modal_view": False,
-        "apple_id": None,
-        "apple_token": None,
+        "facebook_token": facebook_token,
+        "is_modal_view": is_modal_view,
+        "apple_id": apple_id,
+        "apple_token": apple_token,
         "api_key": api_key,
         "client_version": client_version,
         "client_os": client_os,
