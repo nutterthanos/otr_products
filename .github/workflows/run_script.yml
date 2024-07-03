@@ -32,3 +32,14 @@ jobs:
           REPO: ${{ github.repository }}
         run: |
           python download_locations_products.py
+
+      - name: Commit and push changes
+        if: success()  # Only run this step if the previous steps were successful
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Updated products listings as of $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
