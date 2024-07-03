@@ -1,0 +1,12 @@
+{
+    "status": 1,
+    "message": "Products found",
+    "brands": [],
+    "location": {
+        "name": "OTR Mount Gambier",
+        "id": 63,
+        "status": "order_enabled"
+    },
+    "cached": true,
+    "cached_at": "Wed, 03 Jul 2024 14:33:12 GMT"
+}

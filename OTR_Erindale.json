@@ -1,0 +1,12 @@
+{
+    "status": 1,
+    "message": "Products found",
+    "brands": [],
+    "location": {
+        "name": "OTR Erindale",
+        "id": 31,
+        "status": "order_enabled"
+    },
+    "cached": true,
+    "cached_at": "Wed, 03 Jul 2024 14:32:20 GMT"
+}
