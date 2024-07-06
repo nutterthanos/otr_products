@@ -1,0 +1,12 @@
+{
+    "status": 1,
+    "message": "Products found",
+    "brands": [],
+    "location": {
+        "name": "OTR Kent Town",
+        "id": 114,
+        "status": "order_enabled"
+    },
+    "cached": true,
+    "cached_at": "Fri, 05 Jul 2024 22:11:29 GMT"
+}

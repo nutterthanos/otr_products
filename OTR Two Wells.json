@@ -1,0 +1,12 @@
+{
+    "status": 1,
+    "message": "Products found",
+    "brands": [],
+    "location": {
+        "name": "OTR Two Wells",
+        "id": 91,
+        "status": "order_enabled"
+    },
+    "cached": true,
+    "cached_at": "Fri, 05 Jul 2024 18:30:38 GMT"
+}
