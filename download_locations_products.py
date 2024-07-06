@@ -1,202 +1,181 @@
 import requests
 import json
 import os
-import base64
-from nacl import encoding, public
+import logging
+from datetime import datetime
 
-# API URLs
-login_url = "https://app2.ontherun.com.au/api/v2/login"
+# Set up logging
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+
+# URLs and endpoints
 list_locations_url = "https://app2.ontherun.com.au/api/v2/listLocations"
 list_products_url = "https://app2.ontherun.com.au/api/v2/listOrderingEnabledBrandProductsFull"
-github_api_url = "https://api.github.com"
+login_url = "https://app2.ontherun.com.au/api/v2/login"
 
-# Common payload parameters
-is_modal_view = "false"
-apple_id = "null"
-apple_token = "null"
-api_key = "null"
-client_version = "3.7.160"
-client_os = "null"
-facebook_token = "null"
-auth_token = os.getenv('AUTH_TOKEN')
+# Environment variables
 email = os.getenv('EMAIL')
 password = os.getenv('PASSWORD')
+auth_token = os.getenv('AUTH_TOKEN')
 repo = os.getenv('REPO')
 gh_pat = os.getenv('GH_PAT')
 
-# Function to log in and get a new auth token
+# Payloads
+locations_payloads = [
+    {"ordering_enabled": "0", "api_key": None, "client_version": "3.7.160", "client_os": None, "auth_token": auth_token},
+    {"ordering_enabled": "1", "api_key": None, "client_version": "3.7.160", "client_os": None, "auth_token": auth_token}
+]
+
+def update_github_secret(secret_name, secret_value):
+    logging.debug(f"Updating GitHub secret: {secret_name}")
+    headers = {
+        "Authorization": f"token {gh_pat}",
+        "Accept": "application/vnd.github.v3+json"
+    }
+    # Get the public key
+    response = requests.get(f"https://api.github.com/repos/{repo}/actions/secrets/public-key", headers=headers)
+    if response.status_code == 200:
+        public_key = response.json()
+        key_id = public_key['key_id']
+        public_key_value = public_key['key']
+        
+        from base64 import b64encode
+        from nacl import encoding, public
+
+        def encrypt(public_key: str, secret_value: str) -> str:
+            public_key = public.PublicKey(public_key.encode("utf-8"), encoding.Base64Encoder())
+            sealed_box = public.SealedBox(public_key)
+            encrypted = sealed_box.encrypt(secret_value.encode("utf-8"))
+            return b64encode(encrypted).decode("utf-8")
+        
+        encrypted_value = encrypt(public_key_value, secret_value)
+        
+        data = {
+            "encrypted_value": encrypted_value,
+            "key_id": key_id
+        }
+
+        put_response = requests.put(f"https://api.github.com/repos/{repo}/actions/secrets/{secret_name}", headers=headers, json=data)
+        if put_response.status_code == 201:
+            logging.debug(f"GitHub secret {secret_name} updated successfully.")
+        else:
+            logging.error(f"Failed to update GitHub secret {secret_name}: {put_response.text}")
+    else:
+        logging.error(f"Failed to retrieve public key: {response.text}")
+
 def login():
-    global auth_token
+    logging.debug("Logging in to get a new auth token")
     login_payload = {
         "email": email,
         "password": password,
-        "facebook_token": facebook_token,
-        "is_modal_view": is_modal_view,
-        "apple_id": apple_id,
-        "apple_token": apple_token,
-        "api_key": api_key,
-        "client_version": client_version,
-        "client_os": client_os,
+        "facebook_token": None,
+        "is_modal_view": False,
+        "apple_id": None,
+        "apple_token": None,
+        "api_key": None,
+        "client_version": "3.7.160",
+        "client_os": None,
         "auth_token": ""
     }
     response = requests.post(login_url, json=login_payload)
     if response.status_code == 200:
-        response_data = response.json()
-        auth_token = response_data.get("auth_token")
-        print("Login successful, new auth token obtained")
-        update_github_secret("AUTH_TOKEN", auth_token)
-    else:
-        print(f"Failed to log in. Status code: {response.status_code}")
-        response.raise_for_status()
+        data = response.json()
+        if data.get("status") == 1 and "auth_token" in data:
+            new_auth_token = data["auth_token"]
+            update_github_secret("AUTH_TOKEN", new_auth_token)
+            return new_auth_token
+    logging.error(f"Login failed: {response.text}")
+    return None
 
-# Function to get the public key for encrypting the secret
-def get_public_key():
-    url = f"{github_api_url}/repos/{repo}/actions/secrets/public-key"
-    headers = {
-        "Authorization": f"Bearer {gh_pat}",
-        "Accept": "application/vnd.github.v3+json"
-    }
-    response = requests.get(url, headers=headers)
-    if response.status_code == 200:
-        return response.json()
-    else:
-        print(f"Failed to get public key. Status code: {response.status_code}")
-        response.raise_for_status()
-
-# Function to encrypt the secret
-def encrypt_secret(public_key, secret_value):
-    public_key = public.PublicKey(public_key.encode("utf-8"), encoding.Base64Encoder())
-    sealed_box = public.SealedBox(public_key)
-    encrypted = sealed_box.encrypt(secret_value.encode("utf-8"))
-    return base64.b64encode(encrypted).decode("utf-8")
-
-# Function to update the GitHub secret
-def update_github_secret(secret_name, secret_value):
-    public_key_response = get_public_key()
-    public_key = public_key_response["key"]
-    key_id = public_key_response["key_id"]
-    encrypted_value = encrypt_secret(public_key, secret_value)
-    url = f"{github_api_url}/repos/{repo}/actions/secrets/{secret_name}"
-    headers = {
-        "Authorization": f"Bearer {gh_pat}",
-        "Accept": "application/vnd.github.v3+json"
-    }
-    data = {
-        "encrypted_value": encrypted_value,
-        "key_id": key_id
-    }
-    response = requests.put(url, headers=headers, json=data)
-    if response.status_code == 204:
-        print(f"Secret {secret_name} updated successfully")
-    else:
-        print(f"Failed to update secret. Status code: {response.status_code}")
-        response.raise_for_status()
-
-# Function to send a POST request with retry logic for authentication errors
-def send_post_request(url, payload, filename, retry=True):
-    response = requests.post(url, json=payload)
-    response_data = response.json()
-    if response.status_code == 200:
-        with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(response_data, f, ensure_ascii=False, indent=4)
-    elif response_data.get("status") == 6 and retry:
-        # Token expired, refresh token and retry request
-        login()
-        payload["auth_token"] = auth_token
-        send_post_request(url, payload, filename, retry=False)
-    else:
-        print(f"Failed to get data from {url} with payload {payload}. Status code: {response.status_code}")
-
-# Perform initial login to get the auth token if it's not already set
-if not auth_token:
-    login()
-
-# Fetch and save locations with ordering_enabled = 0
-payload_0 = {
-    "ordering_enabled": "0",
-    "api_key": api_key,
-    "client_version": client_version,
-    "client_os": client_os,
-    "auth_token": auth_token
-}
-send_post_request(list_locations_url, payload_0, "locations.json")
-
-# Fetch and save locations with ordering_enabled = 1
-payload_1 = {
-    "ordering_enabled": "1",
-    "api_key": api_key,
-    "client_version": client_version,
-    "client_os": client_os,
-    "auth_token": auth_token
-}
-send_post_request(list_locations_url, payload_1, "locations_ordering_enabled.json")
-
-# Function to extract location_ids from a JSON file
-def extract_location_ids(filename):
-    with open(filename, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-        return [location["location_id"] for location in data.get("locations", [])]
-
-# Extract and deduplicate location_ids
-location_ids_0 = extract_location_ids("locations.json")
-location_ids_1 = extract_location_ids("locations_ordering_enabled.json")
-unique_location_ids = list(set(location_ids_0 + location_ids_1))
-
-# Function to determine if the new data should overwrite the old data
-def should_overwrite(filename, new_cached_at):
-    if os.path.exists(filename):
-        with open(filename, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            existing_cached_at = data.get("cached_at", "")
-            if existing_cached_at >= new_cached_at:
-                return False
-    return True
-
-# Fetch brand products for each location_id and save to respective files
-for location_id in unique_location_ids:
-    payload = {
-        "location_id": location_id,
-        "refresh_cache": "False",
-        "api_key": api_key,
-        "client_version": client_version,
-        "client_os": client_os,
-        "auth_token": auth_token
-    }
-    response = requests.post(list_products_url, json=payload)
-    response_data = response.json()
-    if response.status_code == 200:
-        location_info = response_data.get("location")
-        if location_info:
-            location_name = location_info.get("name", f"location_{location_id}")
-            filename = f"{location_name.replace(' ', '_')}.json"
-            new_cached_at = response_data.get("cached_at")
-            if new_cached_at and should_overwrite(filename, new_cached_at):
-                with open(filename, 'w', encoding='utf-8') as f:
-                    json.dump(response_data, f, ensure_ascii=False, indent=4)
-            else:
-                print(f"Skipping file update for {filename}: new data is not newer.")
-        else:
-            print(f"No 'location' key found in response for location_id {location_id}.")
-    elif response_data.get("status") == 6:
-        # Token expired, refresh token and retry request
-        login()
-        payload["auth_token"] = auth_token
-        response = requests.post(list_products_url, json=payload)
-        response_data = response.json()
+def fetch_locations():
+    locations_data = {}
+    for payload in locations_payloads:
+        logging.debug(f"Sending request to {list_locations_url} with payload: {payload}")
+        response = requests.post(list_locations_url, json=payload)
         if response.status_code == 200:
-            location_info = response_data.get("location")
-            if location_info:
-                location_name = location_info.get("name", f"location_{location_id}")
-                filename = f"{location_name.replace(' ', '_')}.json"
-                new_cached_at = response_data.get("cached_at")
-                if new_cached_at and should_overwrite(filename, new_cached_at):
-                    with open(filename, 'w', encoding='utf-8') as f:
-                        json.dump(response_data, f, ensure_ascii=False, indent=4)
-                else:
-                    print(f"Skipping file update for {filename}: new data is not newer.")
-            else:
-                print(f"No 'location' key found in response for location_id {location_id}.")
+            data = response.json()
+            ordering_enabled = payload["ordering_enabled"]
+            file_name = "locations_ordering_enabled.json" if ordering_enabled == "1" else "locations.json"
+            with open(file_name, 'w') as f:
+                json.dump(data, f, indent=4)
+            locations_data[ordering_enabled] = data
         else:
-            print(f"Failed to get data from {list_products_url} with payload {payload}. Status code: {response.status_code}")
+            logging.error(f"Failed to fetch locations with payload {payload}: {response.status_code} - {response.text}")
+            if response.json().get("status") == 6:
+                logging.debug("Auth token expired, attempting to login")
+                new_auth_token = login()
+                if new_auth_token:
+                    payload["auth_token"] = new_auth_token
+                    logging.debug(f"Retrying request to {list_locations_url} with new auth token")
+                    response = requests.post(list_locations_url, json=payload)
+                    if response.status_code == 200:
+                        data = response.json()
+                        ordering_enabled = payload["ordering_enabled"]
+                        file_name = "locations_ordering_enabled.json" if ordering_enabled == "1" else "locations.json"
+                        with open(file_name, 'w') as f:
+                            json.dump(data, f, indent=4)
+                        locations_data[ordering_enabled] = data
+                    else:
+                        logging.error(f"Retry failed: {response.status_code} - {response.text}")
+    return locations_data
+
+def fetch_products(location_ids):
+    for location_id in location_ids:
+        payload = {
+            "location_id": location_id,
+            "refresh_cache": "False",
+            "api_key": None,
+            "client_version": "3.7.160",
+            "client_os": None,
+            "auth_token": auth_token
+        }
+        logging.debug(f"Sending request to {list_products_url} with payload: {payload}")
+        response = requests.post(list_products_url, json=payload)
+        if response.status_code == 200:
+            data = response.json()
+            if "location" in data and "name" in data["location"]:
+                location_name = data["location"]["name"]
+                file_name = f"{location_name}.json"
+                logging.debug(f"Saving data to {file_name}")
+                if not os.path.exists(file_name) or datetime.strptime(data['cached_at'], '%Y-%m-%dT%H:%M:%S.%fZ') > datetime.strptime(json.load(open(file_name))['cached_at'], '%Y-%m-%dT%H:%M:%S.%fZ'):
+                    with open(file_name, 'w') as f:
+                        json.dump(data, f, indent=4)
+                else:
+                    logging.debug(f"Data for {location_name} is not newer, skipping.")
+        else:
+            logging.error(f"Failed to fetch products for location_id {location_id}: {response.status_code} - {response.text}")
+            if response.json().get("status") == 6:
+                logging.debug("Auth token expired, attempting to login")
+                new_auth_token = login()
+                if new_auth_token:
+                    payload["auth_token"] = new_auth_token
+                    logging.debug(f"Retrying request to {list_products_url} with new auth token for location_id {location_id}")
+                    response = requests.post(list_products_url, json=payload)
+                    if response.status_code == 200:
+                        data = response.json()
+                        if "location" in data and "name" in data["location"]:
+                            location_name = data["location"]["name"]
+                            file_name = f"{location_name}.json"
+                            logging.debug(f"Saving data to {file_name}")
+                            if not os.path.exists(file_name) or datetime.strptime(data['cached_at'], '%Y-%m-%dT%H:%M:%S.%fZ') > datetime.strptime(json.load(open(file_name))['cached_at'], '%Y-%m-%dT%H:%M:%S.%fZ'):
+                                with open(file_name, 'w') as f:
+                                    json.dump(data, f, indent=4)
+                            else:
+                                logging.debug(f"Data for {location_name} is not newer, skipping.")
+                    else:
+                        logging.error(f"Retry failed: {response.status_code} - {response.text}")
+
+def main():
+    logging.debug("Starting the download locations and products script")
+    locations_data = fetch_locations()
+    if locations_data:
+        location_ids = set()
+        for key, data in locations_data.items():
+            for location in data.get('locations', []):
+                location_ids.add(location['location_id'])
+        logging.debug(f"Fetched location IDs: {location_ids}")
+        fetch_products(location_ids)
     else:
-        print(f"Failed to get data from {list_products_url} with payload {payload}. Status code: {response.status_code}")
+        logging.error("Failed to fetch locations data")
+
+if __name__ == "__main__":
+    main()
