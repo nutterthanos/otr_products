@@ -3,6 +3,7 @@ import json
 import os
 import logging
 from datetime import datetime
+from dateutil import parser
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -142,7 +143,7 @@ def fetch_products(location_ids):
                 location_name = data["location"]["name"]
                 file_name = f"{location_name}.json"
                 logging.debug(f"Saving data to {file_name}")
-                if not os.path.exists(file_name) or datetime.strptime(data['cached_at'], '%Y-%m-%dT%H:%M:%S.%fZ') > datetime.strptime(json.load(open(file_name))['cached_at'], '%Y-%m-%dT%H:%M:%S.%fZ'):
+                if not os.path.exists(file_name) or parser.parse(data['cached_at']) > parser.parse(json.load(open(file_name))['cached_at']):
                     with open(file_name, 'w') as f:
                         json.dump(data, f, indent=4)
                 else:
@@ -164,7 +165,7 @@ def fetch_products(location_ids):
                             location_name = data["location"]["name"]
                             file_name = f"{location_name}.json"
                             logging.debug(f"Saving data to {file_name}")
-                            if not os.path.exists(file_name) or datetime.strptime(data['cached_at'], '%Y-%m-%dT%H:%M:%S.%fZ') > datetime.strptime(json.load(open(file_name))['cached_at'], '%Y-%m-%dT%H:%M:%S.%fZ'):
+                            if not os.path.exists(file_name) or parser.parse(data['cached_at']) > parser.parse(json.load(open(file_name))['cached_at']):
                                 with open(file_name, 'w') as f:
                                     json.dump(data, f, indent=4)
                             else:
