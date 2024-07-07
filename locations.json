@@ -6230,9 +6230,9 @@
                 49
             ],
             "fuel_ordering_enabled": 1,
-            "isUnavailable": true,
+            "isUnavailable": false,
             "is_implement_iamhere": false,
-            "status": "disabled"
+            "status": "order_enabled"
         },
         {
             "location_id": 58,
