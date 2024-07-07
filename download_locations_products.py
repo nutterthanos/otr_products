@@ -91,6 +91,8 @@ def fetch_locations():
     for payload in locations_payloads:
         logging.debug(f"Sending request to {list_locations_url} with payload: {payload}")
         response = requests.post(list_locations_url, json=payload)
+        logging.debug(f"Response status code: {response.status_code}")
+        logging.debug(f"Response data: {response.text}")
         if response.status_code == 200:
             data = response.json()
             ordering_enabled = payload["ordering_enabled"]
@@ -107,6 +109,8 @@ def fetch_locations():
                     payload["auth_token"] = new_auth_token
                     logging.debug(f"Retrying request to {list_locations_url} with new auth token")
                     response = requests.post(list_locations_url, json=payload)
+                    logging.debug(f"Retry response status code: {response.status_code}")
+                    logging.debug(f"Retry response data: {response.text}")
                     if response.status_code == 200:
                         data = response.json()
                         ordering_enabled = payload["ordering_enabled"]
@@ -130,6 +134,8 @@ def fetch_products(location_ids):
         }
         logging.debug(f"Sending request to {list_products_url} with payload: {payload}")
         response = requests.post(list_products_url, json=payload)
+        logging.debug(f"Response status code: {response.status_code}")
+        logging.debug(f"Response data: {response.text}")
         if response.status_code == 200:
             data = response.json()
             if "location" in data and "name" in data["location"]:
@@ -150,6 +156,8 @@ def fetch_products(location_ids):
                     payload["auth_token"] = new_auth_token
                     logging.debug(f"Retrying request to {list_products_url} with new auth token for location_id {location_id}")
                     response = requests.post(list_products_url, json=payload)
+                    logging.debug(f"Retry response status code: {response.status_code}")
+                    logging.debug(f"Retry response data: {response.text}")
                     if response.status_code == 200:
                         data = response.json()
                         if "location" in data and "name" in data["location"]:
