@@ -1,0 +1,12 @@
+{
+    "status": 1,
+    "message": "Products found",
+    "brands": [],
+    "location": {
+        "name": "OTR Loxton Roundabout",
+        "id": 55,
+        "status": "order_enabled"
+    },
+    "cached": true,
+    "cached_at": "Sun, 07 Jul 2024 18:30:29 GMT"
+}
