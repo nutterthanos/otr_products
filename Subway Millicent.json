@@ -26,6 +26,7 @@
                             "priceTotal": "9.95",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13369.png",
                             "kjTotal": "2860 kj",
+                            "hasMealDeal": true,
                             "rewardDescription": "Buy 4 Footlong Sub, Large Salad or Large Wrap Combo, Get a Footlong Sub, Large Salad or Large Wrap Combo FREE",
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -566,6 +567,20 @@
                                 },
                                 {
                                     "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 290,
+                                            "description": "Subway Combo Deal",
+                                            "priceTotal": "0.00",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
                                     "description": "range",
                                     "component": "rangeList",
                                     "options": [
@@ -577,6 +592,7 @@
                                             "isSelected": true,
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13369.png",
                                             "kjTotal": "2860 kj",
+                                            "hasMealDeal": true,
                                             "rewardDescription": "Buy 4 Footlong Sub, Large Salad or Large Wrap Combo, Get a Footlong Sub, Large Salad or Large Wrap Combo FREE"
                                         }
                                     ]
@@ -591,6 +607,7 @@
                             "priceTotal": "3.50",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13384.png",
                             "kjTotal": "1660 kj",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -58783,6 +58800,19 @@
                             "data": []
                         },
                         {
+                            "id": 1000524,
+                            "name": "Choc Chip",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "1.50",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10559.png",
+                            "kjTotal": "955 kj",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
                             "id": 1002087,
                             "name": "Cookies, 6 for $6.00",
                             "description": "A selection of 6 deliciously baked cookies. Cookies may contain tree nuts and traces of tree nuts.",
@@ -58811,17 +58841,32 @@
                             "mustHaveMealDeal": true
                         },
                         {
-                            "id": 1000524,
-                            "name": "Choc Chip",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "1.50",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10559.png",
-                            "kjTotal": "955 kj",
-                            "hasMealDeal": false,
+                            "id": 1003336,
+                            "name": "2 Cookies for $2",
+                            "description": "Don\u2019t say we didn\u2019t warn you, our cookies are irresistible. White Chip Macadamia Nut Cookie contains tree nuts. All cookies and baked goods may contain traces of tree nuts and peanuts.",
+                            "shortDescription": "Don\u2019t say we didn\u2019t warn you, our cookies are irresistible. White Chip Macadamia Nut Cookie contains tree nuts. All cookies and baked goods may contain traces of tree nuts and peanuts.",
+                            "priceTotal": "2.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/MealDeal/MealDeal_179.png",
+                            "hasMealDeal": true,
                             "loyalty_enabled": 0,
                             "keywords": "",
-                            "data": []
+                            "data": [
+                                {
+                                    "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 339,
+                                            "description": "2 Cookies for $2",
+                                            "priceTotal": "0.00",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "mustHaveMealDeal": true
                         }
                     ]
                 },
@@ -59797,6 +59842,146 @@
                     ]
                 },
                 {
+                    "id": 4863,
+                    "description": "Cookie 1",
+                    "component": "radioList",
+                    "mealDealId": 339,
+                    "minQuantity": 1,
+                    "maxQuantity": 1,
+                    "options": [
+                        {
+                            "id": 1000526,
+                            "description": "Rainbow",
+                            "priceTotal": "1.50",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10561.png",
+                            "range": "",
+                            "productRange": 4863,
+                            "kjTotal": "884 kj",
+                            "isSelected": false,
+                            "defaultSelection": false
+                        },
+                        {
+                            "id": 1000524,
+                            "description": "Choc Chip",
+                            "priceTotal": "1.50",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10559.png",
+                            "range": "",
+                            "productRange": 8009,
+                            "kjTotal": "955 kj",
+                            "isSelected": false,
+                            "defaultSelection": false
+                        },
+                        {
+                            "id": 1000525,
+                            "description": "Double Choc",
+                            "priceTotal": "1.50",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10560.png",
+                            "range": "",
+                            "productRange": 8011,
+                            "kjTotal": "886 kj",
+                            "isSelected": false,
+                            "defaultSelection": false
+                        },
+                        {
+                            "id": 1000527,
+                            "description": "Raspberry Cheesecake",
+                            "priceTotal": "1.50",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10562.png",
+                            "range": "",
+                            "productRange": 8013,
+                            "kjTotal": "853 kj",
+                            "isSelected": false,
+                            "defaultSelection": false
+                        },
+                        {
+                            "id": 1000528,
+                            "description": "White Choc Macadamia",
+                            "priceTotal": "1.50",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10563.png",
+                            "range": "",
+                            "productRange": 8015,
+                            "kjTotal": "970 kj",
+                            "isSelected": false,
+                            "defaultSelection": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4873,
+                    "description": "Cookie 2",
+                    "component": "radioList",
+                    "mealDealId": 339,
+                    "minQuantity": 1,
+                    "maxQuantity": 1,
+                    "options": [
+                        {
+                            "id": 1000526,
+                            "description": "Rainbow",
+                            "priceTotal": "1.50",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10561.png",
+                            "range": "",
+                            "productRange": 4863,
+                            "kjTotal": "884 kj",
+                            "isSelected": false,
+                            "defaultSelection": false
+                        },
+                        {
+                            "id": 1000524,
+                            "description": "Choc Chip",
+                            "priceTotal": "1.50",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10559.png",
+                            "range": "",
+                            "productRange": 8009,
+                            "kjTotal": "955 kj",
+                            "isSelected": false,
+                            "defaultSelection": false
+                        },
+                        {
+                            "id": 1000525,
+                            "description": "Double Choc",
+                            "priceTotal": "1.50",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10560.png",
+                            "range": "",
+                            "productRange": 8011,
+                            "kjTotal": "886 kj",
+                            "isSelected": false,
+                            "defaultSelection": false
+                        },
+                        {
+                            "id": 1000527,
+                            "description": "Raspberry Cheesecake",
+                            "priceTotal": "1.50",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10562.png",
+                            "range": "",
+                            "productRange": 8013,
+                            "kjTotal": "853 kj",
+                            "isSelected": false,
+                            "defaultSelection": false
+                        },
+                        {
+                            "id": 1000528,
+                            "description": "White Choc Macadamia",
+                            "priceTotal": "1.50",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10563.png",
+                            "range": "",
+                            "productRange": 8015,
+                            "kjTotal": "970 kj",
+                            "isSelected": false,
+                            "defaultSelection": false
+                        }
+                    ]
+                },
+                {
                     "id": 4085,
                     "description": "Cookie 1",
                     "component": "radioList",
@@ -60349,5 +60534,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Mon, 08 Jul 2024 04:56:49 GMT"
+    "cached_at": "Mon, 08 Jul 2024 05:50:14 GMT"
 }
