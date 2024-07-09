@@ -265,17 +265,6 @@
                                     ],
                                     "options": [
                                         {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
                                             "id": 1000182,
                                             "description": "Weak",
                                             "priceTotal": "0.00",
@@ -617,17 +606,6 @@
                                         1000043
                                     ],
                                     "options": [
-                                        {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
                                         {
                                             "id": 1000182,
                                             "description": "Weak",
@@ -971,17 +949,6 @@
                                     ],
                                     "options": [
                                         {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
                                             "id": 1000182,
                                             "description": "Weak",
                                             "priceTotal": "0.00",
@@ -1267,17 +1234,6 @@
                                         1000178
                                     ],
                                     "options": [
-                                        {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
                                         {
                                             "id": 1000182,
                                             "description": "Weak",
@@ -1636,17 +1592,6 @@
                                     ],
                                     "options": [
                                         {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
                                             "id": 1000182,
                                             "description": "Weak",
                                             "priceTotal": "0.00",
@@ -1988,17 +1933,6 @@
                                         1000047
                                     ],
                                     "options": [
-                                        {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
                                         {
                                             "id": 1000182,
                                             "description": "Weak",
@@ -2654,17 +2588,6 @@
                                     ],
                                     "options": [
                                         {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
                                             "id": 1000182,
                                             "description": "Weak",
                                             "priceTotal": "0.00",
@@ -2906,17 +2829,6 @@
                                         1000011
                                     ],
                                     "options": [
-                                        {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
                                         {
                                             "id": 1000182,
                                             "description": "Weak",
@@ -3218,17 +3130,6 @@
                                         1000013
                                     ],
                                     "options": [
-                                        {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
                                         {
                                             "id": 1000182,
                                             "description": "Weak",
@@ -3541,17 +3442,6 @@
                                         1000012
                                     ],
                                     "options": [
-                                        {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
                                         {
                                             "id": 1000182,
                                             "description": "Weak",
@@ -4794,17 +4684,6 @@
                                     ],
                                     "options": [
                                         {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
                                             "id": 1000182,
                                             "description": "Weak",
                                             "priceTotal": "0.00",
@@ -5033,17 +4912,6 @@
                                         1002202
                                     ],
                                     "options": [
-                                        {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
                                         {
                                             "id": 1000182,
                                             "description": "Weak",
@@ -5947,17 +5815,6 @@
                                     ],
                                     "options": [
                                         {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
                                             "id": 1000182,
                                             "description": "Weak",
                                             "priceTotal": "0.00",
@@ -6191,17 +6048,6 @@
                                         1000195
                                     ],
                                     "options": [
-                                        {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
                                         {
                                             "id": 1000182,
                                             "description": "Weak",
@@ -7265,17 +7111,6 @@
                                         1001204
                                     ],
                                     "options": [
-                                        {
-                                            "id": 1000001,
-                                            "description": "Extra Single Espresso Shot",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Extra Single Espresso Shot",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
                                         {
                                             "id": 1000182,
                                             "description": "Weak",
@@ -14007,5 +13842,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Tue, 09 Jul 2024 03:14:21 GMT"
+    "cached_at": "Tue, 09 Jul 2024 03:32:21 GMT"
 }
