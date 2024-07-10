@@ -11652,10 +11652,26 @@
                             "shortDescription": "Single Oprego, 1/4 Chicken with Basting, Small Chips.",
                             "priceTotal": "15.95",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/MealDeal/MealDeal_175.png",
-                            "hasMealDeal": false,
+                            "hasMealDeal": true,
                             "loyalty_enabled": 0,
                             "keywords": "",
-                            "data": []
+                            "data": [
+                                {
+                                    "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 332,
+                                            "description": "Chicken & Oprego Value Box",
+                                            "priceTotal": "15.95",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "mustHaveMealDeal": true
                         },
                         {
                             "id": 1000371,
@@ -12216,10 +12232,26 @@
                             "shortDescription": "A whole succulent chicken, flame grilled flat and brush basted with your choice of Original Chilli, Extremo Picante or Lemon & Herb sauce, family chips, choice of Share Side and a 1.25L Soft Drink.",
                             "priceTotal": "29.95",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/MealDeal/MealDeal_174.png",
-                            "hasMealDeal": false,
+                            "hasMealDeal": true,
                             "loyalty_enabled": 0,
                             "keywords": "",
-                            "data": []
+                            "data": [
+                                {
+                                    "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 331,
+                                            "description": "Whole Chicken Feast",
+                                            "priceTotal": "0.00",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "mustHaveMealDeal": true
                         },
                         {
                             "id": 1003284,
@@ -17094,166 +17126,7 @@
                     ]
                 }
             ],
-            "mealDealAddOns": [
-                {
-                    "id": 7815,
-                    "description": "Whole Chicken",
-                    "component": "radioList",
-                    "mealDealId": 329,
-                    "minQuantity": 1,
-                    "maxQuantity": 1,
-                    "options": [
-                        {
-                            "id": 1000377,
-                            "description": "Whole Chicken",
-                            "priceTotal": "19.75",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10411.png",
-                            "range": "",
-                            "kjTotal": "5660 kj",
-                            "isSelected": false,
-                            "defaultSelection": false,
-                            "productRange": "Whole Chicken"
-                        }
-                    ]
-                },
-                {
-                    "id": 7817,
-                    "description": "Basting",
-                    "component": "radioList",
-                    "mealDealId": 329,
-                    "minQuantity": 1,
-                    "maxQuantity": 1,
-                    "options": [
-                        {
-                            "id": 1002797,
-                            "description": "No Basting",
-                            "priceTotal": "0.00",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://app2.ontherun.com.au/images/icons/no_image.png",
-                            "range": "",
-                            "productRange": 7823,
-                            "isSelected": false,
-                            "defaultSelection": false
-                        },
-                        {
-                            "id": 1000364,
-                            "description": "Chilli Basting - Add",
-                            "priceTotal": "0.00",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://app2.ontherun.com.au/images/icons/no_image.png",
-                            "range": "",
-                            "isSelected": false,
-                            "defaultSelection": false,
-                            "productRange": "Chilli Basting"
-                        },
-                        {
-                            "id": 1000367,
-                            "description": "Lemon & Herb Basting - Add",
-                            "priceTotal": "0.00",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://app2.ontherun.com.au/images/icons/no_image.png",
-                            "range": "",
-                            "isSelected": false,
-                            "defaultSelection": false,
-                            "productRange": "Lemon & Herb Basting"
-                        },
-                        {
-                            "id": 1001006,
-                            "description": "Extremo Picante Basting - Add",
-                            "priceTotal": "0.00",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://app2.ontherun.com.au/images/icons/no_image.png",
-                            "range": "",
-                            "isSelected": false,
-                            "defaultSelection": false,
-                            "productRange": "Picante Basting"
-                        }
-                    ]
-                },
-                {
-                    "id": 7825,
-                    "description": "Share Side",
-                    "component": "radioList",
-                    "mealDealId": 329,
-                    "minQuantity": 1,
-                    "maxQuantity": 1,
-                    "options": [
-                        {
-                            "id": 1000390,
-                            "description": "Spicy Rice - Share",
-                            "priceTotal": "6.75",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10425.png",
-                            "range": "",
-                            "productRange": 7825,
-                            "kjTotal": "190 kj",
-                            "isSelected": false,
-                            "defaultSelection": false
-                        },
-                        {
-                            "id": 1000393,
-                            "description": "Seasoned Grilled Corn - Share",
-                            "priceTotal": "6.75",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10428.png",
-                            "range": "",
-                            "productRange": 7827,
-                            "kjTotal": "720 kj",
-                            "isSelected": false,
-                            "defaultSelection": false
-                        },
-                        {
-                            "id": 1000394,
-                            "description": "Crunchy Slaw - Share",
-                            "priceTotal": "6.75",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10429.png",
-                            "range": "",
-                            "productRange": 7829,
-                            "kjTotal": "390 kj",
-                            "isSelected": false,
-                            "defaultSelection": false
-                        },
-                        {
-                            "id": 1000401,
-                            "description": "Portuguese Salad - Share",
-                            "priceTotal": "6.75",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10436.png",
-                            "range": "",
-                            "productRange": 7833,
-                            "kjTotal": "230 kj",
-                            "isSelected": false,
-                            "defaultSelection": false
-                        },
-                        {
-                            "id": 1002986,
-                            "description": "Edamame & Kale Share",
-                            "priceTotal": "6.75",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13037.png",
-                            "range": "",
-                            "productRange": 7835,
-                            "kjTotal": "1130 kj",
-                            "isSelected": false,
-                            "defaultSelection": false
-                        },
-                        {
-                            "id": 1000400,
-                            "description": "Family Chips",
-                            "priceTotal": "8.50",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10435.png",
-                            "range": "",
-                            "kjTotal": "7550 kj",
-                            "isSelected": false,
-                            "defaultSelection": false,
-                            "productRange": "Chips"
-                        }
-                    ]
-                }
-            ]
+            "mealDealAddOns": []
         },
         {
             "id": 20,
@@ -21119,5 +20992,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Wed, 10 Jul 2024 01:34:13 GMT"
+    "cached_at": "Wed, 10 Jul 2024 01:34:45 GMT"
 }

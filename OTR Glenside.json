@@ -14299,10 +14299,26 @@
                             "shortDescription": "RappSnacker, 2 Crispy Chicken Strips, with snack Chips and your choice of dipping sauce.",
                             "priceTotal": "9.95",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/MealDeal/MealDeal_167.png",
-                            "hasMealDeal": false,
+                            "hasMealDeal": true,
                             "loyalty_enabled": 0,
                             "keywords": "",
-                            "data": []
+                            "data": [
+                                {
+                                    "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 326,
+                                            "description": "RappSnacker Value Box",
+                                            "priceTotal": "0.00",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "mustHaveMealDeal": true
                         },
                         {
                             "id": 1001214,
@@ -20974,5 +20990,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Wed, 10 Jul 2024 01:33:44 GMT"
+    "cached_at": "Wed, 10 Jul 2024 01:34:15 GMT"
 }
