@@ -9546,7 +9546,7 @@
                             "name": "Caramel Thickshake",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11254.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -9558,7 +9558,7 @@
                             "name": "Chocolate Thickshake",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10625.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -9570,7 +9570,7 @@
                             "name": "Strawberry Thickshake",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10626.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -9588,7 +9588,7 @@
                             "name": "Caramel Milkshake",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11253.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -9600,7 +9600,7 @@
                             "name": "Chocolate Milkshake",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10620.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -9612,7 +9612,7 @@
                             "name": "Strawberry Milkshake",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10621.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -9707,7 +9707,7 @@
                         {
                             "id": 1000583,
                             "description": "Chocolate Milkshake",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "priceIncrement": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10620.png",
                             "range": "",
@@ -9718,7 +9718,7 @@
                         {
                             "id": 1000584,
                             "description": "Strawberry Milkshake",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "priceIncrement": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10621.png",
                             "range": "",
@@ -9729,7 +9729,7 @@
                         {
                             "id": 1000588,
                             "description": "Chocolate Thickshake",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "priceIncrement": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10625.png",
                             "range": "",
@@ -9740,7 +9740,7 @@
                         {
                             "id": 1000589,
                             "description": "Strawberry Thickshake",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "priceIncrement": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10626.png",
                             "range": "",
@@ -9751,7 +9751,7 @@
                         {
                             "id": 1001202,
                             "description": "Caramel Milkshake",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "priceIncrement": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11253.png",
                             "range": "",
@@ -9762,7 +9762,7 @@
                         {
                             "id": 1001201,
                             "description": "Caramel Thickshake",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "priceIncrement": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11254.png",
                             "range": "",
@@ -13567,5 +13567,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Sun, 14 Jul 2024 15:10:39 GMT"
+    "cached_at": "Sun, 14 Jul 2024 18:32:00 GMT"
 }
