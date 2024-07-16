@@ -1,4 +1,4 @@
-name: Run Python Script
+name: Run Python Script - Prod
 
 on:
   schedule:
