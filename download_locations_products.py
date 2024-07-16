@@ -9,14 +9,14 @@ from dateutil import parser
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # URLs and endpoints
-list_locations_url = "https://app2.ontherun.com.au/api/v2/listLocations"
-list_products_url = "https://app2.ontherun.com.au/api/v2/listOrderingEnabledBrandProductsFull"
-login_url = "https://app2.ontherun.com.au/api/v2/login"
+list_locations_url = "https://app-test.ontherun.com.au/api/v2/listLocations"
+list_products_url = "https://app-test.ontherun.com.au/api/v2/listOrderingEnabledBrandProductsFull"
+login_url = "https://app-test.ontherun.com.au/api/v2/login"
 
 # Environment variables
 email = os.getenv('EMAIL')
 password = os.getenv('PASSWORD')
-auth_token = os.getenv('AUTH_TOKEN')
+auth_token = os.getenv('AUTH_TOKEN_UAT')
 repo = os.getenv('REPO')
 gh_pat = os.getenv('GH_PAT')
 
