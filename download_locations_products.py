@@ -82,7 +82,7 @@ def login():
         data = response.json()
         if data.get("status") == 1 and "auth_token" in data:
             new_auth_token = data["auth_token"]
-            update_github_secret("AUTH_TOKEN", new_auth_token)
+            update_github_secret("AUTH_TOKEN_PROD", new_auth_token)
             return new_auth_token
     logging.error(f"Login failed: {response.text}")
     return None
