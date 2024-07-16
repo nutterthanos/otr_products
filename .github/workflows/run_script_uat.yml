@@ -1,4 +1,4 @@
-name: Run Python Script - UAT
+name: Run Python Script
 
 on:
   schedule:
@@ -29,7 +29,7 @@ jobs:
         env:
           EMAIL: ${{ secrets.EMAIL }}
           PASSWORD: ${{ secrets.PASSWORD }}
-          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN_PROD }}
+          AUTH_TOKEN_PROD: ${{ secrets.AUTH_TOKEN_PROD }}
           AUTH_TOKEN_UAT: ${{ secrets.AUTH_TOKEN_UAT }}
           GH_PAT: ${{ secrets.GH_PAT }}
           REPO: ${{ github.repository }}
@@ -43,6 +43,6 @@ jobs:
           git config --local user.name "GitHub Action"
           git add .
           git commit -m "Updated products listings as of $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-          git push origin ${{ github.ref }}
+          git push origin uat
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
