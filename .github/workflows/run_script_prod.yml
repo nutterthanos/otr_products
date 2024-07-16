@@ -13,12 +13,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3.5.2
+        uses: actions/checkout@v2
         with:
           ref: prod  # Ensure we're checking out the prod branch
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v2
         with:
           python-version: '3.x'
 
@@ -32,6 +32,7 @@ jobs:
           EMAIL: ${{ secrets.EMAIL }}
           PASSWORD: ${{ secrets.PASSWORD }}
           AUTH_TOKEN: ${{ secrets.AUTH_TOKEN_PROD }}
+          AUTH_TOKEN_UAT: ${{ secrets.AUTH_TOKEN_UAT }}
           GH_PAT: ${{ secrets.GH_PAT }}
           REPO: ${{ github.repository }}
         run: |
