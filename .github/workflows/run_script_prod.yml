@@ -1,6 +1,9 @@
 name: Run Python Script - Prod
 
 on:
+  push:
+    branches:
+      - prod
   schedule:
     - cron: '0 */1 * * *'
   workflow_dispatch:
