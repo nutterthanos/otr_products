@@ -20,6 +20,11 @@ auth_token = os.getenv('AUTH_TOKEN_PROD')
 repo = os.getenv('REPO')
 gh_pat = os.getenv('GH_PAT')
 
+# Check if environment variables are set
+if not all([email, password, auth_token, repo, gh_pat]):
+    logging.error("One or more environment variables are not set. Please check your GitHub Secrets.")
+    exit(1)
+
 # Payloads
 locations_payloads = [
     {"ordering_enabled": "0", "api_key": None, "client_version": "3.7.160", "client_os": None, "auth_token": auth_token},
@@ -32,13 +37,12 @@ def update_github_secret(secret_name, secret_value):
         "Authorization": f"token {gh_pat}",
         "Accept": "application/vnd.github.v3+json"
     }
-    # Get the public key
     response = requests.get(f"https://api.github.com/repos/{repo}/actions/secrets/public-key", headers=headers)
     if response.status_code == 200:
         public_key = response.json()
         key_id = public_key['key_id']
         public_key_value = public_key['key']
-        
+
         from base64 import b64encode
         from nacl import encoding, public
 
@@ -47,9 +51,9 @@ def update_github_secret(secret_name, secret_value):
             sealed_box = public.SealedBox(public_key)
             encrypted = sealed_box.encrypt(secret_value.encode("utf-8"))
             return b64encode(encrypted).decode("utf-8")
-        
+
         encrypted_value = encrypt(public_key_value, secret_value)
-        
+
         data = {
             "encrypted_value": encrypted_value,
             "key_id": key_id
@@ -153,38 +157,3 @@ def fetch_products(location_ids):
             if response.json().get("status") == 6:
                 logging.debug("Auth token expired, attempting to login")
                 new_auth_token = login()
-                if new_auth_token:
-                    payload["auth_token"] = new_auth_token
-                    logging.debug(f"Retrying request to {list_products_url} with new auth token for location_id {location_id}")
-                    response = requests.post(list_products_url, json=payload)
-                    logging.debug(f"Retry response status code: {response.status_code}")
-                    logging.debug(f"Retry response data: {response.text}")
-                    if response.status_code == 200:
-                        data = response.json()
-                        if "location" in data and "name" in data["location"]:
-                            location_name = data["location"]["name"]
-                            file_name = f"{location_name}.json"
-                            logging.debug(f"Saving data to {file_name}")
-                            if not os.path.exists(file_name) or parser.parse(data['cached_at']) > parser.parse(json.load(open(file_name))['cached_at']):
-                                with open(file_name, 'w') as f:
-                                    json.dump(data, f, indent=4)
-                            else:
-                                logging.debug(f"Data for {location_name} is not newer, skipping.")
-                    else:
-                        logging.error(f"Retry failed: {response.status_code} - {response.text}")
-
-def main():
-    logging.debug("Starting the download locations and products script")
-    locations_data = fetch_locations()
-    if locations_data:
-        location_ids = set()
-        for key, data in locations_data.items():
-            for location in data.get('locations', []):
-                location_ids.add(location['location_id'])
-        logging.debug(f"Fetched location IDs: {location_ids}")
-        fetch_products(location_ids)
-    else:
-        logging.error("Failed to fetch locations data")
-
-if __name__ == "__main__":
-    main()
