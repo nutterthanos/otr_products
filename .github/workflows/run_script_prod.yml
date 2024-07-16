@@ -1,9 +1,6 @@
 name: Run Python Script - Prod
 
 on:
-  push:
-    branches:
-      - prod
   schedule:
     - cron: '0 */1 * * *'
   workflow_dispatch:
@@ -47,6 +44,6 @@ jobs:
           git config --local user.name "GitHub Action"
           git add .
           git commit -m "Updated products listings as of $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-          git push origin prod
+          git push origin ${{ github.ref }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
