@@ -9,9 +9,13 @@ jobs:
   run-script:
     runs-on: ubuntu-latest
 
+    if: github.ref == 'refs/heads/prod'
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          ref: prod  # Ensure we're checking out the prod branch
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -40,6 +44,6 @@ jobs:
           git config --local user.name "GitHub Action"
           git add .
           git commit -m "Updated products listings as of $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-          git push
+          git push origin prod
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
