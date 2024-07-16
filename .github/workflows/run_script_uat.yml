@@ -1,6 +1,9 @@
 name: Run Python Script - UAT
 
 on:
+  push:
+    branches:
+      - uat
   schedule:
     - cron: '0 */1 * * *'
   workflow_dispatch:
