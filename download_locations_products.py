@@ -16,7 +16,7 @@ login_url = "https://app2.ontherun.com.au/api/v2/login"
 # Environment variables
 email = os.getenv('EMAIL')
 password = os.getenv('PASSWORD')
-auth_token = os.getenv('AUTH_TOKEN')
+auth_token = os.getenv('AUTH_TOKEN_PROD')
 repo = os.getenv('REPO')
 gh_pat = os.getenv('GH_PAT')
 
