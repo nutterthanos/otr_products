@@ -1,8 +1,6 @@
 name: Run Python Script
 
 on:
-  schedule:
-    - cron: '0 */1 * * *'
   workflow_dispatch:
 
 jobs:
@@ -29,8 +27,7 @@ jobs:
         env:
           EMAIL: ${{ secrets.EMAIL }}
           PASSWORD: ${{ secrets.PASSWORD }}
-          AUTH_TOKEN_PROD: ${{ secrets.AUTH_TOKEN_PROD }}
-          AUTH_TOKEN_UAT: ${{ secrets.AUTH_TOKEN_UAT }}
+          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN_UAT }}
           GH_PAT: ${{ secrets.GH_PAT }}
           REPO: ${{ github.repository }}
         run: |
