@@ -20,11 +20,6 @@ auth_token = os.getenv('AUTH_TOKEN_PROD')
 repo = os.getenv('REPO')
 gh_pat = os.getenv('GH_PAT')
 
-# Check if environment variables are set
-if not all([email, password, auth_token, repo, gh_pat]):
-    logging.error("One or more environment variables are not set. Please check your GitHub Secrets.")
-    exit(1)
-
 # Payloads
 locations_payloads = [
     {"ordering_enabled": "0", "api_key": None, "client_version": "3.7.160", "client_os": None, "auth_token": auth_token},
