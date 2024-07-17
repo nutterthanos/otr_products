@@ -11085,11 +11085,11 @@
                             "id": 4448945,
                             "name": "Halloumi & Chicken Burger",
                             "range": "Halloumi Chicken",
-                            "description": "Grilled halloumi, grilled chicken breast fillet, creamy mayo, mixed lettuce leaves, crisp lettuce, dry slaw with a tomato & capsicum relish all on a premium soft bun",
-                            "shortDescription": "Grilled halloumi, grilled chicken breast fillet, creamy mayo, mixed lettuce leaves, crisp lettuce, dry slaw with a tomato & capsicum relish all on a premium soft bun",
-                            "priceTotal": "13.25",
+                            "description": "Grilled halloumi, grilled chicken breast fillet, creamy mayo, mixed lettuce leaves, crisp lettuce, slaw mix with a tomato & capsicum relish.",
+                            "shortDescription": "Grilled halloumi, grilled chicken breast fillet, creamy mayo, mixed lettuce leaves, crisp lettuce, slaw mix with a tomato & capsicum relish.",
+                            "priceTotal": "13.30",
                             "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
-                            "kjTotal": "3590 kj",
+                            "kjTotal": "2930 kj",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
@@ -11121,6 +11121,15 @@
                                             "isSelected": false,
                                             "defaultSelection": false,
                                             "productRange": "Avocado",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4450474,
+                                            "description": "Mesculin Salad",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Mesculin Salad - Oporto",
                                             "kjTotal": 0
                                         },
                                         {
@@ -11197,6 +11206,15 @@
                                             "defaultSelection": false,
                                             "productRange": "Prego Sauce",
                                             "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4450476,
+                                            "description": "Tomato & Capsicum Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Tomato & Capsicum Sauce - Oporto",
+                                            "kjTotal": 0
                                         }
                                     ]
                                 },
@@ -11222,11 +11240,11 @@
                                         {
                                             "id": 4448945,
                                             "description": "Halloumi & Chicken Burger",
-                                            "rangeDescription": "Grilled halloumi, grilled chicken breast fillet, creamy mayo, mixed lettuce leaves, crisp lettuce, dry slaw with a tomato & capsicum relish all on a premium soft bun",
-                                            "priceTotal": "13.25",
+                                            "rangeDescription": "Grilled halloumi, grilled chicken breast fillet, creamy mayo, mixed lettuce leaves, crisp lettuce, slaw mix with a tomato & capsicum relish.",
+                                            "priceTotal": "13.30",
                                             "isSelected": true,
                                             "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
-                                            "kjTotal": "3590 kj",
+                                            "kjTotal": "2930 kj",
                                             "hasMealDeal": true,
                                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August"
                                         }
@@ -15344,6 +15362,15 @@
                                     ],
                                     "options": [
                                         {
+                                            "id": 4450530,
+                                            "description": "Edamame & Kale",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Edamame & Kale - Minus",
+                                            "kjTotal": 0
+                                        },
+                                        {
                                             "id": 4450474,
                                             "description": "Mesculin Salad",
                                             "priceTotal": "0.00",
@@ -15570,6 +15597,15 @@
                                     ],
                                     "options": [
                                         {
+                                            "id": 4450530,
+                                            "description": "Edamame & Kale",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Edamame & Kale - Minus",
+                                            "kjTotal": 0
+                                        },
+                                        {
                                             "id": 4450474,
                                             "description": "Mesculin Salad",
                                             "priceTotal": "0.00",
@@ -15692,22 +15728,101 @@
                         {
                             "id": 4449411,
                             "name": "Halloumi & Chicken Rappa",
-                            "description": "Grilled halloumi, grilled chicken breast fillets, mixed lettuce leaves, slaw mix, avocado, creamy mayo with a tomato and capsicum relish \u2013 all in a warm pita bread wrap.",
-                            "shortDescription": "Grilled halloumi, grilled chicken breast fillets, mixed lettuce leaves, slaw mix, avocado, creamy mayo with a tomato and capsicum relish \u2013 all in a warm pita bread wrap.",
-                            "priceTotal": "13.25",
+                            "range": "Halloumi Rappa",
+                            "description": "Grilled halloumi, grilled chicken breast fillets, mixed lettuce leaves, crisp lettuce, slaw mix, creamy mayo with a tomato & capsicum relish \u2013 all in a warm pita bread wrap.",
+                            "shortDescription": "Grilled halloumi, grilled chicken breast fillets, mixed lettuce leaves, crisp lettuce, slaw mix, creamy mayo with a tomato & capsicum relish \u2013 all in a warm pita bread wrap.",
+                            "priceTotal": "13.30",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12349.png",
-                            "kjTotal": "3190 kj",
+                            "kjTotal": "2710 kj",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": [
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 4449411,
+                                            "description": "Halloumi & Chicken Rappa",
+                                            "rangeDescription": "Grilled halloumi, grilled chicken breast fillets, mixed lettuce leaves, crisp lettuce, slaw mix, creamy mayo with a tomato & capsicum relish \u2013 all in a warm pita bread wrap.",
+                                            "priceTotal": "13.30",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12349.png",
+                                            "kjTotal": "2710 kj",
+                                            "hasMealDeal": true,
+                                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August"
+                                        },
+                                        {
+                                            "id": 4449404,
+                                            "description": "Halloumi Rappa",
+                                            "rangeDescription": "Grilled halloumi, mixed lettuce leaves, crisp lettuce, slaw mix, creamy mayo with a tomato & capsicum relish \u2013 all in a warm pita bread wrap.",
+                                            "priceTotal": "13.30",
+                                            "isSelected": false,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12347.png",
+                                            "kjTotal": "2120 kj",
+                                            "hasMealDeal": true,
+                                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 11578,
+                                    "description": "Extras",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4449411,
+                                        4449404
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4450474,
+                                            "description": "Mesculin Salad",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Mesculin Salad - Oporto",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4447230,
+                                            "description": "Mayo",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Mayo",
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 284,
+                                            "description": "Oporto Meal Deal",
+                                            "priceTotal": "5.00",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                },
                                 {
                                     "id": 7383,
                                     "description": "Sauces",
                                     "component": "blank",
                                     "minQuantity": 0,
                                     "maxQuantity": 99,
+                                    "ranges": [
+                                        4449411,
+                                        4449404
+                                    ],
                                     "options": [
                                         {
                                             "id": 4447188,
@@ -15753,103 +15868,15 @@
                                             "defaultSelection": false,
                                             "productRange": "Prego Sauce",
                                             "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "mealDeals",
-                                    "component": "mealDealList",
-                                    "options": [
-                                        {
-                                            "id": 284,
-                                            "description": "Oporto Meal Deal",
-                                            "priceTotal": "5.00",
-                                            "shortName": "O",
-                                            "isSelected": true
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4449404,
-                            "name": "Halloumi Rappa",
-                            "description": "Grilled halloumi, mixed lettuce leaves, slaw mix, avocado, creamy mayo with a tomato and capsicum relish \u2013 all in a warm pita bread wrap.",
-                            "shortDescription": "Grilled halloumi, mixed lettuce leaves, slaw mix, avocado, creamy mayo with a tomato and capsicum relish \u2013 all in a warm pita bread wrap.",
-                            "priceTotal": "13.25",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12347.png",
-                            "kjTotal": "2120 kj",
-                            "hasMealDeal": true,
-                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 7382,
-                                    "description": "Sauces",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "options": [
-                                        {
-                                            "id": 4447188,
-                                            "description": "BBQ Sauce - Add",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "BBQ Sauce",
-                                            "kjTotal": 0
                                         },
                                         {
-                                            "id": 4447190,
-                                            "description": "Chilli Sauce - Add",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Chilli Sauce",
+                                            "id": 4450476,
+                                            "description": "Tomato & Capsicum Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Tomato & Capsicum Sauce - Oporto",
                                             "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4447192,
-                                            "description": "Lemon Herb Sauce - Add",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Lemon Herb Sauce",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448128,
-                                            "description": "Extremo Picante - Add",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Picante Sauce",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4447196,
-                                            "description": "Prego Sauce - Add",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Prego Sauce",
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "mealDeals",
-                                    "component": "mealDealList",
-                                    "options": [
-                                        {
-                                            "id": 284,
-                                            "description": "Oporto Meal Deal",
-                                            "priceTotal": "5.00",
-                                            "shortName": "O",
-                                            "isSelected": true
                                         }
                                     ]
                                 }
@@ -21703,12 +21730,12 @@
                             ]
                         },
                         {
-                            "id": 4447746,
+                            "id": 4447737,
                             "name": "Chicken, Avocado & Lettuce Sandwich",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "7.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10915.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10906.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
@@ -21730,12 +21757,12 @@
                             ]
                         },
                         {
-                            "id": 4449275,
+                            "id": 4449276,
                             "name": "Ham, Cheese & Tomato Sandwich",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "6.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12220.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12224.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
@@ -21758,12 +21785,12 @@
                             ]
                         },
                         {
-                            "id": 4449278,
+                            "id": 4449277,
                             "name": "Egg & Lettuce Sandwich",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "6.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12221.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12225.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
@@ -25008,5 +25035,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Tue, 16 Jul 2024 13:32:57 GMT"
+    "cached_at": "Wed, 17 Jul 2024 02:24:21 GMT"
 }
