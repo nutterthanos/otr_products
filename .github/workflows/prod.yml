@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
-          ref: prod
+          ref: prod  # Ensure we're checking out the uat branch
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -36,7 +36,7 @@ jobs:
           python download_locations_products.py
 
       - name: Commit and push changes
-        if: success()
+        if: success()  # Only run this step if the previous steps were successful
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
