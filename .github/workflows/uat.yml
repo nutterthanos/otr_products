@@ -27,7 +27,7 @@ jobs:
         env:
           EMAIL: ${{ secrets.EMAIL }}
           PASSWORD: ${{ secrets.PASSWORD }}
-          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN_UAT }}
+          AUTH_TOKEN_UAT: ${{ secrets.AUTH_TOKEN_UAT }}
           GH_PAT: ${{ secrets.GH_PAT }}
           REPO: ${{ github.repository }}
         run: |
