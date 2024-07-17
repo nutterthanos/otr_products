@@ -31,14 +31,14 @@ jobs:
         env:
           EMAIL: ${{ secrets.EMAIL }}
           PASSWORD: ${{ secrets.PASSWORD }}
-          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN_PROD }}
+          AUTH_TOKEN_PROD: ${{ secrets.AUTH_TOKEN_PROD }}
           GH_PAT: ${{ secrets.GH_PAT }}
           REPO: ${{ github.repository }}
         run: |
           python download_locations_products.py
 
       - name: Commit and push changes
-        if: success()  # Only run this step if the previous steps were successful
+        if: success()
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -47,9 +47,8 @@ jobs:
           git push origin prod
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
       - name: Trigger workflow on UAT branch
-                
         run: |
           curl -X POST \
             -H "Accept: application/vnd.github.v3+json" \
