@@ -9460,12 +9460,24 @@
                     "name": "Dozens",
                     "products": [
                         {
+                            "id": 4450532,
+                            "name": "Passport to Paris Dozen",
+                            "description": "2 x Raspberry & Vanilla Cr\u00e8me, 2 x Cr\u00e8me Brulee, 2 x Double Chocolate \u00c9clair, 2 x Napoleon, and 4 x Original Glazed\u00ae doughnuts.",
+                            "shortDescription": "2 x Raspberry & Vanilla Cr\u00e8me, 2 x Cr\u00e8me Brulee, 2 x Double Chocolate \u00c9clair, 2 x Napoleon, and 4 x Original Glazed\u00ae doughnuts.",
+                            "priceTotal": "28.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13395.png",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
                             "id": 4450510,
                             "name": "Birthday Dozen",
                             "description": "8 x Birthday doughnuts and 4 x Original Glazed\u00ae doughnuts.",
                             "shortDescription": "8 x Birthday doughnuts and 4 x Original Glazed\u00ae doughnuts.",
                             "priceTotal": "28.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13373.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -10071,13 +10083,23 @@
                     "name": "Singles",
                     "products": [
                         {
-                            "id": 4450473,
-                            "name": "Strawberry Sprinkle",
-                            "description": "Our Original Glazed\u00ae ring is dipped in strawberry truffle icing and then topped with colorful sprinkles.",
-                            "shortDescription": "Our Original Glazed\u00ae ring is dipped in strawberry truffle icing and then topped with colorful sprinkles.",
-                            "priceTotal": "3.50",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13334.png",
-                            "hasMealDeal": false,
+                            "id": 4450538,
+                            "name": "Napoleon",
+                            "description": "Dipped in white icing, filled with vanilla custard, topped with a drizzle of chocolate ganache and flaky biscuit crumbs.",
+                            "shortDescription": "Dipped in white icing, filled with vanilla custard, topped with a drizzle of chocolate ganache and flaky biscuit crumbs.",
+                            "priceTotal": "3.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13394.png",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 4450537,
+                            "name": "Cr\u00e8me Brulee",
+                            "description": "Dipped in caramel truffle icing, filled with custard, topped with caramelised sugar crunch and a caramel drizzle.",
+                            "shortDescription": "Dipped in caramel truffle icing, filled with custard, topped with caramelised sugar crunch and a caramel drizzle.",
+                            "priceTotal": "3.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13392.png",
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -10096,12 +10118,47 @@
                             "data": []
                         },
                         {
+                            "id": 4450536,
+                            "name": "Raspberry & Vanilla Cr\u00e8me",
+                            "description": "Dipped in raspberry icing, drizzled with raspberry curd, and topped with a swirl of vanilla cr\u00e8me and cookie pieces.",
+                            "shortDescription": "Dipped in raspberry icing, drizzled with raspberry curd, and topped with a swirl of vanilla cr\u00e8me and cookie pieces.",
+                            "priceTotal": "3.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13391.png",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 4450473,
+                            "name": "Strawberry Sprinkle",
+                            "description": "Our Original Glazed\u00ae ring is dipped in strawberry truffle icing and then topped with colorful sprinkles.",
+                            "shortDescription": "Our Original Glazed\u00ae ring is dipped in strawberry truffle icing and then topped with colorful sprinkles.",
+                            "priceTotal": "3.50",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13334.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
                             "id": 4450512,
                             "name": "Birthday",
                             "description": "Dipped in white truffle icing, filled with vanilla kreme, and decorated with rainbow sprinkles & a drizzle of icing.",
                             "shortDescription": "Dipped in white truffle icing, filled with vanilla kreme, and decorated with rainbow sprinkles & a drizzle of icing.",
                             "priceTotal": "3.95",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13374.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 4450531,
+                            "name": "Double Chocolate \u00c9clair",
+                            "description": "Dipped in chocolate ganache, filled with chocolate custard, drizzled with milk choc ganache, and topped with chocolate crisp pearls.",
+                            "shortDescription": "Dipped in chocolate ganache, filled with chocolate custard, drizzled with milk choc ganache, and topped with chocolate crisp pearls.",
+                            "priceTotal": "3.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13393.png",
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -10691,5 +10748,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Wed, 17 Jul 2024 05:07:58 GMT"
+    "cached_at": "Fri, 19 Jul 2024 01:51:28 GMT"
 }

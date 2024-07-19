@@ -10028,61 +10028,6 @@
                             ]
                         },
                         {
-                            "id": 4450249,
-                            "name": "Sausage Roll Egg & Bacon",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "3.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13122.png",
-                            "hasMealDeal": true,
-                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 10084,
-                                    "description": "Sauces",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "options": [
-                                        {
-                                            "id": 4450237,
-                                            "description": "Squeeze Bbq Sauce",
-                                            "priceTotal": "0.30",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 86465,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448122,
-                                            "description": "Squeeze Tomato Sauce",
-                                            "priceTotal": "0.30",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 86464,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "mealDeals",
-                                    "component": "mealDealList",
-                                    "options": [
-                                        {
-                                            "id": 191,
-                                            "description": "EAT Add a drink",
-                                            "priceTotal": "0.00",
-                                            "shortName": "O",
-                                            "isSelected": true
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
                             "id": 4450222,
                             "name": "Traveller Burrito Pie",
                             "description": "",
@@ -10117,6 +10062,61 @@
                                             "isSelected": false,
                                             "defaultSelection": false,
                                             "productRange": 86426,
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 191,
+                                            "description": "EAT Add a drink",
+                                            "priceTotal": "0.00",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4450249,
+                            "name": "Sausage Roll Egg & Bacon",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "3.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13122.png",
+                            "hasMealDeal": true,
+                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 10084,
+                                    "description": "Sauces",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "options": [
+                                        {
+                                            "id": 4450237,
+                                            "description": "Squeeze Bbq Sauce",
+                                            "priceTotal": "0.30",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 86465,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4448122,
+                                            "description": "Squeeze Tomato Sauce",
+                                            "priceTotal": "0.30",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 86464,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -10246,6 +10246,18 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "id": 4449607,
+                            "name": "2 for $5, Sausage Rolls",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.00",
+                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
                         },
                         {
                             "id": 4449819,
@@ -10453,5 +10465,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Wed, 17 Jul 2024 05:08:56 GMT"
+    "cached_at": "Fri, 19 Jul 2024 01:52:26 GMT"
 }

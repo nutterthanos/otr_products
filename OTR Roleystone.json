@@ -10062,6 +10062,61 @@
                             ]
                         },
                         {
+                            "id": 4450068,
+                            "name": "Chunky Angus Beef Pie",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "4.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12910.png",
+                            "hasMealDeal": true,
+                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 9470,
+                                    "description": "Sauces",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "options": [
+                                        {
+                                            "id": 4450237,
+                                            "description": "Squeeze Bbq Sauce",
+                                            "priceTotal": "0.30",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 86435,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4448122,
+                                            "description": "Squeeze Tomato Sauce",
+                                            "priceTotal": "0.30",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 75609,
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 191,
+                                            "description": "EAT Add a drink",
+                                            "priceTotal": "0.00",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
                             "id": 4450249,
                             "name": "Sausage Roll Egg & Bacon",
                             "description": "",
@@ -10151,61 +10206,6 @@
                                             "isSelected": false,
                                             "defaultSelection": false,
                                             "productRange": 91860,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "mealDeals",
-                                    "component": "mealDealList",
-                                    "options": [
-                                        {
-                                            "id": 191,
-                                            "description": "EAT Add a drink",
-                                            "priceTotal": "0.00",
-                                            "shortName": "O",
-                                            "isSelected": true
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4450068,
-                            "name": "Chunky Angus Beef Pie",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "4.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12910.png",
-                            "hasMealDeal": true,
-                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 9470,
-                                    "description": "Sauces",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "options": [
-                                        {
-                                            "id": 4450237,
-                                            "description": "Squeeze Bbq Sauce",
-                                            "priceTotal": "0.30",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 86435,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448122,
-                                            "description": "Squeeze Tomato Sauce",
-                                            "priceTotal": "0.30",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 75609,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -10360,6 +10360,18 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "id": 4449607,
+                            "name": "2 for $5, Sausage Rolls",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.00",
+                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
                         },
                         {
                             "id": 4449819,
@@ -10568,12 +10580,12 @@
                             ]
                         },
                         {
-                            "id": 4447737,
+                            "id": 4447746,
                             "name": "Chicken, Avocado & Lettuce Sandwich",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "7.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10906.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10915.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
@@ -10595,12 +10607,12 @@
                             ]
                         },
                         {
-                            "id": 4449276,
+                            "id": 4449275,
                             "name": "Ham, Cheese & Tomato Sandwich",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "6.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12224.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12220.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
@@ -10623,12 +10635,12 @@
                             ]
                         },
                         {
-                            "id": 4449277,
+                            "id": 4449278,
                             "name": "Egg & Lettuce Sandwich",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "6.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12225.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12221.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
@@ -13506,5 +13518,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Wed, 17 Jul 2024 05:08:43 GMT"
+    "cached_at": "Fri, 19 Jul 2024 01:52:10 GMT"
 }
