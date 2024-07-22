@@ -57846,17 +57846,6 @@
                                             "rewardDescription": "Buy 4 Footlong Sub, Large Salad or Large Wrap Combo, Get a Footlong Sub, Large Salad or Large Wrap Combo FREE"
                                         },
                                         {
-                                            "id": 1000420,
-                                            "description": "6 inch\u00ae",
-                                            "rangeDescription": "Made with premium bacon, a poached egg and a choice of cheese. Try it with spinach, onion, and BBQ sauce.",
-                                            "priceTotal": "5.00",
-                                            "isSelected": false,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10455.png",
-                                            "kjTotal": "1450 kj",
-                                            "hasMealDeal": true,
-                                            "rewardDescription": "Buy 4 6-inch Sub, Regular Wrap or Regular Salad Combo, Get a 6-inch Sub, Regular Wrap or Regular Salad Combo FREE"
-                                        },
-                                        {
                                             "id": 1000489,
                                             "description": "Bacon & Egg Wrap",
                                             "rangeDescription": "Made with premium bacon, a poached egg and a choice of cheese. Try it with spinach, onion, and BBQ sauce.",
@@ -58001,72 +57990,6 @@
                                     ]
                                 },
                                 {
-                                    "id": 849,
-                                    "description": "Add Ons",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        1000420
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 1000506,
-                                            "description": "Bacon",
-                                            "priceTotal": "1.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3768,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000508,
-                                            "description": "Beetroot",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3769,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001064,
-                                            "description": "Double Cheese",
-                                            "priceTotal": "0.75",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 8330,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000512,
-                                            "description": "Double Meat",
-                                            "priceTotal": "2.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3771,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000510,
-                                            "description": "Avocado",
-                                            "priceTotal": "1.25",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3770,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001561,
-                                            "description": "Pepperoni",
-                                            "priceTotal": "1.25",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 11396,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
                                     "id": "",
                                     "description": "mealDeals",
                                     "component": "mealDealList",
@@ -58124,54 +58047,6 @@
                                             "isSelected": false,
                                             "defaultSelection": false,
                                             "productRange": 15885,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 847,
-                                    "description": "Bread Varieties",
-                                    "component": "blank",
-                                    "minQuantity": 1,
-                                    "maxQuantity": 1,
-                                    "ranges": [
-                                        1000420
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 1000518,
-                                            "description": "White",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3766,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000516,
-                                            "description": "Italian Herb and Cheese",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3765,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1002191,
-                                            "description": "Wheat",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 20056,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001609,
-                                            "description": "Rye",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 14720,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -58258,27 +58133,6 @@
                                     ]
                                 },
                                 {
-                                    "id": 848,
-                                    "description": "Toasting",
-                                    "component": "switch",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        1000420
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 1000565,
-                                            "description": "Toasted",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3767,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
                                     "id": 1278,
                                     "description": "Cheeses",
                                     "component": "blank",
@@ -58313,45 +58167,6 @@
                                             "isSelected": false,
                                             "defaultSelection": false,
                                             "productRange": 15351,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 850,
-                                    "description": "Cheeses",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 1,
-                                    "ranges": [
-                                        1000420
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 1000521,
-                                            "description": "Mozzarella",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3773,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000522,
-                                            "description": "Old English",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3774,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001610,
-                                            "description": "Natural Cheddar",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 14721,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -58403,7 +58218,6 @@
                                     "maxQuantity": 99,
                                     "ranges": [
                                         1000444,
-                                        1000420,
                                         1000489
                                     ],
                                     "options": [
@@ -58585,144 +58399,6 @@
                                             "isSelected": false,
                                             "defaultSelection": false,
                                             "productRange": "Tomato",
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 852,
-                                    "description": "Sauces",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 2,
-                                    "ranges": [
-                                        1000420
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 1002650,
-                                            "description": "Sweet Chilli Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 28095,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000551,
-                                            "description": "Chipotle Southwest Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3788,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1002651,
-                                            "description": "Chilli Mayonnaise Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 28094,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000559,
-                                            "description": "Sweet Onion",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3796,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000553,
-                                            "description": "Honey Mustard",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3790,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000556,
-                                            "description": "Mayonnaise",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3793,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000560,
-                                            "description": "Tomato Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3797,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000557,
-                                            "description": "Ranch",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3794,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000555,
-                                            "description": "Marinara",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3792,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000549,
-                                            "description": "Thousand Island",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3786,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000552,
-                                            "description": "Garlic Aioli",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3789,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001577,
-                                            "description": "Blue Cheese Dressing",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 14724,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001611,
-                                            "description": "Habanero Hot Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 14723,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001575,
-                                            "description": "Smoky BBQ",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 14726,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -58999,36 +58675,6 @@
                                             "isSelected": false,
                                             "defaultSelection": false,
                                             "productRange": 15352,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 853,
-                                    "description": "Seasonings",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        1000420
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 1001615,
-                                            "description": "Rock Salt",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 14731,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001571,
-                                            "description": "Peppercorn",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 14730,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -60888,5 +60534,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Sun, 21 Jul 2024 22:53:44 GMT"
+    "cached_at": "Mon, 22 Jul 2024 01:32:29 GMT"
 }
