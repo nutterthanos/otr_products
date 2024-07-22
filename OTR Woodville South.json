@@ -9862,7 +9862,7 @@
                             "name": "Caramel Thickshake",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11254.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -9874,7 +9874,7 @@
                             "name": "Chocolate Thickshake",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10625.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -9885,7 +9885,7 @@
                             "name": "Strawberry Thickshake",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10626.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -9902,7 +9902,7 @@
                             "name": "Caramel Milkshake",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11253.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -9914,7 +9914,7 @@
                             "name": "Chocolate Milkshake",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10620.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -9925,7 +9925,7 @@
                             "name": "Strawberry Milkshake",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10621.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -10019,7 +10019,7 @@
                         {
                             "id": 4447454,
                             "description": "Chocolate Milkshake",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "priceIncrement": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10620.png",
                             "range": "",
@@ -10030,7 +10030,7 @@
                         {
                             "id": 4447455,
                             "description": "Strawberry Milkshake",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "priceIncrement": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10621.png",
                             "range": "",
@@ -10041,7 +10041,7 @@
                         {
                             "id": 4447459,
                             "description": "Chocolate Thickshake",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "priceIncrement": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10625.png",
                             "range": "",
@@ -10052,7 +10052,7 @@
                         {
                             "id": 4447460,
                             "description": "Strawberry Thickshake",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "priceIncrement": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10626.png",
                             "range": "",
@@ -10063,7 +10063,7 @@
                         {
                             "id": 4448263,
                             "description": "Caramel Milkshake",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "priceIncrement": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11253.png",
                             "range": "",
@@ -10074,7 +10074,7 @@
                         {
                             "id": 4448262,
                             "description": "Caramel Thickshake",
-                            "priceTotal": "5.00",
+                            "priceTotal": "4.00",
                             "priceIncrement": "4.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11254.png",
                             "range": "",
@@ -11895,6 +11895,7 @@
                             "shortDescription": "Ripe juicy cherries and moist coconut smothered in rich dark chocolate.",
                             "priceTotal": "2.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13377.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -11906,6 +11907,7 @@
                             "shortDescription": "",
                             "priceTotal": "4.49",
                             "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -11917,6 +11919,7 @@
                             "shortDescription": "Chocolate swirls and curls covered with Cadbury Dairy Milk chocolate.",
                             "priceTotal": "2.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13378.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -13992,5 +13995,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Sun, 21 Jul 2024 13:33:56 GMT"
+    "cached_at": "Mon, 22 Jul 2024 04:07:03 GMT"
 }
