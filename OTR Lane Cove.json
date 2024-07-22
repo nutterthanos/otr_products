@@ -11492,6 +11492,18 @@
                     "name": "Sweet & Salty Snacks",
                     "products": [
                         {
+                            "id": 4450470,
+                            "name": "Snickers Peanut Brownie King Bar",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "4.49",
+                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
                             "id": 4450347,
                             "name": "Violet Crumble Bar 30g",
                             "description": "",
@@ -11516,13 +11528,24 @@
                             "data": []
                         },
                         {
-                            "id": 4450470,
-                            "name": "Snickers Peanut Brownie King Bar",
+                            "id": 4450018,
+                            "name": "Nom Nom Cookie Choc Fudge",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "4.49",
-                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "priceTotal": "2.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12892.png",
                             "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 4450539,
+                            "name": "KitKat Original Chunky Gooey Caramel 48g",
+                            "description": "You know what to do, just click/tap and... Have a break, have a KITKAT.",
+                            "shortDescription": "You know what to do, just click/tap and... Have a break, have a KITKAT.",
+                            "priceTotal": "2.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13398.png",
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -11534,18 +11557,6 @@
                             "shortDescription": "Chocolate swirls and curls covered with Cadbury Dairy Milk chocolate.",
                             "priceTotal": "2.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13378.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
-                            "id": 4450018,
-                            "name": "Nom Nom Cookie Choc Fudge",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "2.95",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12892.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -13435,5 +13446,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Mon, 22 Jul 2024 04:07:15 GMT"
+    "cached_at": "Mon, 22 Jul 2024 05:18:49 GMT"
 }
