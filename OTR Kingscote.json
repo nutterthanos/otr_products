@@ -10263,7 +10263,7 @@
                             "name": "Cadbury Twirl 39g",
                             "description": "Chocolate swirls and curls covered with Cadbury Dairy Milk chocolate.",
                             "shortDescription": "Chocolate swirls and curls covered with Cadbury Dairy Milk chocolate.",
-                            "priceTotal": "2.00",
+                            "priceTotal": "3.69",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13378.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -12329,5 +12329,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Tue, 23 Jul 2024 15:04:04 GMT"
+    "cached_at": "Tue, 23 Jul 2024 18:33:15 GMT"
 }

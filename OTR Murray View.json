@@ -9332,6 +9332,17 @@
                     "name": "Packs",
                     "products": [
                         {
+                            "id": 1003346,
+                            "name": "Passport to Paris 4 Pack",
+                            "description": "1 x Raspberry & Vanilla Cr\u00e8me, 1 x Cr\u00e8me Brulee and 2 x Original Glazed Doughnuts.",
+                            "shortDescription": "1 x Raspberry & Vanilla Cr\u00e8me, 1 x Cr\u00e8me Brulee and 2 x Original Glazed Doughnuts.",
+                            "priceTotal": "13.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13388.png",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
                             "id": 1002313,
                             "name": "Original Glazed - 4 Pack",
                             "description": "",
@@ -9438,13 +9449,23 @@
                     "name": "Singles",
                     "products": [
                         {
-                            "id": 1003326,
-                            "name": "Birthday",
-                            "description": "Dipped in white truffle icing, filled with vanilla kreme, and decorated with rainbow sprinkles & a drizzle of icing.",
-                            "shortDescription": "Dipped in white truffle icing, filled with vanilla kreme, and decorated with rainbow sprinkles & a drizzle of icing.",
+                            "id": 1003343,
+                            "name": "Raspberry & Vanilla Cr\u00e8me",
+                            "description": "Dipped in raspberry icing, drizzled with raspberry curd, and topped with a swirl of vanilla cr\u00e8me and cookie pieces.",
+                            "shortDescription": "Dipped in raspberry icing, drizzled with raspberry curd, and topped with a swirl of vanilla cr\u00e8me and cookie pieces.",
                             "priceTotal": "4.25",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13375.png",
-                            "hasMealDeal": false,
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13389.png",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 1003342,
+                            "name": "Cr\u00e8me Brulee",
+                            "description": "Dipped in caramel truffle icing, filled with custard, topped with caramelised sugar crunch and a caramel drizzle.",
+                            "shortDescription": "Dipped in caramel truffle icing, filled with custard, topped with caramelised sugar crunch and a caramel drizzle.",
+                            "priceTotal": "4.25",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13390.png",
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -9616,108 +9637,6 @@
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12180.png",
                                             "hasMealDeal": true,
                                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August"
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "id": 1002356,
-                            "name": "Loaded Dog",
-                            "range": "Loaded Dog",
-                            "description": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
-                            "shortDescription": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
-                            "priceTotal": "5.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12424.png",
-                            "hasMealDeal": true,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 3154,
-                                    "description": "Add Ons",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        1002356
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 1002168,
-                                            "description": "Crispy Onion",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 23195,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1002165,
-                                            "description": "Cheese Sauce",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 23194,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1002167,
-                                            "description": "Bacon",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 23193,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000574,
-                                            "description": "Ketchup",
-                                            "priceTotal": "0.00",
-                                            "isSelected": true,
-                                            "defaultSelection": false,
-                                            "productRange": 23191,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000576,
-                                            "description": "Mustard",
-                                            "priceTotal": "0.00",
-                                            "isSelected": true,
-                                            "defaultSelection": false,
-                                            "productRange": 23192,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "mealDeals",
-                                    "component": "mealDealList",
-                                    "options": [
-                                        {
-                                            "id": 240,
-                                            "description": "MOES Dog and Shake Combo",
-                                            "priceTotal": "0.00",
-                                            "shortName": "O",
-                                            "isSelected": true
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "range",
-                                    "component": "rangeList",
-                                    "options": [
-                                        {
-                                            "id": 1002356,
-                                            "description": "Loaded Dog",
-                                            "rangeDescription": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
-                                            "priceTotal": "5.00",
-                                            "isSelected": true,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12424.png",
-                                            "hasMealDeal": true,
-                                            "rewardDescription": ""
                                         }
                                     ]
                                 }
@@ -10080,65 +9999,10 @@
                     "name": "Hot Food",
                     "products": [
                         {
-                            "id": 1002865,
-                            "name": "Chunky Angus Beef Pie",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "4.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12910.png",
-                            "hasMealDeal": true,
-                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 5420,
-                                    "description": "Sauces",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "options": [
-                                        {
-                                            "id": 1003042,
-                                            "description": "Squeeze Bbq Sauce",
-                                            "priceTotal": "0.30",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 40263,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001063,
-                                            "description": "Squeeze Tomato Sauce",
-                                            "priceTotal": "0.30",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 32906,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "mealDeals",
-                                    "component": "mealDealList",
-                                    "options": [
-                                        {
-                                            "id": 92,
-                                            "description": "EAT Add a drink",
-                                            "priceTotal": "0.00",
-                                            "shortName": "O",
-                                            "isSelected": true
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
                             "id": 1003062,
-                            "name": "Sausage Roll Egg & Bacon",
-                            "description": "",
-                            "shortDescription": "",
+                            "name": "Brekkie Sausage Roll",
+                            "description": "Bacon and scrambled egg inside golden flaky pastry with smoky BBQ sauce.",
+                            "shortDescription": "Bacon and scrambled egg inside golden flaky pastry with smoky BBQ sauce.",
                             "priceTotal": "3.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13122.png",
                             "hasMealDeal": true,
@@ -10169,6 +10033,61 @@
                                             "isSelected": false,
                                             "defaultSelection": false,
                                             "productRange": 40292,
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 92,
+                                            "description": "EAT Add a drink",
+                                            "priceTotal": "0.00",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 1003318,
+                            "name": "Chunky Butter Chicken Pie",
+                            "description": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
+                            "shortDescription": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
+                            "priceTotal": "4.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13370.png",
+                            "hasMealDeal": true,
+                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 6393,
+                                    "description": "Sauces",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "options": [
+                                        {
+                                            "id": 1003042,
+                                            "description": "Squeeze Bbq Sauce",
+                                            "priceTotal": "0.30",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45549,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001063,
+                                            "description": "Squeeze Tomato Sauce",
+                                            "priceTotal": "0.30",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45548,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -10245,19 +10164,19 @@
                             ]
                         },
                         {
-                            "id": 1003318,
-                            "name": "Chunky Butter Chicken Pie",
-                            "description": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
-                            "shortDescription": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
+                            "id": 1002865,
+                            "name": "Chunky Angus Beef Pie",
+                            "description": "",
+                            "shortDescription": "",
                             "priceTotal": "4.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13370.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12910.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": [
                                 {
-                                    "id": 6393,
+                                    "id": 5420,
                                     "description": "Sauces",
                                     "component": "blank",
                                     "minQuantity": 0,
@@ -10269,7 +10188,7 @@
                                             "priceTotal": "0.30",
                                             "isSelected": false,
                                             "defaultSelection": false,
-                                            "productRange": 45549,
+                                            "productRange": 40263,
                                             "kjTotal": 0
                                         },
                                         {
@@ -10278,7 +10197,7 @@
                                             "priceTotal": "0.30",
                                             "isSelected": false,
                                             "defaultSelection": false,
-                                            "productRange": 45548,
+                                            "productRange": 32906,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -10530,7 +10449,7 @@
                             "name": "Egg & Bacon Toastie",
                             "description": "EAT Toastie Egg And Bacon 231g",
                             "shortDescription": "EAT Toastie Egg And Bacon 231g",
-                            "priceTotal": "7.95",
+                            "priceTotal": "6.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13287.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
@@ -10558,7 +10477,7 @@
                             "name": "Turkey, Cranberry & Cheese Toastie",
                             "description": "Tender turkey slices with tart cranberry sauce, topped with creamy melted cheese.",
                             "shortDescription": "Tender turkey slices with tart cranberry sauce, topped with creamy melted cheese.",
-                            "priceTotal": "7.95",
+                            "priceTotal": "6.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13376.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
@@ -10586,7 +10505,7 @@
                             "name": "Ham & Cheese Toastie",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "7.95",
+                            "priceTotal": "6.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12451.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
@@ -10698,7 +10617,7 @@
                             "name": "Ham & Cheese Croissant",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "7.00",
+                            "priceTotal": "6.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12223.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
@@ -10732,7 +10651,7 @@
                             "name": "Fresh Orange Juice - 350ml Bottle",
                             "description": "Freshly squeezed orange juice, no added sugar, preservative free.",
                             "shortDescription": "Freshly squeezed orange juice, no added sugar, preservative free.",
-                            "priceTotal": "3.00",
+                            "priceTotal": "4.50",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10234.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -11782,7 +11701,7 @@
                             "name": "Cadbury Twirl 39g",
                             "description": "Chocolate swirls and curls covered with Cadbury Dairy Milk chocolate.",
                             "shortDescription": "Chocolate swirls and curls covered with Cadbury Dairy Milk chocolate.",
-                            "priceTotal": "2.00",
+                            "priceTotal": "3.69",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13378.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -13848,5 +13767,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Tue, 23 Jul 2024 15:04:16 GMT"
+    "cached_at": "Tue, 23 Jul 2024 18:33:22 GMT"
 }

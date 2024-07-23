@@ -9434,65 +9434,10 @@
                     "name": "Hot Food",
                     "products": [
                         {
-                            "id": 1002865,
-                            "name": "Chunky Angus Beef Pie",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "4.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12910.png",
-                            "hasMealDeal": true,
-                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 5420,
-                                    "description": "Sauces",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "options": [
-                                        {
-                                            "id": 1003042,
-                                            "description": "Squeeze Bbq Sauce",
-                                            "priceTotal": "0.30",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 40263,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001063,
-                                            "description": "Squeeze Tomato Sauce",
-                                            "priceTotal": "0.30",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 32906,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "mealDeals",
-                                    "component": "mealDealList",
-                                    "options": [
-                                        {
-                                            "id": 92,
-                                            "description": "EAT Add a drink",
-                                            "priceTotal": "0.00",
-                                            "shortName": "O",
-                                            "isSelected": true
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
                             "id": 1003062,
-                            "name": "Sausage Roll Egg & Bacon",
-                            "description": "",
-                            "shortDescription": "",
+                            "name": "Brekkie Sausage Roll",
+                            "description": "Bacon and scrambled egg inside golden flaky pastry with smoky BBQ sauce.",
+                            "shortDescription": "Bacon and scrambled egg inside golden flaky pastry with smoky BBQ sauce.",
                             "priceTotal": "3.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13122.png",
                             "hasMealDeal": true,
@@ -9523,6 +9468,61 @@
                                             "isSelected": false,
                                             "defaultSelection": false,
                                             "productRange": 40292,
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 92,
+                                            "description": "EAT Add a drink",
+                                            "priceTotal": "0.00",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 1003318,
+                            "name": "Chunky Butter Chicken Pie",
+                            "description": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
+                            "shortDescription": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
+                            "priceTotal": "4.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13370.png",
+                            "hasMealDeal": true,
+                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 6393,
+                                    "description": "Sauces",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "options": [
+                                        {
+                                            "id": 1003042,
+                                            "description": "Squeeze Bbq Sauce",
+                                            "priceTotal": "0.30",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45549,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001063,
+                                            "description": "Squeeze Tomato Sauce",
+                                            "priceTotal": "0.30",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45548,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -9599,19 +9599,19 @@
                             ]
                         },
                         {
-                            "id": 1003318,
-                            "name": "Chunky Butter Chicken Pie",
-                            "description": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
-                            "shortDescription": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
+                            "id": 1002865,
+                            "name": "Chunky Angus Beef Pie",
+                            "description": "",
+                            "shortDescription": "",
                             "priceTotal": "4.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13370.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12910.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": [
                                 {
-                                    "id": 6393,
+                                    "id": 5420,
                                     "description": "Sauces",
                                     "component": "blank",
                                     "minQuantity": 0,
@@ -9623,7 +9623,7 @@
                                             "priceTotal": "0.30",
                                             "isSelected": false,
                                             "defaultSelection": false,
-                                            "productRange": 45549,
+                                            "productRange": 40263,
                                             "kjTotal": 0
                                         },
                                         {
@@ -9632,7 +9632,7 @@
                                             "priceTotal": "0.30",
                                             "isSelected": false,
                                             "defaultSelection": false,
-                                            "productRange": 45548,
+                                            "productRange": 32906,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -9884,7 +9884,7 @@
                             "name": "Egg & Bacon Toastie",
                             "description": "EAT Toastie Egg And Bacon 231g",
                             "shortDescription": "EAT Toastie Egg And Bacon 231g",
-                            "priceTotal": "7.95",
+                            "priceTotal": "6.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13287.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
@@ -9912,7 +9912,7 @@
                             "name": "Turkey, Cranberry & Cheese Toastie",
                             "description": "Tender turkey slices with tart cranberry sauce, topped with creamy melted cheese.",
                             "shortDescription": "Tender turkey slices with tart cranberry sauce, topped with creamy melted cheese.",
-                            "priceTotal": "7.95",
+                            "priceTotal": "6.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13376.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
@@ -9940,7 +9940,7 @@
                             "name": "Ham & Cheese Toastie",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "7.95",
+                            "priceTotal": "6.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12451.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
@@ -10052,7 +10052,7 @@
                             "name": "Ham & Cheese Croissant",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "7.00",
+                            "priceTotal": "6.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12223.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
@@ -10086,7 +10086,7 @@
                             "name": "Fresh Orange Juice - 350ml Bottle",
                             "description": "Freshly squeezed orange juice, no added sugar, preservative free.",
                             "shortDescription": "Freshly squeezed orange juice, no added sugar, preservative free.",
-                            "priceTotal": "3.00",
+                            "priceTotal": "4.50",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10234.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -11135,7 +11135,7 @@
                             "name": "Cadbury Twirl 39g",
                             "description": "Chocolate swirls and curls covered with Cadbury Dairy Milk chocolate.",
                             "shortDescription": "Chocolate swirls and curls covered with Cadbury Dairy Milk chocolate.",
-                            "priceTotal": "2.00",
+                            "priceTotal": "3.69",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13378.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -13205,5 +13205,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Tue, 23 Jul 2024 15:05:07 GMT"
+    "cached_at": "Tue, 23 Jul 2024 18:34:23 GMT"
 }
