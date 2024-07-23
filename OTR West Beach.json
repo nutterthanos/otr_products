@@ -9321,7 +9321,7 @@
             "name": "Krispy Kreme",
             "description": "Made for sharing, memories and good times.",
             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Offer/Offer_43.png",
-            "promo": "https://ontherun-web.s3.amazonaws.com/uploads/20240626060251/Krispy-Kreme-10th-Birthday-LTO-OTR-App-Header-600x290px-FINAL.jpg",
+            "promo": "https://ontherun-web.s3.amazonaws.com/uploads/20200923030634/Krispy-Kreme2-720x348.jpg",
             "headerImageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Offer/Header_43.png",
             "menu_layout_type": 1,
             "show_nutrition": true,
@@ -13802,5 +13802,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Tue, 23 Jul 2024 04:33:12 GMT"
+    "cached_at": "Tue, 23 Jul 2024 13:31:08 GMT"
 }
