@@ -9446,6 +9446,238 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "id": 447,
+                    "name": "Frappes",
+                    "products": [
+                        {
+                            "id": 4450544,
+                            "name": "Salted Caramel Frappe",
+                            "range": "Salted Caramel Frappe",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "6.95",
+                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 11586,
+                                    "description": "Strength",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4450544
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4447053,
+                                            "description": "Weak",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Strength",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 11587,
+                                    "description": "Flavours",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4450544
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4446995,
+                                            "description": "Sugar Syrup",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Sugar Syrup",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 4450544,
+                                            "description": "Salted Caramel Frappe Iced Coffee",
+                                            "rangeDescription": "",
+                                            "priceTotal": "6.95",
+                                            "isSelected": true,
+                                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                                            "rewardDescription": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4450543,
+                            "name": "Mocha Frappe",
+                            "range": "Mocha Frappe",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "6.95",
+                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 11584,
+                                    "description": "Strength",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4450543
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4447053,
+                                            "description": "Weak",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Strength",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 11585,
+                                    "description": "Flavours",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4450543
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4446995,
+                                            "description": "Sugar Syrup",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Sugar Syrup",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 4450543,
+                                            "description": "Mocha Frappe Iced Coffee",
+                                            "rangeDescription": "",
+                                            "priceTotal": "6.95",
+                                            "isSelected": true,
+                                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                                            "rewardDescription": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4450542,
+                            "name": "Black Forest Frappe",
+                            "range": "Black Forest Frappe",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "6.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13399.png",
+                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 11582,
+                                    "description": "Strength",
+                                    "component": "switch",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 1,
+                                    "ranges": [
+                                        4450542
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4447053,
+                                            "description": "Weak",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Strength",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 11583,
+                                    "description": "Flavours",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4450542
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4446995,
+                                            "description": "Sugar Syrup",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Sugar Syrup",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 4450542,
+                                            "description": "Black Forest Frappe Iced Coffee",
+                                            "rangeDescription": "",
+                                            "priceTotal": "6.95",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13399.png",
+                                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 }
             ],
             "mealDealAddOns": []
@@ -10754,5 +10986,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Wed, 24 Jul 2024 03:21:24 GMT"
+    "cached_at": "Wed, 24 Jul 2024 06:20:41 GMT"
 }
