@@ -9338,6 +9338,7 @@
                             "shortDescription": "1 x Raspberry & Vanilla Cr\u00e8me, 1 x Cr\u00e8me Brulee and 2 x Original Glazed Doughnuts.",
                             "priceTotal": "13.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13388.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -9455,6 +9456,7 @@
                             "shortDescription": "Dipped in raspberry icing, drizzled with raspberry curd, and topped with a swirl of vanilla cr\u00e8me and cookie pieces.",
                             "priceTotal": "4.25",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13389.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -9466,6 +9468,7 @@
                             "shortDescription": "Dipped in caramel truffle icing, filled with custard, topped with caramelised sugar crunch and a caramel drizzle.",
                             "priceTotal": "4.25",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13390.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -9637,6 +9640,108 @@
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12180.png",
                                             "hasMealDeal": true,
                                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 1003348,
+                            "name": "Loaded Dog",
+                            "range": "Loaded Dog",
+                            "description": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
+                            "shortDescription": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
+                            "priceTotal": "5.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13397.png",
+                            "hasMealDeal": true,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 6412,
+                                    "description": "Add Ons",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        1003348
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 1002168,
+                                            "description": "Crispy Onion",
+                                            "priceTotal": "0.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45704,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1002165,
+                                            "description": "Cheese Sauce",
+                                            "priceTotal": "0.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45703,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1002167,
+                                            "description": "Bacon",
+                                            "priceTotal": "1.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45702,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1000574,
+                                            "description": "Ketchup",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": false,
+                                            "productRange": 45700,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1000576,
+                                            "description": "Mustard",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": false,
+                                            "productRange": 45701,
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 240,
+                                            "description": "MOES Dog and Shake Combo",
+                                            "priceTotal": "0.00",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 1003348,
+                                            "description": "Loaded Dog",
+                                            "rangeDescription": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
+                                            "priceTotal": "5.00",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13397.png",
+                                            "hasMealDeal": true,
+                                            "rewardDescription": ""
                                         }
                                     ]
                                 }
@@ -10884,6 +10989,18 @@
                     "name": "Sweet & Salty Snacks",
                     "products": [
                         {
+                            "id": 1003279,
+                            "name": "Snickers Peanut Brownie King Bar",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "4.49",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13333.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
                             "id": 1003089,
                             "name": "Violet Crumble Bar 30g",
                             "description": "",
@@ -10908,12 +11025,24 @@
                             "data": []
                         },
                         {
-                            "id": 1003279,
-                            "name": "Snickers Peanut Brownie King Bar",
+                            "id": 1002828,
+                            "name": "Nom Nom Cookie Choc Fudge",
                             "description": "",
                             "shortDescription": "",
-                            "priceTotal": "4.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13333.png",
+                            "priceTotal": "2.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12892.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 1003350,
+                            "name": "KitKat Original Chunky Gooey Caramel 48g",
+                            "description": "You know what to do, just click/tap and... Have a break, have a KITKAT.",
+                            "shortDescription": "You know what to do, just click/tap and... Have a break, have a KITKAT.",
+                            "priceTotal": "2.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13398.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -10926,18 +11055,6 @@
                             "shortDescription": "Chocolate swirls and curls covered with Cadbury Dairy Milk chocolate.",
                             "priceTotal": "3.69",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13378.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
-                            "id": 1002828,
-                            "name": "Nom Nom Cookie Choc Fudge",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "2.95",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12892.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -11160,18 +11277,6 @@
                             "data": []
                         },
                         {
-                            "id": 1003083,
-                            "name": "Nom Nom Sour Spiders 130g",
-                            "description": "Nom Nom Sour Spiders 130g ",
-                            "shortDescription": "Nom Nom Sour Spiders 130g ",
-                            "priceTotal": "3.99",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13140.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
                             "id": 1001393,
                             "name": "Menz Fruchoc 150g",
                             "description": "SA's favourite FruChocs \u2013 Yummy apricot and peach centres covered in milk chocolate. ",
@@ -11181,6 +11286,18 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "150g, apricot, choc, choccy, chocolate, confectionary, Fru, Fruchoc, fruit, Menz, peach, snack",
+                            "data": []
+                        },
+                        {
+                            "id": 1003083,
+                            "name": "Nom Nom Sour Spiders 130g",
+                            "description": "Nom Nom Sour Spiders 130g ",
+                            "shortDescription": "Nom Nom Sour Spiders 130g ",
+                            "priceTotal": "3.99",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13140.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
                             "data": []
                         },
                         {
@@ -11208,18 +11325,6 @@
                             "data": []
                         },
                         {
-                            "id": 1003085,
-                            "name": "Nom Nom Sour Neon Worms 132g",
-                            "description": "Nom Nom Sour Neon Worms 132g ",
-                            "shortDescription": "Nom Nom Sour Neon Worms 132g ",
-                            "priceTotal": "3.99",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13142.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
                             "id": 1001440,
                             "name": "Allens Snakes Alive 200g",
                             "description": "Check out Allen's snakes alive.",
@@ -11229,6 +11334,18 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "200g, alive, Allens, Allen's, candy, lollies, snakes",
+                            "data": []
+                        },
+                        {
+                            "id": 1003085,
+                            "name": "Nom Nom Sour Neon Worms 132g",
+                            "description": "Nom Nom Sour Neon Worms 132g ",
+                            "shortDescription": "Nom Nom Sour Neon Worms 132g ",
+                            "priceTotal": "3.99",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13142.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
                             "data": []
                         },
                         {
@@ -11256,18 +11373,6 @@
                             "data": []
                         },
                         {
-                            "id": 1000945,
-                            "name": "Wrigley's Extra Gum Peppermint 14pc",
-                            "description": "EXTRA consumers don't just chew for the great taste. Chewing sugarfree gum has been clinically proven to positively impact oral health, stimulating saliva by 10 times.",
-                            "shortDescription": "EXTRA consumers don't just chew for the great taste. Chewing sugarfree gum has been clinically proven to positively impact oral health, stimulating saliva by 10 times.",
-                            "priceTotal": "3.79",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11019.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "mint, wrigleys, extra, eclipse, peppermint, gum",
-                            "data": []
-                        },
-                        {
                             "id": 1003088,
                             "name": "Nom Nom Fruit Salad 128g",
                             "description": "Nom Nom Fruit Salad 128g",
@@ -11277,6 +11382,18 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 1000945,
+                            "name": "Wrigley's Extra Gum Peppermint 14pc",
+                            "description": "EXTRA consumers don't just chew for the great taste. Chewing sugarfree gum has been clinically proven to positively impact oral health, stimulating saliva by 10 times.",
+                            "shortDescription": "EXTRA consumers don't just chew for the great taste. Chewing sugarfree gum has been clinically proven to positively impact oral health, stimulating saliva by 10 times.",
+                            "priceTotal": "3.79",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11019.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "mint, wrigleys, extra, eclipse, peppermint, gum",
                             "data": []
                         },
                         {
@@ -12990,5 +13107,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Tue, 23 Jul 2024 22:17:40 GMT"
+    "cached_at": "Wed, 24 Jul 2024 01:04:38 GMT"
 }

@@ -9338,6 +9338,7 @@
                             "shortDescription": "2 x Raspberry & Vanilla Cr\u00e8me, 2 x Cr\u00e8me Brulee, 2 x Double Chocolate \u00c9clair, 2 x Napoleon, and 4 x Original Glazed\u00ae doughnuts.",
                             "priceTotal": "28.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13395.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -9961,6 +9962,7 @@
                             "shortDescription": "Dipped in white icing, filled with vanilla custard, topped with a drizzle of chocolate ganache and flaky biscuit crumbs.",
                             "priceTotal": "3.95",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13394.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -9972,6 +9974,7 @@
                             "shortDescription": "Dipped in caramel truffle icing, filled with custard, topped with caramelised sugar crunch and a caramel drizzle.",
                             "priceTotal": "3.95",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13392.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -9996,6 +9999,7 @@
                             "shortDescription": "Dipped in raspberry icing, drizzled with raspberry curd, and topped with a swirl of vanilla cr\u00e8me and cookie pieces.",
                             "priceTotal": "3.95",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13391.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -10031,6 +10035,7 @@
                             "shortDescription": "Dipped in chocolate ganache, filled with chocolate custard, drizzled with milk choc ganache, and topped with chocolate crisp pearls.",
                             "priceTotal": "3.95",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13393.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
@@ -10620,5 +10625,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Tue, 23 Jul 2024 22:18:42 GMT"
+    "cached_at": "Wed, 24 Jul 2024 01:06:05 GMT"
 }

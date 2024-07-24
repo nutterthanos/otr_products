@@ -9433,6 +9433,108 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "id": 1003348,
+                            "name": "Loaded Dog",
+                            "range": "Loaded Dog",
+                            "description": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
+                            "shortDescription": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
+                            "priceTotal": "5.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13397.png",
+                            "hasMealDeal": true,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 6412,
+                                    "description": "Add Ons",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        1003348
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 1002168,
+                                            "description": "Crispy Onion",
+                                            "priceTotal": "0.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45704,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1002165,
+                                            "description": "Cheese Sauce",
+                                            "priceTotal": "0.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45703,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1002167,
+                                            "description": "Bacon",
+                                            "priceTotal": "1.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45702,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1000574,
+                                            "description": "Ketchup",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": false,
+                                            "productRange": 45700,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1000576,
+                                            "description": "Mustard",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": false,
+                                            "productRange": 45701,
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 240,
+                                            "description": "MOES Dog and Shake Combo",
+                                            "priceTotal": "0.00",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 1003348,
+                                            "description": "Loaded Dog",
+                                            "rangeDescription": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
+                                            "priceTotal": "5.00",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13397.png",
+                                            "hasMealDeal": true,
+                                            "rewardDescription": ""
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -10435,5 +10537,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Tue, 23 Jul 2024 22:18:47 GMT"
+    "cached_at": "Wed, 24 Jul 2024 01:05:49 GMT"
 }
