@@ -9465,9 +9465,9 @@
                                 {
                                     "id": 11586,
                                     "description": "Strength",
-                                    "component": "blank",
+                                    "component": "switch",
                                     "minQuantity": 0,
-                                    "maxQuantity": 99,
+                                    "maxQuantity": 1,
                                     "ranges": [
                                         4450544
                                     ],
@@ -9540,9 +9540,9 @@
                                 {
                                     "id": 11584,
                                     "description": "Strength",
-                                    "component": "blank",
+                                    "component": "switch",
                                     "minQuantity": 0,
-                                    "maxQuantity": 99,
+                                    "maxQuantity": 1,
                                     "ranges": [
                                         4450543
                                     ],
@@ -10986,5 +10986,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Wed, 24 Jul 2024 06:20:25 GMT"
+    "cached_at": "Wed, 24 Jul 2024 07:21:12 GMT"
 }
