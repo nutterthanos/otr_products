@@ -9459,6 +9459,7 @@
                             "shortDescription": "",
                             "priceTotal": "6.95",
                             "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": [
@@ -9520,6 +9521,7 @@
                                             "priceTotal": "6.95",
                                             "isSelected": true,
                                             "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                                            "hasMealDeal": false,
                                             "rewardDescription": ""
                                         }
                                     ]
@@ -9534,6 +9536,7 @@
                             "shortDescription": "",
                             "priceTotal": "6.95",
                             "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": [
@@ -9595,6 +9598,7 @@
                                             "priceTotal": "6.95",
                                             "isSelected": true,
                                             "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                                            "hasMealDeal": false,
                                             "rewardDescription": ""
                                         }
                                     ]
@@ -9609,6 +9613,7 @@
                             "shortDescription": "",
                             "priceTotal": "6.95",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13399.png",
+                            "hasMealDeal": false,
                             "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -9671,6 +9676,7 @@
                                             "priceTotal": "6.95",
                                             "isSelected": true,
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13399.png",
+                                            "hasMealDeal": false,
                                             "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
                                         }
                                     ]
@@ -10986,5 +10992,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Wed, 24 Jul 2024 07:19:37 GMT"
+    "cached_at": "Wed, 24 Jul 2024 08:17:50 GMT"
 }
