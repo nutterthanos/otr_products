@@ -9458,8 +9458,9 @@
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "6.95",
-                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13401.png",
                             "hasMealDeal": false,
+                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": [
@@ -9516,13 +9517,13 @@
                                     "options": [
                                         {
                                             "id": 4450544,
-                                            "description": "Salted Caramel Frappe Iced Coffee",
+                                            "description": "Grande",
                                             "rangeDescription": "",
                                             "priceTotal": "6.95",
                                             "isSelected": true,
-                                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13401.png",
                                             "hasMealDeal": false,
-                                            "rewardDescription": ""
+                                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
                                         }
                                     ]
                                 }
@@ -9535,8 +9536,9 @@
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "6.95",
-                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13400.png",
                             "hasMealDeal": false,
+                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": [
@@ -9593,13 +9595,13 @@
                                     "options": [
                                         {
                                             "id": 4450543,
-                                            "description": "Mocha Frappe Iced Coffee",
+                                            "description": "Grande",
                                             "rangeDescription": "",
                                             "priceTotal": "6.95",
                                             "isSelected": true,
-                                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13400.png",
                                             "hasMealDeal": false,
-                                            "rewardDescription": ""
+                                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
                                         }
                                     ]
                                 }
@@ -9671,7 +9673,7 @@
                                     "options": [
                                         {
                                             "id": 4450542,
-                                            "description": "Black Forest Frappe Iced Coffee",
+                                            "description": "Grande",
                                             "rangeDescription": "",
                                             "priceTotal": "6.95",
                                             "isSelected": true,
@@ -10992,5 +10994,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Wed, 24 Jul 2024 13:33:43 GMT"
+    "cached_at": "Thu, 25 Jul 2024 07:05:37 GMT"
 }
