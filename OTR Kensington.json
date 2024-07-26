@@ -4152,7 +4152,7 @@
                                     "options": [
                                         {
                                             "id": 4450387,
-                                            "description": "Premium Iced Mocha Iced Coffee",
+                                            "description": "Premium Iced Mocha",
                                             "rangeDescription": "",
                                             "priceTotal": "6.95",
                                             "isSelected": true,
@@ -4397,7 +4397,7 @@
                                     "options": [
                                         {
                                             "id": 4450388,
-                                            "description": "Premium Iced Coffee Iced Coffee",
+                                            "description": "Premium Iced Coffee",
                                             "rangeDescription": "",
                                             "priceTotal": "6.95",
                                             "isSelected": true,
@@ -4642,7 +4642,7 @@
                                     "options": [
                                         {
                                             "id": 4450389,
-                                            "description": "Premium Iced Chocolate Iced Coffee",
+                                            "description": "Premium Iced Chocolate",
                                             "rangeDescription": "",
                                             "priceTotal": "6.95",
                                             "isSelected": true,
@@ -5146,7 +5146,7 @@
                                     "options": [
                                         {
                                             "id": 4449263,
-                                            "description": "Iced Mocha Latte Iced Coffee",
+                                            "description": "Iced Mocha Latte",
                                             "rangeDescription": "",
                                             "priceTotal": "5.95",
                                             "isSelected": true,
@@ -5391,7 +5391,7 @@
                                     "options": [
                                         {
                                             "id": 4449493,
-                                            "description": "Iced Vanilla Latte Iced Coffee",
+                                            "description": "Iced Vanilla Latte",
                                             "rangeDescription": "",
                                             "priceTotal": "5.95",
                                             "isSelected": true,
@@ -5636,7 +5636,7 @@
                                     "options": [
                                         {
                                             "id": 4449503,
-                                            "description": "Iced Caramel Latte Iced Coffee",
+                                            "description": "Iced Caramel Latte",
                                             "rangeDescription": "",
                                             "priceTotal": "5.95",
                                             "isSelected": true,
@@ -5881,7 +5881,7 @@
                                     "options": [
                                         {
                                             "id": 4449498,
-                                            "description": "Iced Chai Latte Iced Coffee",
+                                            "description": "Iced Chai Latte",
                                             "rangeDescription": "",
                                             "priceTotal": "5.95",
                                             "isSelected": true,
@@ -6071,7 +6071,7 @@
                                     "options": [
                                         {
                                             "id": 4448805,
-                                            "description": "Iced Long Black Iced Coffee",
+                                            "description": "Iced Long Black",
                                             "rangeDescription": "",
                                             "priceTotal": "5.95",
                                             "isSelected": true,
@@ -6304,7 +6304,7 @@
                                     "options": [
                                         {
                                             "id": 4447066,
-                                            "description": "Iced Coffee Iced Coffee",
+                                            "description": "Iced Coffee",
                                             "rangeDescription": "",
                                             "priceTotal": "6.50",
                                             "isSelected": true,
@@ -6537,7 +6537,7 @@
                                     "options": [
                                         {
                                             "id": 4447067,
-                                            "description": "Iced Chocolate Iced Coffee",
+                                            "description": "Iced Chocolate",
                                             "rangeDescription": "",
                                             "priceTotal": "6.50",
                                             "isSelected": true,
@@ -6992,7 +6992,7 @@
                                     "options": [
                                         {
                                             "id": 4447069,
-                                            "description": "Iced Chai Iced Coffee",
+                                            "description": "Iced Chai",
                                             "rangeDescription": "",
                                             "priceTotal": "6.50",
                                             "isSelected": true,
@@ -7370,11 +7370,251 @@
                                     "options": [
                                         {
                                             "id": 4448266,
-                                            "description": "Affogato Iced Coffee",
+                                            "description": "Affogato",
                                             "rangeDescription": "",
                                             "priceTotal": "4.95",
                                             "isSelected": true,
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11255.png",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 447,
+                    "name": "Frappes",
+                    "products": [
+                        {
+                            "id": 4450544,
+                            "name": "Salted Caramel Frappe",
+                            "range": "Salted Caramel Frappe",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "6.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13401.png",
+                            "hasMealDeal": false,
+                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 11586,
+                                    "description": "Strength",
+                                    "component": "switch",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 1,
+                                    "ranges": [
+                                        4450544
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4447053,
+                                            "description": "Weak",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Strength",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 11587,
+                                    "description": "Flavours",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4450544
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4446995,
+                                            "description": "Sugar Syrup",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Sugar Syrup",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 4450544,
+                                            "description": "Grande",
+                                            "rangeDescription": "",
+                                            "priceTotal": "6.95",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13401.png",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4450543,
+                            "name": "Mocha Frappe",
+                            "range": "Mocha Frappe",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "6.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13400.png",
+                            "hasMealDeal": false,
+                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 11584,
+                                    "description": "Strength",
+                                    "component": "switch",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 1,
+                                    "ranges": [
+                                        4450543
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4447053,
+                                            "description": "Weak",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Strength",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 11585,
+                                    "description": "Flavours",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4450543
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4446995,
+                                            "description": "Sugar Syrup",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Sugar Syrup",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 4450543,
+                                            "description": "Grande",
+                                            "rangeDescription": "",
+                                            "priceTotal": "6.95",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13400.png",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4450542,
+                            "name": "Black Forest Frappe",
+                            "range": "Black Forest Frappe",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "6.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13399.png",
+                            "hasMealDeal": false,
+                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 11582,
+                                    "description": "Strength",
+                                    "component": "switch",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 1,
+                                    "ranges": [
+                                        4450542
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4447053,
+                                            "description": "Weak",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Strength",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 11583,
+                                    "description": "Flavours",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4450542
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4446995,
+                                            "description": "Sugar Syrup",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Sugar Syrup",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 4450542,
+                                            "description": "Grande",
+                                            "rangeDescription": "",
+                                            "priceTotal": "6.95",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13399.png",
                                             "hasMealDeal": false,
                                             "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
                                         }
@@ -7438,6 +7678,665 @@
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12512.png",
                                             "hasMealDeal": false,
                                             "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 358,
+                    "name": "Hot Chocolate",
+                    "products": [
+                        {
+                            "id": 4449354,
+                            "name": "Rich Dutch Hot Chocolate",
+                            "range": "Rich Dutch Hot Chocolate",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "4.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12297.png",
+                            "hasMealDeal": false,
+                            "rewardDescription": "Buy 4 Regular Coffee, Get 1 FREE",
+                            "loyalty_enabled": 1,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 7931,
+                                    "description": "Add Ons",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4449354,
+                                        4449359,
+                                        4449364
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4449821,
+                                            "description": "Whipped Cream",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Whipped Cream",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 4449354,
+                                            "description": "Regular",
+                                            "rangeDescription": "",
+                                            "priceTotal": "4.95",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12297.png",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": "Buy 4 Regular Coffee, Get 1 FREE"
+                                        },
+                                        {
+                                            "id": 4449359,
+                                            "description": "Grande",
+                                            "rangeDescription": "",
+                                            "priceTotal": "5.95",
+                                            "isSelected": false,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12302.png",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": "Buy 4 Grande Coffee, Get 1 FREE"
+                                        },
+                                        {
+                                            "id": 4449364,
+                                            "description": "Max",
+                                            "rangeDescription": "",
+                                            "priceTotal": "6.95",
+                                            "isSelected": false,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12307.png",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": "Buy 4 Max Coffee, Get 1 FREE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 7323,
+                                    "description": "Milk",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 1,
+                                    "ranges": [
+                                        4449354,
+                                        4449359,
+                                        4449364
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4449587,
+                                            "description": "Oat",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Milk",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4448299,
+                                            "description": "Lactose Free",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Milk",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4448584,
+                                            "description": "Almond",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Milk",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446877,
+                                            "description": "Full Cream",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Milk",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446886,
+                                            "description": "Skim",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Milk",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446893,
+                                            "description": "Soy",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Milk",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 7294,
+                                    "description": "Sugar",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 1,
+                                    "ranges": [
+                                        4449354,
+                                        4449359,
+                                        4449364
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4449157,
+                                            "description": "Raw Sugar",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Sugar",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 5
+                                        },
+                                        {
+                                            "id": 4446933,
+                                            "description": "No Sugar",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Sugar",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446993,
+                                            "description": "Half Sugar",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Sugar",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446934,
+                                            "description": "Sweetener",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Sugar",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 5
+                                        },
+                                        {
+                                            "id": 4446932,
+                                            "description": "Sugar",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Sugar",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 5
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 11369,
+                                    "description": "Strength",
+                                    "component": "switch",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 1,
+                                    "ranges": [
+                                        4449354
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4447053,
+                                            "description": "Weak",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Strength",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 7293,
+                                    "description": "Flavours",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4449354,
+                                        4449359,
+                                        4449364
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4447000,
+                                            "description": "Chocolate",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Chocolate",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446995,
+                                            "description": "Sugar Syrup",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Sugar Syrup",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4447002,
+                                            "description": "Chai",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Chai",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446999,
+                                            "description": "Vanilla",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Vanilla",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446998,
+                                            "description": "Hazelnut",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Hazelnut",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446997,
+                                            "description": "Caramel",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Caramel",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4446880,
+                            "name": "Hot Chocolate",
+                            "range": "Hot Chocolate",
+                            "shortDescription": "",
+                            "priceTotal": "4.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10007.png",
+                            "hasMealDeal": false,
+                            "rewardDescription": "Buy 4 Regular Coffee, Get 1 FREE",
+                            "loyalty_enabled": 1,
+                            "data": [
+                                {
+                                    "id": 6581,
+                                    "description": "Add Ons",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4446880,
+                                        4446902,
+                                        4446917
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4449821,
+                                            "description": "Whipped Cream",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Whipped Cream",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 4446880,
+                                            "description": "Regular",
+                                            "priceTotal": "4.95",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10007.png",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": "Buy 4 Regular Coffee, Get 1 FREE"
+                                        },
+                                        {
+                                            "id": 4446902,
+                                            "description": "Grande",
+                                            "priceTotal": "5.95",
+                                            "isSelected": false,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10029.png",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": "Buy 4 Grande Coffee, Get 1 FREE"
+                                        },
+                                        {
+                                            "id": 4446917,
+                                            "description": "Max",
+                                            "priceTotal": "6.95",
+                                            "isSelected": false,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10044.png",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": "Buy 4 Max Coffee, Get 1 FREE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 3582,
+                                    "description": "Milk",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 1,
+                                    "ranges": [
+                                        4446880,
+                                        4446902,
+                                        4446917
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4449587,
+                                            "description": "Oat",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Milk",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4448584,
+                                            "description": "Almond",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Milk",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4448299,
+                                            "description": "Lactose Free",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Milk",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446877,
+                                            "description": "Full Cream",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Milk",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446886,
+                                            "description": "Skim",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Milk",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446893,
+                                            "description": "Soy",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Milk",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 3603,
+                                    "description": "Sugar",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 1,
+                                    "ranges": [
+                                        4446880,
+                                        4446902,
+                                        4446917
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4449157,
+                                            "description": "Raw Sugar",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Sugar",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 5
+                                        },
+                                        {
+                                            "id": 4446933,
+                                            "description": "No Sugar",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Sugar",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446993,
+                                            "description": "Half Sugar",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Sugar",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446934,
+                                            "description": "Sweetener",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Sugar",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 5
+                                        },
+                                        {
+                                            "id": 4446932,
+                                            "description": "Sugar",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Sugar",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 5
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 11147,
+                                    "description": "Strength",
+                                    "component": "switch",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 1,
+                                    "ranges": [
+                                        4446880
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4447053,
+                                            "description": "Weak",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Coffee - Strength",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 4975,
+                                    "description": "Flavours",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4446880,
+                                        4446902,
+                                        4446917
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4447000,
+                                            "description": "Chocolate",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Chocolate",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446995,
+                                            "description": "Sugar Syrup",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Sugar Syrup",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4447002,
+                                            "description": "Chai",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Chai",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446999,
+                                            "description": "Vanilla",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Vanilla",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446998,
+                                            "description": "Hazelnut",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Hazelnut",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
+                                        },
+                                        {
+                                            "id": 4446997,
+                                            "description": "Caramel",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Caramel",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 1
                                         }
                                     ]
                                 }
@@ -8787,905 +9686,6 @@
                             ]
                         }
                     ]
-                },
-                {
-                    "id": 358,
-                    "name": "Hot Chocolate",
-                    "products": [
-                        {
-                            "id": 4449354,
-                            "name": "Rich Dutch Hot Chocolate",
-                            "range": "Rich Dutch Hot Chocolate",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "4.95",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12297.png",
-                            "hasMealDeal": false,
-                            "rewardDescription": "Buy 4 Regular Coffee, Get 1 FREE",
-                            "loyalty_enabled": 1,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 7931,
-                                    "description": "Add Ons",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        4449354,
-                                        4449359,
-                                        4449364
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4449821,
-                                            "description": "Whipped Cream",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Whipped Cream",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "range",
-                                    "component": "rangeList",
-                                    "options": [
-                                        {
-                                            "id": 4449354,
-                                            "description": "Regular",
-                                            "rangeDescription": "",
-                                            "priceTotal": "4.95",
-                                            "isSelected": true,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12297.png",
-                                            "hasMealDeal": false,
-                                            "rewardDescription": "Buy 4 Regular Coffee, Get 1 FREE"
-                                        },
-                                        {
-                                            "id": 4449359,
-                                            "description": "Grande",
-                                            "rangeDescription": "",
-                                            "priceTotal": "5.95",
-                                            "isSelected": false,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12302.png",
-                                            "hasMealDeal": false,
-                                            "rewardDescription": "Buy 4 Grande Coffee, Get 1 FREE"
-                                        },
-                                        {
-                                            "id": 4449364,
-                                            "description": "Max",
-                                            "rangeDescription": "",
-                                            "priceTotal": "6.95",
-                                            "isSelected": false,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12307.png",
-                                            "hasMealDeal": false,
-                                            "rewardDescription": "Buy 4 Max Coffee, Get 1 FREE"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 7323,
-                                    "description": "Milk",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 1,
-                                    "ranges": [
-                                        4449354,
-                                        4449359,
-                                        4449364
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4449587,
-                                            "description": "Oat",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Milk",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4448299,
-                                            "description": "Lactose Free",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Milk",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4448584,
-                                            "description": "Almond",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Milk",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446877,
-                                            "description": "Full Cream",
-                                            "priceTotal": "0.00",
-                                            "isSelected": true,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Milk",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446886,
-                                            "description": "Skim",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Milk",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446893,
-                                            "description": "Soy",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Milk",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 7294,
-                                    "description": "Sugar",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 1,
-                                    "ranges": [
-                                        4449354,
-                                        4449359,
-                                        4449364
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4449157,
-                                            "description": "Raw Sugar",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Sugar",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 5
-                                        },
-                                        {
-                                            "id": 4446933,
-                                            "description": "No Sugar",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Sugar",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446993,
-                                            "description": "Half Sugar",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Sugar",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446934,
-                                            "description": "Sweetener",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Sugar",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 5
-                                        },
-                                        {
-                                            "id": 4446932,
-                                            "description": "Sugar",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Sugar",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 5
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 11369,
-                                    "description": "Strength",
-                                    "component": "switch",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 1,
-                                    "ranges": [
-                                        4449354
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4447053,
-                                            "description": "Weak",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Strength",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 7293,
-                                    "description": "Flavours",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        4449354,
-                                        4449359,
-                                        4449364
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4447000,
-                                            "description": "Chocolate",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Chocolate",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446995,
-                                            "description": "Sugar Syrup",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Sugar Syrup",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4447002,
-                                            "description": "Chai",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Chai",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446999,
-                                            "description": "Vanilla",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Vanilla",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446998,
-                                            "description": "Hazelnut",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Hazelnut",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446997,
-                                            "description": "Caramel",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Caramel",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4446880,
-                            "name": "Hot Chocolate",
-                            "range": "Hot Chocolate",
-                            "shortDescription": "",
-                            "priceTotal": "4.95",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10007.png",
-                            "hasMealDeal": false,
-                            "rewardDescription": "Buy 4 Regular Coffee, Get 1 FREE",
-                            "loyalty_enabled": 1,
-                            "data": [
-                                {
-                                    "id": 6581,
-                                    "description": "Add Ons",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        4446880,
-                                        4446902,
-                                        4446917
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4449821,
-                                            "description": "Whipped Cream",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Whipped Cream",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "range",
-                                    "component": "rangeList",
-                                    "options": [
-                                        {
-                                            "id": 4446880,
-                                            "description": "Regular",
-                                            "priceTotal": "4.95",
-                                            "isSelected": true,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10007.png",
-                                            "hasMealDeal": false,
-                                            "rewardDescription": "Buy 4 Regular Coffee, Get 1 FREE"
-                                        },
-                                        {
-                                            "id": 4446902,
-                                            "description": "Grande",
-                                            "priceTotal": "5.95",
-                                            "isSelected": false,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10029.png",
-                                            "hasMealDeal": false,
-                                            "rewardDescription": "Buy 4 Grande Coffee, Get 1 FREE"
-                                        },
-                                        {
-                                            "id": 4446917,
-                                            "description": "Max",
-                                            "priceTotal": "6.95",
-                                            "isSelected": false,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10044.png",
-                                            "hasMealDeal": false,
-                                            "rewardDescription": "Buy 4 Max Coffee, Get 1 FREE"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 3582,
-                                    "description": "Milk",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 1,
-                                    "ranges": [
-                                        4446880,
-                                        4446902,
-                                        4446917
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4449587,
-                                            "description": "Oat",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Milk",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4448584,
-                                            "description": "Almond",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Milk",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4448299,
-                                            "description": "Lactose Free",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Milk",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446877,
-                                            "description": "Full Cream",
-                                            "priceTotal": "0.00",
-                                            "isSelected": true,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Milk",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446886,
-                                            "description": "Skim",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Milk",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446893,
-                                            "description": "Soy",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Milk",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 3603,
-                                    "description": "Sugar",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 1,
-                                    "ranges": [
-                                        4446880,
-                                        4446902,
-                                        4446917
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4449157,
-                                            "description": "Raw Sugar",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Sugar",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 5
-                                        },
-                                        {
-                                            "id": 4446933,
-                                            "description": "No Sugar",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Sugar",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446993,
-                                            "description": "Half Sugar",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Sugar",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446934,
-                                            "description": "Sweetener",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Sugar",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 5
-                                        },
-                                        {
-                                            "id": 4446932,
-                                            "description": "Sugar",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Sugar",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 5
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 11147,
-                                    "description": "Strength",
-                                    "component": "switch",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 1,
-                                    "ranges": [
-                                        4446880
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4447053,
-                                            "description": "Weak",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Strength",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 4975,
-                                    "description": "Flavours",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        4446880,
-                                        4446902,
-                                        4446917
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4447000,
-                                            "description": "Chocolate",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Chocolate",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446995,
-                                            "description": "Sugar Syrup",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Sugar Syrup",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4447002,
-                                            "description": "Chai",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Chai",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446999,
-                                            "description": "Vanilla",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Vanilla",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446998,
-                                            "description": "Hazelnut",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Hazelnut",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        },
-                                        {
-                                            "id": 4446997,
-                                            "description": "Caramel",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Caramel",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": 447,
-                    "name": "Frappes",
-                    "products": [
-                        {
-                            "id": 4450544,
-                            "name": "Salted Caramel Frappe",
-                            "range": "Salted Caramel Frappe",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "6.95",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13401.png",
-                            "hasMealDeal": false,
-                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 11586,
-                                    "description": "Strength",
-                                    "component": "switch",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 1,
-                                    "ranges": [
-                                        4450544
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4447053,
-                                            "description": "Weak",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Strength",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 11587,
-                                    "description": "Flavours",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        4450544
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4446995,
-                                            "description": "Sugar Syrup",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Sugar Syrup",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "range",
-                                    "component": "rangeList",
-                                    "options": [
-                                        {
-                                            "id": 4450544,
-                                            "description": "Grande",
-                                            "rangeDescription": "",
-                                            "priceTotal": "6.95",
-                                            "isSelected": true,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13401.png",
-                                            "hasMealDeal": false,
-                                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4450543,
-                            "name": "Mocha Frappe",
-                            "range": "Mocha Frappe",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "6.95",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13400.png",
-                            "hasMealDeal": false,
-                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 11584,
-                                    "description": "Strength",
-                                    "component": "switch",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 1,
-                                    "ranges": [
-                                        4450543
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4447053,
-                                            "description": "Weak",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Strength",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 11585,
-                                    "description": "Flavours",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        4450543
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4446995,
-                                            "description": "Sugar Syrup",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Sugar Syrup",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "range",
-                                    "component": "rangeList",
-                                    "options": [
-                                        {
-                                            "id": 4450543,
-                                            "description": "Grande",
-                                            "rangeDescription": "",
-                                            "priceTotal": "6.95",
-                                            "isSelected": true,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13400.png",
-                                            "hasMealDeal": false,
-                                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4450542,
-                            "name": "Black Forest Frappe",
-                            "range": "Black Forest Frappe",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "6.95",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13399.png",
-                            "hasMealDeal": false,
-                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 11582,
-                                    "description": "Strength",
-                                    "component": "switch",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 1,
-                                    "ranges": [
-                                        4450542
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4447053,
-                                            "description": "Weak",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Coffee - Strength",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 1
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 11583,
-                                    "description": "Flavours",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        4450542
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4446995,
-                                            "description": "Sugar Syrup",
-                                            "priceTotal": "0.80",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Sugar Syrup",
-                                            "kjTotal": 0,
-                                            "minQuantity": 0,
-                                            "maxQuantity": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "range",
-                                    "component": "rangeList",
-                                    "options": [
-                                        {
-                                            "id": 4450542,
-                                            "description": "Grande",
-                                            "rangeDescription": "",
-                                            "priceTotal": "6.95",
-                                            "isSelected": true,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13399.png",
-                                            "hasMealDeal": false,
-                                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
                 }
             ],
             "mealDealAddOns": []
@@ -10500,61 +10500,6 @@
                             ]
                         },
                         {
-                            "id": 4450509,
-                            "name": "Chunky Butter Chicken Pie",
-                            "description": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
-                            "shortDescription": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
-                            "priceTotal": "4.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13370.png",
-                            "hasMealDeal": true,
-                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 10703,
-                                    "description": "Sauces",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "options": [
-                                        {
-                                            "id": 4450237,
-                                            "description": "Squeeze Bbq Sauce",
-                                            "priceTotal": "0.30",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 91861,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448122,
-                                            "description": "Squeeze Tomato Sauce",
-                                            "priceTotal": "0.30",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 91860,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "mealDeals",
-                                    "component": "mealDealList",
-                                    "options": [
-                                        {
-                                            "id": 191,
-                                            "description": "EAT Add a drink",
-                                            "priceTotal": "0.00",
-                                            "shortName": "O",
-                                            "isSelected": true
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
                             "id": 4450222,
                             "name": "Traveller Burrito Pie",
                             "description": "",
@@ -10589,6 +10534,61 @@
                                             "isSelected": false,
                                             "defaultSelection": false,
                                             "productRange": 86426,
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 191,
+                                            "description": "EAT Add a drink",
+                                            "priceTotal": "0.00",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4450509,
+                            "name": "Chunky Butter Chicken Pie",
+                            "description": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
+                            "shortDescription": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
+                            "priceTotal": "4.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13370.png",
+                            "hasMealDeal": true,
+                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 10703,
+                                    "description": "Sauces",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "options": [
+                                        {
+                                            "id": 4450237,
+                                            "description": "Squeeze Bbq Sauce",
+                                            "priceTotal": "0.30",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 91861,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4448122,
+                                            "description": "Squeeze Tomato Sauce",
+                                            "priceTotal": "0.30",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 91860,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -10718,6 +10718,18 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "id": 4449607,
+                            "name": "2 for $5, Sausage Rolls",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.00",
+                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
                         },
                         {
                             "id": 4449819,
@@ -11242,15 +11254,15 @@
                             "data": []
                         },
                         {
-                            "id": 4449373,
-                            "name": "Farmers Union Iced Coffee No Added Sugar 600ml",
+                            "id": 4448833,
+                            "name": "Farmers Union Iced Coffee Reduced Fat 500ml",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11846.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11788.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
-                            "keywords": "",
+                            "keywords": "farmers union, farmers, coffee, iced coffee, flavoured, milk, flavoured milk, FUIC",
                             "data": []
                         },
                         {
@@ -11266,42 +11278,6 @@
                             "data": []
                         },
                         {
-                            "id": 4448829,
-                            "name": "Farmers Union Feel Good Coffee 600ml",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11785.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "farmers union, farmers, coffee, iced coffee, flavoured, milk, flavoured milk, FUIC",
-                            "data": []
-                        },
-                        {
-                            "id": 4448833,
-                            "name": "Farmers Union Iced Coffee Reduced Fat 500ml",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11788.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "farmers union, farmers, coffee, iced coffee, flavoured, milk, flavoured milk, FUIC",
-                            "data": []
-                        },
-                        {
-                            "id": 4448017,
-                            "name": "Farmers Union Iced Coffee Reduced Fat 600ml",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11062.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "FUIC, flavoured milk, milk, flavoured, iced coffee, coffee, farmers, farmers union",
-                            "data": []
-                        },
-                        {
                             "id": 4449369,
                             "name": "Farmers Union Feel Good Coffee 600ml",
                             "description": "",
@@ -11314,36 +11290,24 @@
                             "data": []
                         },
                         {
-                            "id": 4449372,
-                            "name": "Farmers Union Iced Coffee Strong 600ml",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11845.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
-                            "id": 4448830,
-                            "name": "Farmers Union Iced Coffee Strong 600ml",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11786.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "farmers union, farmers, coffee, iced coffee, flavoured, milk, flavoured milk, FUIC",
-                            "data": []
-                        },
-                        {
                             "id": 4449376,
                             "name": "Farmers Union Iced Coffee Reduced Fat 600ml",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "5.49",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11851.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 4449372,
+                            "name": "Farmers Union Iced Coffee Strong 600ml",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.49",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11845.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -11428,19 +11392,6 @@
                             "data": []
                         },
                         {
-                            "id": 4448536,
-                            "name": "Dare Mocha 750mL",
-                            "range": "DARE 750ml Varieties",
-                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "priceTotal": "6.79",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11487.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "750ml, choc, chocolate, coffee, dairy, Dare, drink, ice, iced, milk, mocha",
-                            "data": []
-                        },
-                        {
                             "id": 4449253,
                             "name": "Dare No Sugar Added Double Espresso 750ml",
                             "range": "DARE 750ml Varieties",
@@ -11451,6 +11402,19 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 4448536,
+                            "name": "Dare Mocha 750mL",
+                            "range": "DARE 750ml Varieties",
+                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "priceTotal": "6.79",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11487.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "750ml, choc, chocolate, coffee, dairy, Dare, drink, ice, iced, milk, mocha",
                             "data": []
                         },
                         {
@@ -14237,5 +14201,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Thu, 25 Jul 2024 13:32:10 GMT"
+    "cached_at": "Fri, 26 Jul 2024 02:02:36 GMT"
 }
