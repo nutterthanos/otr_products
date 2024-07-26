@@ -3560,6 +3560,7 @@
                             "shortDescription": "",
                             "priceTotal": "1.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12596.png",
+                            "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": [
@@ -3777,6 +3778,7 @@
                                             "priceTotal": "1.00",
                                             "isSelected": true,
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12596.png",
+                                            "hasMealDeal": false,
                                             "rewardDescription": ""
                                         }
                                     ]
@@ -3797,6 +3799,7 @@
                             "shortDescription": "",
                             "priceTotal": "6.95",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13159.png",
+                            "hasMealDeal": false,
                             "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
                             "loyalty_enabled": 1,
                             "keywords": "",
@@ -4026,6 +4029,7 @@
                                             "priceTotal": "6.95",
                                             "isSelected": true,
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13159.png",
+                                            "hasMealDeal": false,
                                             "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
                                         }
                                     ]
@@ -4040,6 +4044,7 @@
                             "shortDescription": "",
                             "priceTotal": "6.95",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13147.png",
+                            "hasMealDeal": false,
                             "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
                             "loyalty_enabled": 1,
                             "keywords": "",
@@ -4269,6 +4274,7 @@
                                             "priceTotal": "6.95",
                                             "isSelected": true,
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13147.png",
+                                            "hasMealDeal": false,
                                             "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
                                         }
                                     ]
@@ -4283,6 +4289,7 @@
                             "shortDescription": "",
                             "priceTotal": "6.95",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13153.png",
+                            "hasMealDeal": false,
                             "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
                             "loyalty_enabled": 1,
                             "keywords": "",
@@ -4512,6 +4519,7 @@
                                             "priceTotal": "6.95",
                                             "isSelected": true,
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13153.png",
+                                            "hasMealDeal": false,
                                             "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
                                         }
                                     ]
@@ -6400,6 +6408,7 @@
                             "shortDescription": "",
                             "priceTotal": "5.95",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12748.png",
+                            "hasMealDeal": false,
                             "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
                             "loyalty_enabled": 1,
                             "keywords": "",
@@ -6606,6 +6615,7 @@
                                             "priceTotal": "5.95",
                                             "isSelected": true,
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12748.png",
+                                            "hasMealDeal": false,
                                             "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
                                         }
                                     ]
@@ -6854,6 +6864,7 @@
                             "shortDescription": "",
                             "priceTotal": "6.50",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12754.png",
+                            "hasMealDeal": false,
                             "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
                             "loyalty_enabled": 1,
                             "keywords": "",
@@ -7049,6 +7060,7 @@
                                             "priceTotal": "6.50",
                                             "isSelected": true,
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12754.png",
+                                            "hasMealDeal": false,
                                             "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
                                         }
                                     ]
@@ -7557,6 +7569,7 @@
                             "shortDescription": "",
                             "priceTotal": "3.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12683.png",
+                            "hasMealDeal": false,
                             "rewardDescription": "Buy 4 Regular Coffee, Get 1 FREE",
                             "loyalty_enabled": 1,
                             "keywords": "",
@@ -7598,6 +7611,7 @@
                                             "priceTotal": "3.00",
                                             "isSelected": true,
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12683.png",
+                                            "hasMealDeal": false,
                                             "rewardDescription": "Buy 4 Regular Coffee, Get 1 FREE"
                                         },
                                         {
@@ -7607,6 +7621,7 @@
                                             "priceTotal": "3.00",
                                             "isSelected": false,
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12687.png",
+                                            "hasMealDeal": false,
                                             "rewardDescription": "Buy 4 Grande Coffee, Get 1 FREE"
                                         },
                                         {
@@ -7616,6 +7631,7 @@
                                             "priceTotal": "3.00",
                                             "isSelected": false,
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12691.png",
+                                            "hasMealDeal": false,
                                             "rewardDescription": "Buy 4 Max Coffee, Get 1 FREE"
                                         }
                                     ]
@@ -13317,5 +13333,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Fri, 26 Jul 2024 10:46:52 GMT"
+    "cached_at": "Fri, 26 Jul 2024 12:47:17 GMT"
 }
