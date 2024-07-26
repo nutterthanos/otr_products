@@ -4152,7 +4152,7 @@
                                     "options": [
                                         {
                                             "id": 4450387,
-                                            "description": "Premium Iced Mocha",
+                                            "description": "Premium Iced Mocha Iced Coffee",
                                             "rangeDescription": "",
                                             "priceTotal": "6.95",
                                             "isSelected": true,
@@ -4397,7 +4397,7 @@
                                     "options": [
                                         {
                                             "id": 4450388,
-                                            "description": "Premium Iced Coffee",
+                                            "description": "Premium Iced Coffee Iced Coffee",
                                             "rangeDescription": "",
                                             "priceTotal": "6.95",
                                             "isSelected": true,
@@ -4642,7 +4642,7 @@
                                     "options": [
                                         {
                                             "id": 4450389,
-                                            "description": "Premium Iced Chocolate",
+                                            "description": "Premium Iced Chocolate Iced Coffee",
                                             "rangeDescription": "",
                                             "priceTotal": "6.95",
                                             "isSelected": true,
@@ -5146,7 +5146,7 @@
                                     "options": [
                                         {
                                             "id": 4449263,
-                                            "description": "Iced Mocha Latte",
+                                            "description": "Iced Mocha Latte Iced Coffee",
                                             "rangeDescription": "",
                                             "priceTotal": "5.95",
                                             "isSelected": true,
@@ -5391,7 +5391,7 @@
                                     "options": [
                                         {
                                             "id": 4449493,
-                                            "description": "Iced Vanilla Latte",
+                                            "description": "Iced Vanilla Latte Iced Coffee",
                                             "rangeDescription": "",
                                             "priceTotal": "5.95",
                                             "isSelected": true,
@@ -5636,7 +5636,7 @@
                                     "options": [
                                         {
                                             "id": 4449503,
-                                            "description": "Iced Caramel Latte",
+                                            "description": "Iced Caramel Latte Iced Coffee",
                                             "rangeDescription": "",
                                             "priceTotal": "5.95",
                                             "isSelected": true,
@@ -5881,7 +5881,7 @@
                                     "options": [
                                         {
                                             "id": 4449498,
-                                            "description": "Iced Chai Latte",
+                                            "description": "Iced Chai Latte Iced Coffee",
                                             "rangeDescription": "",
                                             "priceTotal": "5.95",
                                             "isSelected": true,
@@ -6071,7 +6071,7 @@
                                     "options": [
                                         {
                                             "id": 4448805,
-                                            "description": "Iced Long Black",
+                                            "description": "Iced Long Black Iced Coffee",
                                             "rangeDescription": "",
                                             "priceTotal": "5.95",
                                             "isSelected": true,
@@ -6304,7 +6304,7 @@
                                     "options": [
                                         {
                                             "id": 4447066,
-                                            "description": "Iced Coffee",
+                                            "description": "Iced Coffee Iced Coffee",
                                             "rangeDescription": "",
                                             "priceTotal": "6.50",
                                             "isSelected": true,
@@ -6537,7 +6537,7 @@
                                     "options": [
                                         {
                                             "id": 4447067,
-                                            "description": "Iced Chocolate",
+                                            "description": "Iced Chocolate Iced Coffee",
                                             "rangeDescription": "",
                                             "priceTotal": "6.50",
                                             "isSelected": true,
@@ -6992,7 +6992,7 @@
                                     "options": [
                                         {
                                             "id": 4447069,
-                                            "description": "Iced Chai",
+                                            "description": "Iced Chai Iced Coffee",
                                             "rangeDescription": "",
                                             "priceTotal": "6.50",
                                             "isSelected": true,
@@ -7370,7 +7370,7 @@
                                     "options": [
                                         {
                                             "id": 4448266,
-                                            "description": "Affogato",
+                                            "description": "Affogato Iced Coffee",
                                             "rangeDescription": "",
                                             "priceTotal": "4.95",
                                             "isSelected": true,
@@ -14071,5 +14071,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Fri, 26 Jul 2024 02:06:10 GMT"
+    "cached_at": "Fri, 26 Jul 2024 04:36:52 GMT"
 }
