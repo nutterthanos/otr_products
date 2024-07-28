@@ -9451,25 +9451,25 @@
                             ]
                         },
                         {
-                            "id": 1003348,
+                            "id": 1003349,
                             "name": "Loaded Dog",
                             "range": "Loaded Dog",
                             "description": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
                             "shortDescription": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
-                            "priceTotal": "5.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13397.png",
+                            "priceTotal": "4.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13396.png",
                             "hasMealDeal": true,
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": [
                                 {
-                                    "id": 6412,
+                                    "id": 6413,
                                     "description": "Add Ons",
                                     "component": "blank",
                                     "minQuantity": 0,
                                     "maxQuantity": 99,
                                     "ranges": [
-                                        1003348
+                                        1003349
                                     ],
                                     "options": [
                                         {
@@ -9478,7 +9478,7 @@
                                             "priceTotal": "0.50",
                                             "isSelected": false,
                                             "defaultSelection": false,
-                                            "productRange": 45704,
+                                            "productRange": 45709,
                                             "kjTotal": 0
                                         },
                                         {
@@ -9487,7 +9487,7 @@
                                             "priceTotal": "0.50",
                                             "isSelected": false,
                                             "defaultSelection": false,
-                                            "productRange": 45703,
+                                            "productRange": 45708,
                                             "kjTotal": 0
                                         },
                                         {
@@ -9496,7 +9496,7 @@
                                             "priceTotal": "1.00",
                                             "isSelected": false,
                                             "defaultSelection": false,
-                                            "productRange": 45702,
+                                            "productRange": 45707,
                                             "kjTotal": 0
                                         },
                                         {
@@ -9505,7 +9505,7 @@
                                             "priceTotal": "0.00",
                                             "isSelected": true,
                                             "defaultSelection": false,
-                                            "productRange": 45700,
+                                            "productRange": 45705,
                                             "kjTotal": 0
                                         },
                                         {
@@ -9514,7 +9514,7 @@
                                             "priceTotal": "0.00",
                                             "isSelected": true,
                                             "defaultSelection": false,
-                                            "productRange": 45701,
+                                            "productRange": 45706,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -9539,12 +9539,12 @@
                                     "component": "rangeList",
                                     "options": [
                                         {
-                                            "id": 1003348,
+                                            "id": 1003349,
                                             "description": "Loaded Dog",
                                             "rangeDescription": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
-                                            "priceTotal": "5.00",
+                                            "priceTotal": "4.00",
                                             "isSelected": true,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13397.png",
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13396.png",
                                             "hasMealDeal": true,
                                             "rewardDescription": ""
                                         }
@@ -13585,5 +13585,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Sun, 28 Jul 2024 04:36:42 GMT"
+    "cached_at": "Sun, 28 Jul 2024 15:05:07 GMT"
 }
