@@ -9777,24 +9777,24 @@
                             ]
                         },
                         {
-                            "id": 4450541,
+                            "id": 4450540,
                             "name": "Loaded Dog",
                             "range": "Loaded Dog",
                             "description": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
                             "shortDescription": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
-                            "priceTotal": "5.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13397.png",
+                            "priceTotal": "4.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13396.png",
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": [
                                 {
-                                    "id": 11581,
+                                    "id": 11580,
                                     "description": "Add Ons",
                                     "component": "blank",
                                     "minQuantity": 0,
                                     "maxQuantity": 99,
                                     "ranges": [
-                                        4450541
+                                        4450540
                                     ],
                                     "options": [
                                         {
@@ -9803,7 +9803,7 @@
                                             "priceTotal": "0.50",
                                             "isSelected": false,
                                             "defaultSelection": false,
-                                            "productRange": 92160,
+                                            "productRange": 92155,
                                             "kjTotal": 0
                                         },
                                         {
@@ -9812,7 +9812,7 @@
                                             "priceTotal": "0.50",
                                             "isSelected": false,
                                             "defaultSelection": false,
-                                            "productRange": 92159,
+                                            "productRange": 92154,
                                             "kjTotal": 0
                                         },
                                         {
@@ -9821,7 +9821,7 @@
                                             "priceTotal": "1.00",
                                             "isSelected": false,
                                             "defaultSelection": false,
-                                            "productRange": 92158,
+                                            "productRange": 92153,
                                             "kjTotal": 0
                                         },
                                         {
@@ -9830,7 +9830,7 @@
                                             "priceTotal": "0.00",
                                             "isSelected": true,
                                             "defaultSelection": false,
-                                            "productRange": 92156,
+                                            "productRange": 92151,
                                             "kjTotal": 0
                                         },
                                         {
@@ -9839,7 +9839,7 @@
                                             "priceTotal": "0.00",
                                             "isSelected": true,
                                             "defaultSelection": false,
-                                            "productRange": 92157,
+                                            "productRange": 92152,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -9850,12 +9850,12 @@
                                     "component": "rangeList",
                                     "options": [
                                         {
-                                            "id": 4450541,
+                                            "id": 4450540,
                                             "description": "Loaded Dog",
                                             "rangeDescription": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
-                                            "priceTotal": "5.00",
+                                            "priceTotal": "4.00",
                                             "isSelected": true,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13397.png",
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13396.png",
                                             "rewardDescription": ""
                                         }
                                     ]
@@ -11032,18 +11032,6 @@
                             "data": []
                         },
                         {
-                            "id": 4449369,
-                            "name": "Farmers Union Feel Good Coffee 600ml",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11865.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
                             "id": 4448829,
                             "name": "Farmers Union Feel Good Coffee 600ml",
                             "description": "",
@@ -11056,24 +11044,12 @@
                             "data": []
                         },
                         {
-                            "id": 4449373,
-                            "name": "Farmers Union Iced Coffee No Added Sugar 600ml",
+                            "id": 4449369,
+                            "name": "Farmers Union Feel Good Coffee 600ml",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11846.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
-                            "id": 4449372,
-                            "name": "Farmers Union Iced Coffee Strong 600ml",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11845.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11865.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -11104,6 +11080,18 @@
                             "data": []
                         },
                         {
+                            "id": 4449373,
+                            "name": "Farmers Union Iced Coffee No Added Sugar 600ml",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.49",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11846.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
                             "id": 4449376,
                             "name": "Farmers Union Iced Coffee Reduced Fat 600ml",
                             "description": "",
@@ -11116,15 +11104,15 @@
                             "data": []
                         },
                         {
-                            "id": 4448833,
-                            "name": "Farmers Union Iced Coffee Reduced Fat 500ml",
+                            "id": 4449372,
+                            "name": "Farmers Union Iced Coffee Strong 600ml",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11788.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11845.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
-                            "keywords": "farmers union, farmers, coffee, iced coffee, flavoured, milk, flavoured milk, FUIC",
+                            "keywords": "",
                             "data": []
                         },
                         {
@@ -11140,16 +11128,15 @@
                             "data": []
                         },
                         {
-                            "id": 4449246,
-                            "name": "Dare Triple Espresso 500ml",
-                            "range": "DARE 500ml Varieties",
-                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "priceTotal": "5.29",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12199.png",
+                            "id": 4448833,
+                            "name": "Farmers Union Iced Coffee Reduced Fat 500ml",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.49",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11788.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
-                            "keywords": "",
+                            "keywords": "farmers union, farmers, coffee, iced coffee, flavoured, milk, flavoured milk, FUIC",
                             "data": []
                         },
                         {
@@ -11166,13 +11153,13 @@
                             "data": []
                         },
                         {
-                            "id": 4449249,
-                            "name": "Dare Espresso 500ml",
+                            "id": 4449246,
+                            "name": "Dare Triple Espresso 500ml",
                             "range": "DARE 500ml Varieties",
                             "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
                             "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
                             "priceTotal": "5.29",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12197.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12199.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -11189,6 +11176,19 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "dare, iced coffee, milk, flavoured milk, iced, coffee, 500ml",
+                            "data": []
+                        },
+                        {
+                            "id": 4449249,
+                            "name": "Dare Espresso 500ml",
+                            "range": "DARE 500ml Varieties",
+                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "priceTotal": "5.29",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12197.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
                             "data": []
                         },
                         {
@@ -11218,19 +11218,6 @@
                             "data": []
                         },
                         {
-                            "id": 4449253,
-                            "name": "Dare No Sugar Added Double Espresso 750ml",
-                            "range": "DARE 750ml Varieties",
-                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "priceTotal": "6.79",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12195.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
                             "id": 4448536,
                             "name": "Dare Mocha 750mL",
                             "range": "DARE 750ml Varieties",
@@ -11241,6 +11228,19 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "750ml, choc, chocolate, coffee, dairy, Dare, drink, ice, iced, milk, mocha",
+                            "data": []
+                        },
+                        {
+                            "id": 4449253,
+                            "name": "Dare No Sugar Added Double Espresso 750ml",
+                            "range": "DARE 750ml Varieties",
+                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "priceTotal": "6.79",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12195.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
                             "data": []
                         },
                         {
@@ -11745,6 +11745,18 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "Coke 6 pack, Coke no sugar, Coke cans, Coca Cola No Sugar, Soft drink, soft drinks",
+                            "data": []
+                        },
+                        {
+                            "id": 4448298,
+                            "name": "FUIC or Feel Good 600mL, 2 for $6.50",
+                            "description": "FUIC or Feel Good 600mL, 2 for $6.50",
+                            "shortDescription": "",
+                            "priceTotal": "6.50",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/MealDeal/MealDeal_81.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "FUIC, flavoured milk, milk, flavoured, iced coffee, coffee, farmers, farmers union",
                             "data": []
                         },
                         {
@@ -12863,6 +12875,18 @@
                             "data": []
                         },
                         {
+                            "id": 4447992,
+                            "name": "Gold Max Soft Wholemeal Sandwich 700g",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "3.69",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11037.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "tip top, tiptop, bread, gold, max, goldmax, gold max, sliced, sliced bread, wholemeal",
+                            "data": []
+                        },
+                        {
                             "id": 4449944,
                             "name": "Milk & Bread Combo for $6.79",
                             "description": "Milk and Bread Combo Deal",
@@ -12889,18 +12913,6 @@
                                 }
                             ],
                             "mustHaveMealDeal": true
-                        },
-                        {
-                            "id": 4447992,
-                            "name": "Gold Max Soft Wholemeal Sandwich 700g",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "3.69",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11037.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "tip top, tiptop, bread, gold, max, goldmax, gold max, sliced, sliced bread, wholemeal",
-                            "data": []
                         },
                         {
                             "id": 4448429,
@@ -12984,6 +12996,18 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 4448297,
+                            "name": "Pura Milk 2L, 2 for $6",
+                            "description": "Pura Milk 2L, 2 for $6.00",
+                            "shortDescription": "",
+                            "priceTotal": "6.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/MealDeal/MealDeal_83.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "milk, plain milk, plain, Pura, 2lt, light, reduced fat",
                             "data": []
                         },
                         {
@@ -14003,5 +14027,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Sun, 28 Jul 2024 13:33:10 GMT"
+    "cached_at": "Mon, 29 Jul 2024 00:21:36 GMT"
 }
