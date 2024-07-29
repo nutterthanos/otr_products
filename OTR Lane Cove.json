@@ -9950,16 +9950,6 @@
                             "data": []
                         },
                         {
-                            "id": 4447764,
-                            "name": "Custard Tart",
-                            "shortDescription": "",
-                            "priceTotal": "4.75",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10933.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "data": []
-                        },
-                        {
                             "id": 4447766,
                             "name": "Blueberry Muffin",
                             "shortDescription": "",
@@ -10746,6 +10736,19 @@
                             "data": []
                         },
                         {
+                            "id": 4449249,
+                            "name": "Dare Espresso 500ml",
+                            "range": "DARE 500ml Varieties",
+                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "priceTotal": "5.29",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12197.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
                             "id": 4449246,
                             "name": "Dare Triple Espresso 500ml",
                             "range": "DARE 500ml Varieties",
@@ -10753,19 +10756,6 @@
                             "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
                             "priceTotal": "5.29",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12199.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
-                            "id": 4449250,
-                            "name": "Dare No Sugar Added Double Espresso 500ml",
-                            "range": "DARE 500ml Varieties",
-                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "priceTotal": "5.29",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12201.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -10785,13 +10775,13 @@
                             "data": []
                         },
                         {
-                            "id": 4449249,
-                            "name": "Dare Espresso 500ml",
+                            "id": 4449250,
+                            "name": "Dare No Sugar Added Double Espresso 500ml",
                             "range": "DARE 500ml Varieties",
                             "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
                             "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
                             "priceTotal": "5.29",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12197.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12201.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -11402,18 +11392,6 @@
                             "data": []
                         },
                         {
-                            "id": 4449291,
-                            "name": "Pepsi Max 2L",
-                            "description": "With Max Taste, No Sugar \u2013 Pepsi Max is a low-calorie and sugar-free version of our classic Pepsi cola soft drink. Bold and refreshing.",
-                            "shortDescription": "With Max Taste, No Sugar \u2013 Pepsi Max is a low-calorie and sugar-free version of our classic Pepsi cola soft drink. Bold and refreshing.",
-                            "priceTotal": "2.99",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12232.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "Pepsi Max, Pepsi Max 2lt, Soft Drinks, Soft Drink, Fizzy Drink",
-                            "data": []
-                        },
-                        {
                             "id": 4449287,
                             "name": "Red Bull 4 x 250mL",
                             "description": "Red Bull Energy Drink. Appreciated worldwide by top athletes, students, busy professionals and travellers on long journeys.",
@@ -11791,18 +11769,6 @@
                             "data": []
                         },
                         {
-                            "id": 4448450,
-                            "name": "Menz Fruchoc 150g",
-                            "description": "SA's favourite FruChocs \u2013 Yummy apricot and peach centres covered in milk chocolate. ",
-                            "shortDescription": "SA's favourite FruChocs \u2013 Yummy apricot and peach centres covered in milk chocolate. ",
-                            "priceTotal": "7.79",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11442.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "150g, apricot, choc, choccy, chocolate, confectionary, Fru, Fruchoc, fruit, Menz, peach, snack",
-                            "data": []
-                        },
-                        {
                             "id": 4450358,
                             "name": "Nom Nom Sour Spiders 130g",
                             "description": "Nom Nom Sour Spiders 130g ",
@@ -11839,18 +11805,6 @@
                             "data": []
                         },
                         {
-                            "id": 4448499,
-                            "name": "Allens Snakes Alive 200g",
-                            "description": "Check out Allen's snakes alive.",
-                            "shortDescription": "Check out Allen's snakes alive.",
-                            "priceTotal": "6.99",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11413.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "200g, alive, Allens, Allen's, candy, lollies, snakes",
-                            "data": []
-                        },
-                        {
                             "id": 4450360,
                             "name": "Nom Nom Sour Neon Worms 132g",
                             "description": "Nom Nom Sour Neon Worms 132g ",
@@ -11860,6 +11814,18 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 4448499,
+                            "name": "Allens Snakes Alive 200g",
+                            "description": "Check out Allen's snakes alive.",
+                            "shortDescription": "Check out Allen's snakes alive.",
+                            "priceTotal": "6.99",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11413.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "200g, alive, Allens, Allen's, candy, lollies, snakes",
                             "data": []
                         },
                         {
@@ -11887,18 +11853,6 @@
                             "data": []
                         },
                         {
-                            "id": 4450363,
-                            "name": "Nom Nom Fruit Salad 128g",
-                            "description": "Nom Nom Fruit Salad 128g",
-                            "shortDescription": "Nom Nom Fruit Salad 128g",
-                            "priceTotal": "3.99",
-                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
                             "id": 4447974,
                             "name": "Wrigley's Extra Gum Peppermint 14pc",
                             "description": "EXTRA consumers don't just chew for the great taste. Chewing sugarfree gum has been clinically proven to positively impact oral health, stimulating saliva by 10 times.",
@@ -11908,6 +11862,18 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "mint, wrigleys, extra, eclipse, peppermint, gum",
+                            "data": []
+                        },
+                        {
+                            "id": 4450363,
+                            "name": "Nom Nom Fruit Salad 128g",
+                            "description": "Nom Nom Fruit Salad 128g",
+                            "shortDescription": "Nom Nom Fruit Salad 128g",
+                            "priceTotal": "3.99",
+                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
                             "data": []
                         },
                         {
@@ -12493,18 +12459,6 @@
                             "data": []
                         },
                         {
-                            "id": 4448368,
-                            "name": "Kraft Cheddar Cheese Sliced Regular 250g",
-                            "description": "Tasty cheddar slices. Perfect for sandwiches and snacks ",
-                            "shortDescription": "Tasty cheddar slices. Perfect for sandwiches and snacks ",
-                            "priceTotal": "6.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11405.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
                             "id": 4448428,
                             "name": "Don Kabanos Traditional 200g",
                             "description": "The perfect snack sausage, Don Kabanos. ",
@@ -12514,18 +12468,6 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
-                            "data": []
-                        },
-                        {
-                            "id": 4449285,
-                            "name": "Adelaide Plains Barnlaid Eggs 500g 12pack",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.99",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12229.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "egg, eggs, breakfast, adelaide, plains, barnlaid, 500, 12, pack, carton",
                             "data": []
                         },
                         {
@@ -13494,5 +13436,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Mon, 29 Jul 2024 00:23:34 GMT"
+    "cached_at": "Mon, 29 Jul 2024 05:55:20 GMT"
 }
