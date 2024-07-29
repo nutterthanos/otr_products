@@ -7237,6 +7237,177 @@
                     ]
                 },
                 {
+                    "id": 337,
+                    "name": "Frappes",
+                    "products": [
+                        {
+                            "id": 1003352,
+                            "name": "Salted Caramel Frappe",
+                            "range": "Salted Caramel Frappe",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "6.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13401.png",
+                            "hasMealDeal": false,
+                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 6415,
+                                    "description": "Flavours",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        1003352
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 1000124,
+                                            "description": "Sugar Syrup",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Sugar Syrup",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 1003352,
+                                            "description": "Grande",
+                                            "rangeDescription": "",
+                                            "priceTotal": "6.95",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13401.png",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 1003351,
+                            "name": "Mocha Frappe",
+                            "range": "Mocha Frappe",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "6.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13400.png",
+                            "hasMealDeal": false,
+                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 6414,
+                                    "description": "Flavours",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        1003351
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 1000124,
+                                            "description": "Sugar Syrup",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Sugar Syrup",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 1003351,
+                                            "description": "Grande",
+                                            "rangeDescription": "",
+                                            "priceTotal": "6.95",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13400.png",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 1003353,
+                            "name": "Black Forest Frappe",
+                            "range": "Black Forest Frappe",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "6.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13399.png",
+                            "hasMealDeal": false,
+                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 6416,
+                                    "description": "Flavours",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        1003353
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 1000124,
+                                            "description": "Sugar Syrup",
+                                            "priceTotal": "0.80",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Sugar Syrup",
+                                            "kjTotal": 0,
+                                            "minQuantity": 0,
+                                            "maxQuantity": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 1003353,
+                                            "description": "Grande",
+                                            "rangeDescription": "",
+                                            "priceTotal": "6.95",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13399.png",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": "Buy 4 CHILLED C, Get 1 FREE"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
                     "id": 312,
                     "name": "Iced Teas",
                     "products": [
@@ -13900,5 +14071,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Sun, 28 Jul 2024 22:34:07 GMT"
+    "cached_at": "Mon, 29 Jul 2024 00:21:12 GMT"
 }
