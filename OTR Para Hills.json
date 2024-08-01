@@ -10806,12 +10806,12 @@
                             ]
                         },
                         {
-                            "id": 4447737,
+                            "id": 4447746,
                             "name": "Chicken, Avocado & Lettuce Sandwich",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "7.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10906.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10915.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
@@ -10833,12 +10833,12 @@
                             ]
                         },
                         {
-                            "id": 4449276,
+                            "id": 4449275,
                             "name": "Ham, Cheese & Tomato Sandwich",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "6.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12224.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12220.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
@@ -10861,12 +10861,12 @@
                             ]
                         },
                         {
-                            "id": 4449277,
+                            "id": 4449278,
                             "name": "Egg & Lettuce Sandwich",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "6.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12225.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12221.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
@@ -14059,5 +14059,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Wed, 31 Jul 2024 13:32:24 GMT"
+    "cached_at": "Thu, 01 Aug 2024 13:32:26 GMT"
 }
