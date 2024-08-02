@@ -14377,178 +14377,6 @@
                     "name": "Rappas, Pockets & Bowls",
                     "products": [
                         {
-                            "id": 4450545,
-                            "name": "Oprego Loaded Rappa",
-                            "range": "Oprego Loaded Rappa",
-                            "description": "Our Oprego Loaded Rappa is packed full of fresh, real ingredients including juicy Chicken tenders, Prego Sauce, Portuguese Tomato Salad, Mayo, Lettuce & Chips all wrapped up in our toasted Pita.",
-                            "shortDescription": "Our Oprego Loaded Rappa is packed full of fresh, real ingredients including juicy Chicken tenders, Prego Sauce, Portuguese Tomato Salad, Mayo, Lettuce & Chips all wrapped up in our toasted Pita.",
-                            "priceTotal": "10.95",
-                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
-                            "kjTotal": "2770 kj",
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 11589,
-                                    "description": "Extras",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        4450545
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4447187,
-                                            "description": "Bacon - Add",
-                                            "priceTotal": "2.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Bacon",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4447195,
-                                            "description": "Pineapple - Add",
-                                            "priceTotal": "2.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Pineapple",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4447189,
-                                            "description": "Cheese - Add",
-                                            "priceTotal": "2.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Cheese",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448281,
-                                            "description": "Avocado - Add",
-                                            "priceTotal": "2.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Avocado",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448088,
-                                            "description": "Portuguese Salad",
-                                            "priceTotal": "0.00",
-                                            "isSelected": true,
-                                            "defaultSelection": true,
-                                            "productRange": "Portuguese Salad",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4447229,
-                                            "description": "Lettuce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": true,
-                                            "defaultSelection": true,
-                                            "productRange": "Lettuce",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4447230,
-                                            "description": "Mayo",
-                                            "priceTotal": "0.00",
-                                            "isSelected": true,
-                                            "defaultSelection": true,
-                                            "productRange": "Mayo",
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 11588,
-                                    "description": "Sauces",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        4450545
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4447188,
-                                            "description": "BBQ Sauce - Add",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "BBQ Sauce",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4447190,
-                                            "description": "Chilli Sauce - Add",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Chilli Sauce",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4447192,
-                                            "description": "Lemon Herb Sauce - Add",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Lemon Herb Sauce",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448128,
-                                            "description": "Extremo Picante - Add",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Picante Sauce",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4447196,
-                                            "description": "Prego Sauce - Add",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Prego Sauce",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4449008,
-                                            "description": "Prego Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": true,
-                                            "defaultSelection": true,
-                                            "productRange": "Prego Sauce",
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "range",
-                                    "component": "rangeList",
-                                    "options": [
-                                        {
-                                            "id": 4450545,
-                                            "description": "Oprego Loaded Rappa",
-                                            "rangeDescription": "Our Oprego Loaded Rappa is packed full of fresh, real ingredients including juicy Chicken tenders, Prego Sauce, Portuguese Tomato Salad, Mayo, Lettuce & Chips all wrapped up in our toasted Pita.",
-                                            "priceTotal": "10.95",
-                                            "isSelected": true,
-                                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
-                                            "kjTotal": "2770 kj",
-                                            "rewardDescription": ""
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
                             "id": 4447277,
                             "name": "Chicken Rappa\u00ae",
                             "range": "Chicken Rappa",
@@ -14922,7 +14750,7 @@
                             "shortDescription": "The snack-sized wrap with a fresh grilled chicken tender, fresh lettuce and creamy mayo.",
                             "priceTotal": "5.45",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10443.png",
-                            "kjTotal": "1420 kj",
+                            "kjTotal": "1440 kj",
                             "hasMealDeal": true,
                             "loyalty_enabled": 0,
                             "data": [
@@ -15084,7 +14912,7 @@
                                             "priceTotal": "5.45",
                                             "isSelected": true,
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10443.png",
-                                            "kjTotal": "1420 kj",
+                                            "kjTotal": "1440 kj",
                                             "hasMealDeal": true,
                                             "rewardDescription": ""
                                         }
@@ -15123,11 +14951,11 @@
                             "id": 4448274,
                             "name": "Portuguese Pulled Chicken Rappa\u00ae",
                             "range": "Portuguese Pulled Chicken Rappa\u00ae",
-                            "description": "With pulled chicken, creamy mayo, crunchy slaw and your choice of sauce - all in a warm pita bread wrap.",
-                            "shortDescription": "With pulled chicken, creamy mayo, crunchy slaw and your choice of sauce - all in a warm pita bread wrap.",
+                            "description": "With pulled chicken, creamy mayo, crunchy slaw, spicy rice and our orginal chilli sauce  - all in a warm pita bread wrap.",
+                            "shortDescription": "With pulled chicken, creamy mayo, crunchy slaw, spicy rice and our orginal chilli sauce  - all in a warm pita bread wrap.",
                             "priceTotal": "11.25",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11261.png",
-                            "kjTotal": "2740 kj",
+                            "kjTotal": "3090 kj",
                             "hasMealDeal": true,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -15286,11 +15114,11 @@
                                         {
                                             "id": 4448274,
                                             "description": "Portuguese Pulled Chicken Rappa\u00ae",
-                                            "rangeDescription": "With pulled chicken, creamy mayo, crunchy slaw and your choice of sauce - all in a warm pita bread wrap.",
+                                            "rangeDescription": "With pulled chicken, creamy mayo, crunchy slaw, spicy rice and our orginal chilli sauce  - all in a warm pita bread wrap.",
                                             "priceTotal": "11.25",
                                             "isSelected": true,
                                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11261.png",
-                                            "kjTotal": "2740 kj",
+                                            "kjTotal": "3090 kj",
                                             "hasMealDeal": true,
                                             "rewardDescription": ""
                                         }
@@ -15672,7 +15500,7 @@
                             "shortDescription": "Two grilled chicken breast fillets, crisp lettuce, cheese, creamy mayo and Original Chilli sauce \u2013 all in a warm pita bread wrap.",
                             "priceTotal": "11.25",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12350.png",
-                            "kjTotal": "2910 kj",
+                            "kjTotal": "2680 kj",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
@@ -20909,7 +20737,7 @@
                             "priceIncrement": "0.00",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10443.png",
                             "range": "",
-                            "kjTotal": "1420 kj",
+                            "kjTotal": "1440 kj",
                             "isSelected": false,
                             "defaultSelection": false,
                             "productRange": "Chicken Rappsnacker"
@@ -21490,61 +21318,6 @@
                             ]
                         },
                         {
-                            "id": 4450509,
-                            "name": "Chunky Butter Chicken Pie",
-                            "description": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
-                            "shortDescription": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
-                            "priceTotal": "4.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13370.png",
-                            "hasMealDeal": true,
-                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 10703,
-                                    "description": "Sauces",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "options": [
-                                        {
-                                            "id": 4450237,
-                                            "description": "Squeeze Bbq Sauce",
-                                            "priceTotal": "0.30",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 91861,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448122,
-                                            "description": "Squeeze Tomato Sauce",
-                                            "priceTotal": "0.30",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 91860,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "mealDeals",
-                                    "component": "mealDealList",
-                                    "options": [
-                                        {
-                                            "id": 191,
-                                            "description": "EAT Add a drink",
-                                            "priceTotal": "0.00",
-                                            "shortName": "O",
-                                            "isSelected": true
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
                             "id": 4450222,
                             "name": "Traveller Burrito Pie",
                             "description": "",
@@ -21579,6 +21352,61 @@
                                             "isSelected": false,
                                             "defaultSelection": false,
                                             "productRange": 86426,
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 191,
+                                            "description": "EAT Add a drink",
+                                            "priceTotal": "0.00",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4450509,
+                            "name": "Chunky Butter Chicken Pie",
+                            "description": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
+                            "shortDescription": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
+                            "priceTotal": "4.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13370.png",
+                            "hasMealDeal": true,
+                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 10703,
+                                    "description": "Sauces",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "options": [
+                                        {
+                                            "id": 4450237,
+                                            "description": "Squeeze Bbq Sauce",
+                                            "priceTotal": "0.30",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 91861,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4448122,
+                                            "description": "Squeeze Tomato Sauce",
+                                            "priceTotal": "0.30",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 91860,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -21708,6 +21536,18 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "id": 4449607,
+                            "name": "2 for $5, Sausage Rolls",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.00",
+                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
                         },
                         {
                             "id": 4449819,
@@ -22252,18 +22092,6 @@
                             "data": []
                         },
                         {
-                            "id": 4448829,
-                            "name": "Farmers Union Feel Good Coffee 600ml",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11785.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "farmers union, farmers, coffee, iced coffee, flavoured, milk, flavoured milk, FUIC",
-                            "data": []
-                        },
-                        {
                             "id": 4449369,
                             "name": "Farmers Union Feel Good Coffee 600ml",
                             "description": "",
@@ -22288,24 +22116,24 @@
                             "data": []
                         },
                         {
-                            "id": 4448830,
-                            "name": "Farmers Union Iced Coffee Strong 600ml",
+                            "id": 4448833,
+                            "name": "Farmers Union Iced Coffee Reduced Fat 500ml",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11786.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11788.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "farmers union, farmers, coffee, iced coffee, flavoured, milk, flavoured milk, FUIC",
                             "data": []
                         },
                         {
-                            "id": 4449373,
-                            "name": "Farmers Union Iced Coffee No Added Sugar 600ml",
+                            "id": 4449372,
+                            "name": "Farmers Union Iced Coffee Strong 600ml",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11846.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11845.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -22324,39 +22152,16 @@
                             "data": []
                         },
                         {
-                            "id": 4449372,
-                            "name": "Farmers Union Iced Coffee Strong 600ml",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11845.png",
+                            "id": 4449246,
+                            "name": "Dare Triple Espresso 500ml",
+                            "range": "DARE 500ml Varieties",
+                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "priceTotal": "5.29",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12199.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
-                            "data": []
-                        },
-                        {
-                            "id": 4448017,
-                            "name": "Farmers Union Iced Coffee Reduced Fat 600ml",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11062.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "FUIC, flavoured milk, milk, flavoured, iced coffee, coffee, farmers, farmers union",
-                            "data": []
-                        },
-                        {
-                            "id": 4448833,
-                            "name": "Farmers Union Iced Coffee Reduced Fat 500ml",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11788.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "farmers union, farmers, coffee, iced coffee, flavoured, milk, flavoured milk, FUIC",
                             "data": []
                         },
                         {
@@ -22367,19 +22172,6 @@
                             "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
                             "priceTotal": "5.29",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12201.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
-                            "id": 4449246,
-                            "name": "Dare Triple Espresso 500ml",
-                            "range": "DARE 500ml Varieties",
-                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "priceTotal": "5.29",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12199.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -23020,7 +22812,7 @@
                             "name": "Pepsi Max 2L",
                             "description": "With Max Taste, No Sugar \u2013 Pepsi Max is a low-calorie and sugar-free version of our classic Pepsi cola soft drink. Bold and refreshing.",
                             "shortDescription": "With Max Taste, No Sugar \u2013 Pepsi Max is a low-calorie and sugar-free version of our classic Pepsi cola soft drink. Bold and refreshing.",
-                            "priceTotal": "2.99",
+                            "priceTotal": "6.29",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12232.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -23181,7 +22973,7 @@
                             "name": "Cadbury Twirl 39g",
                             "description": "Chocolate swirls and curls covered with Cadbury Dairy Milk chocolate.",
                             "shortDescription": "Chocolate swirls and curls covered with Cadbury Dairy Milk chocolate.",
-                            "priceTotal": "3.69",
+                            "priceTotal": "3.79",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13378.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -23693,18 +23485,6 @@
                             "data": []
                         },
                         {
-                            "id": 4448443,
-                            "name": "Smiths Crinkle Cut Cheese & Onion 170g",
-                            "description": "Smith's take top quality Aussie potatoes, peel and slice them to just the right crinkle cut thickness, then cook them to perfection using healthier oils with 75% less saturated fat.",
-                            "shortDescription": "Smith's take top quality Aussie potatoes, peel and slice them to just the right crinkle cut thickness, then cook them to perfection using healthier oils with 75% less saturated fat.",
-                            "priceTotal": "7.99",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11452.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "170g, Cheese, Chips, Crinkle, Crisps, Cut, Onion, Potato, Smith's, Snack",
-                            "data": []
-                        },
-                        {
                             "id": 4450246,
                             "name": "Red Rock Deli Honey Soy Chicken Potato Chips 45 g",
                             "description": "Smith's take top quality Aussie potatoes, peel and slice them to just the right crinkle cut thickness, then cook them to perfection using healthier oils with 75% less saturated fat.",
@@ -23714,6 +23494,18 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 4448443,
+                            "name": "Smiths Crinkle Cut Cheese & Onion 170g",
+                            "description": "Smith's take top quality Aussie potatoes, peel and slice them to just the right crinkle cut thickness, then cook them to perfection using healthier oils with 75% less saturated fat.",
+                            "shortDescription": "Smith's take top quality Aussie potatoes, peel and slice them to just the right crinkle cut thickness, then cook them to perfection using healthier oils with 75% less saturated fat.",
+                            "priceTotal": "7.99",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11452.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "170g, Cheese, Chips, Crinkle, Crisps, Cut, Onion, Potato, Smith's, Snack",
                             "data": []
                         },
                         {
@@ -23918,30 +23710,6 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "70g, Arnotts, Arnott's, BBQ, shapes",
-                            "data": []
-                        },
-                        {
-                            "id": 4447959,
-                            "name": "Arnott's Original BBQ Shapes 175g",
-                            "description": "Oven Baked Not Fried.",
-                            "shortDescription": "Oven Baked Not Fried.",
-                            "priceTotal": "5.79",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11004.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "shapes, arnotts, crackers, snacks, BBQ, barbeque",
-                            "data": []
-                        },
-                        {
-                            "id": 4447960,
-                            "name": "Arnott's Original Pizza Shapes 190g",
-                            "description": "Oven Baked Not Fried.",
-                            "shortDescription": "Oven Baked Not Fried.",
-                            "priceTotal": "5.79",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11005.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "shapes, arnotts, crackers, snacks, pizza",
                             "data": []
                         },
                         {
@@ -24313,7 +24081,7 @@
                             "name": "Kellogg's Coco Pops 255g",
                             "description": "The delicious chocolatey milk left in the bowl and the lingering crunch from the grain bubbles, are what makes it so special.",
                             "shortDescription": "The delicious chocolatey milk left in the bowl and the lingering crunch from the grain bubbles, are what makes it so special.",
-                            "priceTotal": "6.49",
+                            "priceTotal": "6.99",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10990.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -24361,7 +24129,7 @@
                             "name": "Rafferty's Garden Banana Pear & Mango 120g",
                             "description": "With the convenience of a pouch and the all the benefits of fresh dairy and real fruit, Rafferty's Garden is a tasty convenient way to include dairy your baby's daily menu.",
                             "shortDescription": "With the convenience of a pouch and the all the benefits of fresh dairy and real fruit, Rafferty's Garden is a tasty convenient way to include dairy your baby's daily menu.",
-                            "priceTotal": "3.79",
+                            "priceTotal": "3.99",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11054.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -24373,7 +24141,7 @@
                             "name": "Devondale Full Cream Long Life Milk 1L",
                             "description": "Deliciously creamy, 100% pure milk. With only 3% fat, there's no excuse not to enjoy our Devondale Full Cream Milk. It's a terrific choice for health-conscious folk.",
                             "shortDescription": "Deliciously creamy, 100% pure milk. With only 3% fat, there's no excuse not to enjoy our Devondale Full Cream Milk. It's a terrific choice for health-conscious folk.",
-                            "priceTotal": "3.99",
+                            "priceTotal": "4.49",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11074.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -24397,7 +24165,7 @@
                             "name": "Devondale Skim Long Life Milk 1L",
                             "description": "100% skim milk in a stay-fresh pack that maintains all the goodness of farm fresh milk. ",
                             "shortDescription": "100% skim milk in a stay-fresh pack that maintains all the goodness of farm fresh milk. ",
-                            "priceTotal": "3.99",
+                            "priceTotal": "4.49",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11380.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -24577,7 +24345,7 @@
                             "name": "Anchor Baking Powder 125g",
                             "description": "Baking Powder is an effective raising agent developed to give your baked goods a lift. ",
                             "shortDescription": "Baking Powder is an effective raising agent developed to give your baked goods a lift. ",
-                            "priceTotal": "3.49",
+                            "priceTotal": "3.99",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10969.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -24589,7 +24357,7 @@
                             "name": "White Wings Self-Raising Flour 1kg",
                             "description": "White Wings Self Raising flour is great for baking cakes, muffins, biscuits, slices and desserts.",
                             "shortDescription": "White Wings Self Raising flour is great for baking cakes, muffins, biscuits, slices and desserts.",
-                            "priceTotal": "5.49",
+                            "priceTotal": "5.99",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10974.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -24601,7 +24369,7 @@
                             "name": "White Wings Plain White Flour 1kg",
                             "description": "White Wings Plain flour can be used for thickening sauces and gravies, stews, casseroles and stir fries, coating and crumbing, as well as for baking biscuits, muffins, cakes, slices and desserts.",
                             "shortDescription": "White Wings Plain flour can be used for thickening sauces and gravies, stews, casseroles and stir fries, coating and crumbing, as well as for baking biscuits, muffins, cakes, slices and desserts.",
-                            "priceTotal": "5.49",
+                            "priceTotal": "5.99",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10975.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -24625,7 +24393,7 @@
                             "name": "Fosters & Clark Vanilla Custard 1L",
                             "description": "Foster Clark's Vanilla Flavoured Custard is the perfect accompaniment to pies, fruit crumbles, ice cream, fruit salad, steamed pudding or can be enjoyed on its own. ",
                             "shortDescription": "Foster Clark's Vanilla Flavoured Custard is the perfect accompaniment to pies, fruit crumbles, ice cream, fruit salad, steamed pudding or can be enjoyed on its own. ",
-                            "priceTotal": "6.49",
+                            "priceTotal": "6.99",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11385.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -24763,7 +24531,7 @@
                             "name": "Earth Choice Laundry Liquid 1L",
                             "description": "Earth Choice contains no enzymes phosphates or bleaches and is low in sodium meaning the wash and rinse water is safe for grey water use. Top & front loader.",
                             "shortDescription": "Earth Choice contains no enzymes phosphates or bleaches and is low in sodium meaning the wash and rinse water is safe for grey water use. Top & front loader.",
-                            "priceTotal": "4.99",
+                            "priceTotal": "5.49",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11360.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -24889,7 +24657,7 @@
                             "name": "U by Kotex Regular Tampon 16s",
                             "description": "U by Kotex Tampons give you all the protection you need in a slim and comfortable design. ",
                             "shortDescription": "U by Kotex Tampons give you all the protection you need in a slim and comfortable design. ",
-                            "priceTotal": "7.99",
+                            "priceTotal": "8.49",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11009.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -25093,7 +24861,7 @@
                             "name": "Black Ice Deodorant L/Tree",
                             "description": "Smells and odours can build up in your car. You can alleviate this problem with the long lasting Black Ice fragrance from the Little Trees air freshener range.",
                             "shortDescription": "Smells and odours can build up in your car. You can alleviate this problem with the long lasting Black Ice fragrance from the Little Trees air freshener range.",
-                            "priceTotal": "4.49",
+                            "priceTotal": "4.99",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11345.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -25105,7 +24873,7 @@
                             "name": "New Car Deodorant L/Tree",
                             "description": "Smells and odours can build up in your car. You can alleviate this problem with the long lasting New Car fragrance from the Little Trees air freshener range.",
                             "shortDescription": "Smells and odours can build up in your car. You can alleviate this problem with the long lasting New Car fragrance from the Little Trees air freshener range.",
-                            "priceTotal": "4.49",
+                            "priceTotal": "4.99",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11353.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -25129,7 +24897,7 @@
                             "name": "Narva Bulb Stop Tail 12V 21_5W Bay 15D",
                             "description": "All Narva Stop/Tail Bulbs are constructed using the highest class of materials.",
                             "shortDescription": "All Narva Stop/Tail Bulbs are constructed using the highest class of materials.",
-                            "priceTotal": "6.99",
+                            "priceTotal": "7.49",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11351.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -25141,7 +24909,7 @@
                             "name": "Narva Halogen Globe H4 12V 60_55W P43T",
                             "description": "Narva Halogen Bulbs are built to surpass OEM globe specifications while providing up to 30% more light. These globes are available in a variety of different fittings to suit different vehicles.",
                             "shortDescription": "Narva Halogen Bulbs are built to surpass OEM globe specifications while providing up to 30% more light. These globes are available in a variety of different fittings to suit different vehicles.",
-                            "priceTotal": "16.99",
+                            "priceTotal": "17.99",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11352.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
@@ -25247,5 +25015,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Thu, 01 Aug 2024 13:32:49 GMT"
+    "cached_at": "Fri, 02 Aug 2024 13:32:41 GMT"
 }
