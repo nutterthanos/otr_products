@@ -10273,61 +10273,6 @@
                             ]
                         },
                         {
-                            "id": 4450222,
-                            "name": "Traveller Burrito Pie",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.00",
-                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
-                            "hasMealDeal": true,
-                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 10083,
-                                    "description": "Sauces",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "options": [
-                                        {
-                                            "id": 4450237,
-                                            "description": "Squeeze Bbq Sauce",
-                                            "priceTotal": "0.30",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 86430,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448122,
-                                            "description": "Squeeze Tomato Sauce",
-                                            "priceTotal": "0.30",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 86426,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "mealDeals",
-                                    "component": "mealDealList",
-                                    "options": [
-                                        {
-                                            "id": 191,
-                                            "description": "EAT Add a drink",
-                                            "priceTotal": "0.00",
-                                            "shortName": "O",
-                                            "isSelected": true
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
                             "id": 4450509,
                             "name": "Chunky Butter Chicken Pie",
                             "description": "Succulent chicken pieces marinated in a rich, creamy butter chicken sauce, encased in a buttery, golden pastry shell.",
@@ -10362,6 +10307,61 @@
                                             "isSelected": false,
                                             "defaultSelection": false,
                                             "productRange": 91860,
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "mealDeals",
+                                    "component": "mealDealList",
+                                    "options": [
+                                        {
+                                            "id": 191,
+                                            "description": "EAT Add a drink",
+                                            "priceTotal": "0.00",
+                                            "shortName": "O",
+                                            "isSelected": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4450222,
+                            "name": "Traveller Burrito Pie",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.00",
+                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
+                            "hasMealDeal": true,
+                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 10083,
+                                    "description": "Sauces",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "options": [
+                                        {
+                                            "id": 4450237,
+                                            "description": "Squeeze Bbq Sauce",
+                                            "priceTotal": "0.30",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 86430,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4448122,
+                                            "description": "Squeeze Tomato Sauce",
+                                            "priceTotal": "0.30",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 86426,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -10491,18 +10491,6 @@
                                     ]
                                 }
                             ]
-                        },
-                        {
-                            "id": 4449607,
-                            "name": "2 for $5, Sausage Rolls",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.00",
-                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
                         },
                         {
                             "id": 4449819,
@@ -11047,6 +11035,18 @@
                             "data": []
                         },
                         {
+                            "id": 4448829,
+                            "name": "Farmers Union Feel Good Coffee 600ml",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.49",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11785.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "farmers union, farmers, coffee, iced coffee, flavoured, milk, flavoured milk, FUIC",
+                            "data": []
+                        },
+                        {
                             "id": 4449369,
                             "name": "Farmers Union Feel Good Coffee 600ml",
                             "description": "",
@@ -11071,24 +11071,24 @@
                             "data": []
                         },
                         {
-                            "id": 4448833,
-                            "name": "Farmers Union Iced Coffee Reduced Fat 500ml",
+                            "id": 4448830,
+                            "name": "Farmers Union Iced Coffee Strong 600ml",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11788.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11786.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "farmers union, farmers, coffee, iced coffee, flavoured, milk, flavoured milk, FUIC",
                             "data": []
                         },
                         {
-                            "id": 4449372,
-                            "name": "Farmers Union Iced Coffee Strong 600ml",
+                            "id": 4449373,
+                            "name": "Farmers Union Iced Coffee No Added Sugar 600ml",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11845.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11846.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -11107,16 +11107,39 @@
                             "data": []
                         },
                         {
-                            "id": 4449246,
-                            "name": "Dare Triple Espresso 500ml",
-                            "range": "DARE 500ml Varieties",
-                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "priceTotal": "5.29",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12199.png",
+                            "id": 4449372,
+                            "name": "Farmers Union Iced Coffee Strong 600ml",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.49",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11845.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 4448017,
+                            "name": "Farmers Union Iced Coffee Reduced Fat 600ml",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.49",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11062.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "FUIC, flavoured milk, milk, flavoured, iced coffee, coffee, farmers, farmers union",
+                            "data": []
+                        },
+                        {
+                            "id": 4448833,
+                            "name": "Farmers Union Iced Coffee Reduced Fat 500ml",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.49",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11788.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "farmers union, farmers, coffee, iced coffee, flavoured, milk, flavoured milk, FUIC",
                             "data": []
                         },
                         {
@@ -11127,6 +11150,19 @@
                             "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
                             "priceTotal": "5.29",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12201.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 4449246,
+                            "name": "Dare Triple Espresso 500ml",
+                            "range": "DARE 500ml Varieties",
+                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "priceTotal": "5.29",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12199.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -13970,5 +14006,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Fri, 02 Aug 2024 13:33:15 GMT"
+    "cached_at": "Sun, 04 Aug 2024 13:33:04 GMT"
 }

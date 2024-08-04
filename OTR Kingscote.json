@@ -9502,15 +9502,15 @@
                             "data": []
                         },
                         {
-                            "id": 4449372,
-                            "name": "Farmers Union Iced Coffee Strong 600ml",
+                            "id": 4448017,
+                            "name": "Farmers Union Iced Coffee Reduced Fat 600ml",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11845.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11062.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
-                            "keywords": "",
+                            "keywords": "FUIC, flavoured milk, milk, flavoured, iced coffee, coffee, farmers, farmers union",
                             "data": []
                         },
                         {
@@ -9520,18 +9520,6 @@
                             "shortDescription": "",
                             "priceTotal": "5.49",
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11851.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
-                            "id": 4449370,
-                            "name": "Farmers Union Iced Coffee No Added Sugar 600ml",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11852.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -9550,6 +9538,30 @@
                             "data": []
                         },
                         {
+                            "id": 4449370,
+                            "name": "Farmers Union Iced Coffee No Added Sugar 600ml",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.49",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11852.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 4448830,
+                            "name": "Farmers Union Iced Coffee Strong 600ml",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.49",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11786.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "farmers union, farmers, coffee, iced coffee, flavoured, milk, flavoured milk, FUIC",
+                            "data": []
+                        },
+                        {
                             "id": 4449369,
                             "name": "Farmers Union Feel Good Coffee 600ml",
                             "description": "",
@@ -9562,26 +9574,36 @@
                             "data": []
                         },
                         {
-                            "id": 4448025,
-                            "name": "Dare Iced Coffee Double Espresso 500ml",
-                            "range": "DARE 500ml Varieties",
-                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "priceTotal": "5.29",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11070.png",
+                            "id": 4448829,
+                            "name": "Farmers Union Feel Good Coffee 600ml",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.49",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11785.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
-                            "keywords": "dare, iced coffee, milk, flavoured milk, iced, coffee, 500ml",
+                            "keywords": "farmers union, farmers, coffee, iced coffee, flavoured, milk, flavoured milk, FUIC",
                             "data": []
                         },
                         {
-                            "id": 4449249,
-                            "name": "Dare Espresso 500ml",
-                            "range": "DARE 500ml Varieties",
-                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "priceTotal": "5.29",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12197.png",
+                            "id": 4449372,
+                            "name": "Farmers Union Iced Coffee Strong 600ml",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.49",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11845.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 4449373,
+                            "name": "Farmers Union Iced Coffee No Added Sugar 600ml",
+                            "description": "",
+                            "shortDescription": "",
+                            "priceTotal": "5.49",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11846.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -9614,6 +9636,32 @@
                             "data": []
                         },
                         {
+                            "id": 4448025,
+                            "name": "Dare Iced Coffee Double Espresso 500ml",
+                            "range": "DARE 500ml Varieties",
+                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "priceTotal": "5.29",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/11070.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "dare, iced coffee, milk, flavoured milk, iced, coffee, 500ml",
+                            "data": []
+                        },
+                        {
+                            "id": 4449249,
+                            "name": "Dare Espresso 500ml",
+                            "range": "DARE 500ml Varieties",
+                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "priceTotal": "5.29",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12197.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
                             "id": 4448026,
                             "name": "Dare Iced Coffee Double Espresso 750ml",
                             "range": "DARE 750ml Varieties",
@@ -9640,19 +9688,6 @@
                             "data": []
                         },
                         {
-                            "id": 4449253,
-                            "name": "Dare No Sugar Added Double Espresso 750ml",
-                            "range": "DARE 750ml Varieties",
-                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "priceTotal": "6.79",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12195.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
                             "id": 4448536,
                             "name": "Dare Mocha 750mL",
                             "range": "DARE 750ml Varieties",
@@ -9663,6 +9698,19 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "750ml, choc, chocolate, coffee, dairy, Dare, drink, ice, iced, milk, mocha",
+                            "data": []
+                        },
+                        {
+                            "id": 4449253,
+                            "name": "Dare No Sugar Added Double Espresso 750ml",
+                            "range": "DARE 750ml Varieties",
+                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "priceTotal": "6.79",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12195.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
                             "data": []
                         },
                         {
@@ -12425,5 +12473,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Fri, 02 Aug 2024 13:33:31 GMT"
+    "cached_at": "Sun, 04 Aug 2024 13:33:21 GMT"
 }
