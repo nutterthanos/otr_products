@@ -9777,24 +9777,24 @@
                             ]
                         },
                         {
-                            "id": 4450541,
+                            "id": 4450540,
                             "name": "Loaded Dog",
                             "range": "Loaded Dog",
                             "description": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
                             "shortDescription": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
-                            "priceTotal": "5.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13397.png",
+                            "priceTotal": "4.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13396.png",
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": [
                                 {
-                                    "id": 11581,
+                                    "id": 11580,
                                     "description": "Add Ons",
                                     "component": "blank",
                                     "minQuantity": 0,
                                     "maxQuantity": 99,
                                     "ranges": [
-                                        4450541
+                                        4450540
                                     ],
                                     "options": [
                                         {
@@ -9803,7 +9803,7 @@
                                             "priceTotal": "0.50",
                                             "isSelected": false,
                                             "defaultSelection": false,
-                                            "productRange": 92160,
+                                            "productRange": 92155,
                                             "kjTotal": 0
                                         },
                                         {
@@ -9812,7 +9812,7 @@
                                             "priceTotal": "0.50",
                                             "isSelected": false,
                                             "defaultSelection": false,
-                                            "productRange": 92159,
+                                            "productRange": 92154,
                                             "kjTotal": 0
                                         },
                                         {
@@ -9821,7 +9821,7 @@
                                             "priceTotal": "1.00",
                                             "isSelected": false,
                                             "defaultSelection": false,
-                                            "productRange": 92158,
+                                            "productRange": 92153,
                                             "kjTotal": 0
                                         },
                                         {
@@ -9830,7 +9830,7 @@
                                             "priceTotal": "0.00",
                                             "isSelected": true,
                                             "defaultSelection": false,
-                                            "productRange": 92156,
+                                            "productRange": 92151,
                                             "kjTotal": 0
                                         },
                                         {
@@ -9839,7 +9839,7 @@
                                             "priceTotal": "0.00",
                                             "isSelected": true,
                                             "defaultSelection": false,
-                                            "productRange": 92157,
+                                            "productRange": 92152,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -9850,12 +9850,12 @@
                                     "component": "rangeList",
                                     "options": [
                                         {
-                                            "id": 4450541,
+                                            "id": 4450540,
                                             "description": "Loaded Dog",
                                             "rangeDescription": "Moe\u2019s Dog loaded with bacon, cheese sauce, crispy fried onion, mustard and ketchup.",
-                                            "priceTotal": "5.00",
+                                            "priceTotal": "4.00",
                                             "isSelected": true,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13397.png",
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/13396.png",
                                             "rewardDescription": ""
                                         }
                                     ]
@@ -13071,104 +13071,8 @@
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10239.png",
                             "kjTotal": "1590 kj",
                             "hasMealDeal": false,
-                            "rewardDescription": "",
                             "loyalty_enabled": 0,
                             "data": [
-                                {
-                                    "id": "",
-                                    "description": "range",
-                                    "component": "rangeList",
-                                    "options": [
-                                        {
-                                            "id": 4447076,
-                                            "description": "Regular Chips",
-                                            "rangeDescription": "Cooked until golden brown and lightly seasoned - our famous hot chips are great on the side or as a snack.",
-                                            "priceTotal": "1.95",
-                                            "isSelected": true,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10239.png",
-                                            "kjTotal": "1590 kj",
-                                            "hasMealDeal": false,
-                                            "rewardDescription": ""
-                                        },
-                                        {
-                                            "id": 4447271,
-                                            "description": "Family Chips",
-                                            "rangeDescription": "Cooked until golden brown and lightly seasoned - our famous hot chips are great on the side or as a snack.",
-                                            "priceTotal": "8.50",
-                                            "isSelected": false,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10435.png",
-                                            "kjTotal": "7550 kj",
-                                            "hasMealDeal": false,
-                                            "rewardDescription": ""
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 10361,
-                                    "description": "Dipping Sauce",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        4447271
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4448070,
-                                            "description": "Chilli Sauce 25ml",
-                                            "priceTotal": "1.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 88736,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4447083,
-                                            "description": "Garlic Dip",
-                                            "priceTotal": "1.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 88731,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448072,
-                                            "description": "Lemon & Herb 25ml",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 88735,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448073,
-                                            "description": "Mayonnaise 25ml",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 88734,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448165,
-                                            "description": "Extremo Picante Dipping Sauce",
-                                            "priceTotal": "1.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 88732,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448074,
-                                            "description": "Prego Sauce 25ml",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 88733,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
                                 {
                                     "id": 10359,
                                     "description": "Dipping Sauce",
@@ -13234,6 +13138,24 @@
                                             "kjTotal": 0
                                         }
                                     ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 4447076,
+                                            "description": "Regular Chips",
+                                            "rangeDescription": "Cooked until golden brown and lightly seasoned - our famous hot chips are great on the side or as a snack.",
+                                            "priceTotal": "1.95",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10239.png",
+                                            "kjTotal": "1590 kj",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": ""
+                                        }
+                                    ]
                                 }
                             ]
                         },
@@ -13254,6 +13176,7 @@
                         {
                             "id": 4449585,
                             "name": "Chilli Loaded Chips",
+                            "range": "Chilli Loaded Chips",
                             "description": "Our famous hot chips, loaded with pulled chicken, mayo and our original chilli sauce.",
                             "shortDescription": "Our famous hot chips, loaded with pulled chicken, mayo and our original chilli sauce.",
                             "priceTotal": "10.95",
@@ -13261,6 +13184,19 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 4447271,
+                            "name": "Family Chips",
+                            "range": "Family Chips",
+                            "description": "Cooked until golden brown and lightly seasoned - our famous hot chips are great on the side or as a snack.",
+                            "shortDescription": "Cooked until golden brown and lightly seasoned - our famous hot chips are great on the side or as a snack.",
+                            "priceTotal": "8.50",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10435.png",
+                            "kjTotal": "7550 kj",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
                             "data": []
                         },
                         {
@@ -14874,15 +14810,6 @@
                                             "defaultSelection": false,
                                             "productRange": "Prego Sauce",
                                             "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4447224,
-                                            "description": "BBQ Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": true,
-                                            "defaultSelection": true,
-                                            "productRange": "BBQ Sauce",
-                                            "kjTotal": 0
                                         }
                                     ]
                                 },
@@ -15022,6 +14949,24 @@
                                             "isSelected": true,
                                             "defaultSelection": true,
                                             "productRange": "Crunchy Slaw",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4448091,
+                                            "description": "Spicy Rice",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Spicy Rice",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4447230,
+                                            "description": "Mayo",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Mayo",
                                             "kjTotal": 0
                                         }
                                     ]
@@ -15496,6 +15441,7 @@
                         {
                             "id": 4449413,
                             "name": "Bondi Rappa",
+                            "range": "Bondi Rappa",
                             "description": "Two grilled chicken breast fillets, crisp lettuce, cheese, creamy mayo and Original Chilli sauce \u2013 all in a warm pita bread wrap.",
                             "shortDescription": "Two grilled chicken breast fillets, crisp lettuce, cheese, creamy mayo and Original Chilli sauce \u2013 all in a warm pita bread wrap.",
                             "priceTotal": "11.25",
@@ -15507,11 +15453,53 @@
                             "keywords": "",
                             "data": [
                                 {
+                                    "id": 11590,
+                                    "description": "Extras",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4449413
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4447225,
+                                            "description": "Cheese",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Cheese",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4447229,
+                                            "description": "Lettuce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Lettuce",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4447230,
+                                            "description": "Mayo",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Mayo",
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
                                     "id": 7385,
                                     "description": "Sauces",
                                     "component": "blank",
                                     "minQuantity": 0,
                                     "maxQuantity": 99,
+                                    "ranges": [
+                                        4449413
+                                    ],
                                     "options": [
                                         {
                                             "id": 4447188,
@@ -15557,6 +15545,15 @@
                                             "defaultSelection": false,
                                             "productRange": "Prego Sauce",
                                             "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4447226,
+                                            "description": "Chilli Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Chilli Sauce",
+                                            "kjTotal": 0
                                         }
                                     ]
                                 },
@@ -15571,6 +15568,24 @@
                                             "priceTotal": "5.00",
                                             "shortName": "O",
                                             "isSelected": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 4449413,
+                                            "description": "Bondi Rappa",
+                                            "rangeDescription": "Two grilled chicken breast fillets, crisp lettuce, cheese, creamy mayo and Original Chilli sauce \u2013 all in a warm pita bread wrap.",
+                                            "priceTotal": "11.25",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12350.png",
+                                            "kjTotal": "2680 kj",
+                                            "hasMealDeal": true,
+                                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August"
                                         }
                                     ]
                                 }
@@ -19932,7 +19947,7 @@
                             "kjTotal": "7550 kj",
                             "isSelected": false,
                             "defaultSelection": false,
-                            "productRange": "Chips"
+                            "productRange": "Family Chips"
                         }
                     ]
                 },
@@ -19992,7 +20007,7 @@
                             "kjTotal": "7550 kj",
                             "isSelected": false,
                             "defaultSelection": false,
-                            "productRange": "Chips"
+                            "productRange": "Family Chips"
                         }
                     ]
                 },
@@ -20150,7 +20165,7 @@
                             "kjTotal": "7550 kj",
                             "isSelected": false,
                             "defaultSelection": false,
-                            "productRange": "Chips"
+                            "productRange": "Family Chips"
                         }
                     ]
                 },
@@ -25159,5 +25174,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Sun, 04 Aug 2024 13:32:46 GMT"
+    "cached_at": "Mon, 05 Aug 2024 07:36:23 GMT"
 }
