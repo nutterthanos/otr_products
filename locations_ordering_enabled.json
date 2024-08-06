@@ -3,6 +3,30 @@
     "message": "Locations found",
     "locations": [
         {
+            "location_id": 141,
+            "site_code": "718",
+            "name": "OTR Peterhead",
+            "type": "location",
+            "suburb": "Peterhead",
+            "address": "107-115 Victoria Road",
+            "lat": -34.832452,
+            "long": 138.500962,
+            "map_url": "https://google.com/maps/place/-34.832452,138.500962",
+            "brand_ids": [
+                19,
+                20,
+                25,
+                27,
+                29,
+                30,
+                36,
+                56,
+                57
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
             "location_id": 74,
             "site_code": "869",
             "name": "OTR Pinnaroo",
@@ -68,52 +92,6 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 142,
-            "site_code": "720",
-            "name": "OTR Port Augusta",
-            "type": "location",
-            "suburb": "Port Augusta",
-            "address": "20235 Augusta Highway",
-            "lat": -32.511619,
-            "long": 137.802588,
-            "map_url": "https://google.com/maps/place/-32.511619,137.802588",
-            "brand_ids": [
-                18,
-                19,
-                20,
-                27,
-                28,
-                29,
-                30
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
-            "location_id": 141,
-            "site_code": "718",
-            "name": "OTR Peterhead",
-            "type": "location",
-            "suburb": "Peterhead",
-            "address": "107-115 Victoria Road",
-            "lat": -34.832452,
-            "long": 138.500962,
-            "map_url": "https://google.com/maps/place/-34.832452,138.500962",
-            "brand_ids": [
-                19,
-                20,
-                25,
-                27,
-                29,
-                30,
-                36,
-                56,
-                57
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
             "location_id": 222,
             "site_code": "910",
             "name": "OTR Perth Pier Street",
@@ -128,6 +106,46 @@
                 20,
                 27,
                 28,
+                30
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 72,
+            "site_code": "560",
+            "name": "OTR Pasadena",
+            "type": "location",
+            "suburb": "Pasadena",
+            "address": "14 Fiveash Road",
+            "lat": -35.0009,
+            "long": 138.591202,
+            "map_url": "https://google.com/maps/place/-35.0009,138.591202",
+            "brand_ids": [
+                17,
+                19,
+                20,
+                29,
+                30
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 122,
+            "site_code": "821",
+            "name": "OTR Para Hills",
+            "type": "location",
+            "suburb": "Para Hills",
+            "address": "321 Bridge Rd",
+            "lat": -34.813988,
+            "long": 138.643204,
+            "map_url": "https://google.com/maps/place/-34.813988,138.643204",
+            "brand_ids": [
+                19,
+                20,
+                28,
+                29,
                 30
             ],
             "fuel_ordering_enabled": 1,
@@ -199,19 +217,21 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 72,
-            "site_code": "560",
-            "name": "OTR Pasadena",
+            "location_id": 142,
+            "site_code": "720",
+            "name": "OTR Port Augusta",
             "type": "location",
-            "suburb": "Pasadena",
-            "address": "14 Fiveash Road",
-            "lat": -35.0009,
-            "long": 138.591202,
-            "map_url": "https://google.com/maps/place/-35.0009,138.591202",
+            "suburb": "Port Augusta",
+            "address": "20235 Augusta Highway",
+            "lat": -32.511619,
+            "long": 137.802588,
+            "map_url": "https://google.com/maps/place/-32.511619,137.802588",
             "brand_ids": [
-                17,
+                18,
                 19,
                 20,
+                27,
+                28,
                 29,
                 30
             ],
@@ -239,20 +259,20 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 77,
-            "site_code": "853",
-            "name": "OTR Port Lincoln",
+            "location_id": 251,
+            "site_code": "157",
+            "name": "OTR Prestons",
             "type": "location",
-            "suburb": "Port Lincoln",
-            "address": "22 King Street",
-            "lat": -34.722775,
-            "long": 135.865674,
-            "map_url": "https://google.com/maps/place/-34.722775,135.865674",
+            "suburb": "Prestons",
+            "address": "1 - 5 Yato Rd",
+            "lat": -33.93909,
+            "long": 150.8685,
+            "map_url": "https://google.com/maps/place/-33.93909,150.8685",
             "brand_ids": [
                 19,
                 20,
+                27,
                 28,
-                29,
                 30
             ],
             "fuel_ordering_enabled": 1,
@@ -323,48 +343,6 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 25,
-            "site_code": "512",
-            "name": "OTR Ridleyton",
-            "type": "location",
-            "suburb": "Ridleyton",
-            "address": "233 South Road",
-            "lat": -34.889824,
-            "long": 138.569992,
-            "map_url": "https://google.com/maps/place/-34.889824,138.569992",
-            "brand_ids": [
-                17,
-                18,
-                19,
-                20,
-                29,
-                30,
-                56
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
-            "location_id": 251,
-            "site_code": "157",
-            "name": "OTR Prestons",
-            "type": "location",
-            "suburb": "Prestons",
-            "address": "1 - 5 Yato Rd",
-            "lat": -33.93909,
-            "long": 150.8685,
-            "map_url": "https://google.com/maps/place/-33.93909,150.8685",
-            "brand_ids": [
-                19,
-                20,
-                27,
-                28,
-                30
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
             "location_id": 193,
             "site_code": "763",
             "name": "OTR Portland",
@@ -381,6 +359,52 @@
                 30,
                 56,
                 57
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 12,
+            "site_code": "859",
+            "name": "OTR Port Wakefield Road",
+            "type": "location",
+            "suburb": "Bolivar",
+            "address": "885 Port Wakefield Rd (Corner Port Wakefield Rd & Hodgson Road)",
+            "lat": -34.768951,
+            "long": 138.59313,
+            "map_url": "https://google.com/maps/place/-34.768951,138.59313",
+            "brand_ids": [
+                18,
+                19,
+                20,
+                25,
+                27,
+                28,
+                29,
+                30,
+                56,
+                57,
+                60
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 77,
+            "site_code": "853",
+            "name": "OTR Port Lincoln",
+            "type": "location",
+            "suburb": "Port Lincoln",
+            "address": "22 King Street",
+            "lat": -34.722775,
+            "long": 135.865674,
+            "map_url": "https://google.com/maps/place/-34.722775,135.865674",
+            "brand_ids": [
+                19,
+                20,
+                28,
+                29,
+                30
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -450,52 +474,6 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 12,
-            "site_code": "859",
-            "name": "OTR Port Wakefield Road",
-            "type": "location",
-            "suburb": "Bolivar",
-            "address": "885 Port Wakefield Rd (Corner Port Wakefield Rd & Hodgson Road)",
-            "lat": -34.768951,
-            "long": 138.59313,
-            "map_url": "https://google.com/maps/place/-34.768951,138.59313",
-            "brand_ids": [
-                18,
-                19,
-                20,
-                25,
-                27,
-                28,
-                29,
-                30,
-                56,
-                57,
-                60
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
-            "location_id": 122,
-            "site_code": "821",
-            "name": "OTR Para Hills",
-            "type": "location",
-            "suburb": "Para Hills",
-            "address": "321 Bridge Rd",
-            "lat": -34.813988,
-            "long": 138.643204,
-            "map_url": "https://google.com/maps/place/-34.813988,138.643204",
-            "brand_ids": [
-                19,
-                20,
-                28,
-                29,
-                30
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
             "location_id": 81,
             "site_code": "542",
             "name": "OTR Old Reynella",
@@ -514,6 +492,49 @@
                 30,
                 56,
                 60
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 228,
+            "site_code": "755",
+            "name": "OTR Old Noarlunga",
+            "type": "location",
+            "suburb": "Old Noarlunga",
+            "address": "617-641 Main South Road",
+            "lat": -35.182665,
+            "long": 138.493681,
+            "map_url": "https://google.com/maps/place/-35.182665,138.493681",
+            "brand_ids": [
+                19,
+                20,
+                27,
+                28,
+                29,
+                30
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 176,
+            "site_code": "847",
+            "name": "OTR Motorsport Park",
+            "type": "location",
+            "suburb": "Elwomple",
+            "address": "543 Dukes Highway, Tailem Bend",
+            "lat": -35.303656,
+            "long": 139.500845,
+            "map_url": "https://google.com/maps/place/-35.303656,139.500845",
+            "brand_ids": [
+                18,
+                19,
+                20,
+                27,
+                28,
+                29,
+                30
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -582,47 +603,6 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 65,
-            "site_code": "881",
-            "name": "OTR Munno Para",
-            "type": "location",
-            "suburb": "Smithfield",
-            "address": "43 - 45 Main North Road ",
-            "lat": -34.680084,
-            "long": 138.69523,
-            "map_url": "https://google.com/maps/place/-34.680084,138.69523",
-            "brand_ids": [
-                19,
-                20,
-                28,
-                30
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
-            "location_id": 176,
-            "site_code": "847",
-            "name": "OTR Motorsport Park",
-            "type": "location",
-            "suburb": "Elwomple",
-            "address": "543 Dukes Highway, Tailem Bend",
-            "lat": -35.303656,
-            "long": 139.500845,
-            "map_url": "https://google.com/maps/place/-35.303656,139.500845",
-            "brand_ids": [
-                18,
-                19,
-                20,
-                27,
-                28,
-                29,
-                30
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
             "location_id": 120,
             "site_code": "819",
             "name": "OTR Morphett Vale Outbound",
@@ -641,6 +621,48 @@
                 30,
                 56,
                 57
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 85,
+            "site_code": "886",
+            "name": "OTR Morphett Vale Inbound",
+            "type": "location",
+            "suburb": "Morphett Vale ",
+            "address": "131 Main South Road ",
+            "lat": -35.124337,
+            "long": 138.522976,
+            "map_url": "https://google.com/maps/place/-35.124337,138.522976",
+            "brand_ids": [
+                19,
+                20,
+                28,
+                29,
+                30,
+                56
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 217,
+            "site_code": "842",
+            "name": "OTR Mildura",
+            "type": "location",
+            "suburb": "Mildura",
+            "address": "463-469 Deakin Avenue",
+            "lat": -34.20611,
+            "long": 142.1366,
+            "map_url": "https://google.com/maps/place/-34.20611,142.1366",
+            "brand_ids": [
+                16,
+                19,
+                20,
+                28,
+                30,
+                33
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -712,22 +734,20 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 85,
-            "site_code": "886",
-            "name": "OTR Morphett Vale Inbound",
+            "location_id": 65,
+            "site_code": "881",
+            "name": "OTR Munno Para",
             "type": "location",
-            "suburb": "Morphett Vale ",
-            "address": "131 Main South Road ",
-            "lat": -35.124337,
-            "long": 138.522976,
-            "map_url": "https://google.com/maps/place/-35.124337,138.522976",
+            "suburb": "Smithfield",
+            "address": "43 - 45 Main North Road ",
+            "lat": -34.680084,
+            "long": 138.69523,
+            "map_url": "https://google.com/maps/place/-34.680084,138.69523",
             "brand_ids": [
                 19,
                 20,
                 28,
-                29,
-                30,
-                56
+                30
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -757,25 +777,24 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 138,
-            "site_code": "840",
-            "name": "OTR Murray Bridge Adelaide Road",
+            "location_id": 121,
+            "site_code": "581",
+            "name": "OTR North Terrace",
             "type": "location",
-            "suburb": "Murray Bridge",
-            "address": "177-181 Adelaide Road",
-            "lat": -35.128955,
-            "long": 139.250687,
-            "map_url": "https://google.com/maps/place/-35.128955,139.250687",
+            "suburb": "Adelaide",
+            "address": "144 North Terrace ",
+            "lat": -34.92178,
+            "long": 138.598053,
+            "map_url": "https://google.com/maps/place/-34.92178,138.598053",
             "brand_ids": [
                 19,
                 20,
+                27,
                 28,
                 29,
-                30,
-                56,
-                57
+                30
             ],
-            "fuel_ordering_enabled": 1,
+            "fuel_ordering_enabled": 0,
             "is_implement_iamhere": false
         },
         {
@@ -840,48 +859,6 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 228,
-            "site_code": "755",
-            "name": "OTR Old Noarlunga",
-            "type": "location",
-            "suburb": "Old Noarlunga",
-            "address": "617-641 Main South Road",
-            "lat": -35.182665,
-            "long": 138.493681,
-            "map_url": "https://google.com/maps/place/-35.182665,138.493681",
-            "brand_ids": [
-                19,
-                20,
-                27,
-                28,
-                29,
-                30
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
-            "location_id": 121,
-            "site_code": "581",
-            "name": "OTR North Terrace",
-            "type": "location",
-            "suburb": "Adelaide",
-            "address": "144 North Terrace ",
-            "lat": -34.92178,
-            "long": 138.598053,
-            "map_url": "https://google.com/maps/place/-34.92178,138.598053",
-            "brand_ids": [
-                19,
-                20,
-                27,
-                28,
-                29,
-                30
-            ],
-            "fuel_ordering_enabled": 0,
-            "is_implement_iamhere": false
-        },
-        {
             "location_id": 66,
             "site_code": "559",
             "name": "OTR Newton",
@@ -900,6 +877,51 @@
                 29,
                 30,
                 56
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 175,
+            "site_code": "717",
+            "name": "OTR Naracoorte",
+            "type": "location",
+            "suburb": "Naracoorte",
+            "address": "1 Deviation Road",
+            "lat": -36.959053,
+            "long": 140.731686,
+            "map_url": "https://google.com/maps/place/-36.959053,140.731686",
+            "brand_ids": [
+                17,
+                19,
+                20,
+                27,
+                28,
+                29,
+                30,
+                60
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 138,
+            "site_code": "840",
+            "name": "OTR Murray Bridge Adelaide Road",
+            "type": "location",
+            "suburb": "Murray Bridge",
+            "address": "177-181 Adelaide Road",
+            "lat": -35.128955,
+            "long": 139.250687,
+            "map_url": "https://google.com/maps/place/-35.128955,139.250687",
+            "brand_ids": [
+                19,
+                20,
+                28,
+                29,
+                30,
+                56,
+                57
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -969,24 +991,23 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 175,
-            "site_code": "717",
-            "name": "OTR Naracoorte",
+            "location_id": 25,
+            "site_code": "512",
+            "name": "OTR Ridleyton",
             "type": "location",
-            "suburb": "Naracoorte",
-            "address": "1 Deviation Road",
-            "lat": -36.959053,
-            "long": 140.731686,
-            "map_url": "https://google.com/maps/place/-36.959053,140.731686",
+            "suburb": "Ridleyton",
+            "address": "233 South Road",
+            "lat": -34.889824,
+            "long": 138.569992,
+            "map_url": "https://google.com/maps/place/-34.889824,138.569992",
             "brand_ids": [
                 17,
+                18,
                 19,
                 20,
-                27,
-                28,
                 29,
                 30,
-                60
+                56
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -1008,30 +1029,6 @@
                 28,
                 30,
                 33
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
-            "location_id": 82,
-            "site_code": "572",
-            "name": "OTR Rosewater",
-            "type": "location",
-            "suburb": "Rosewater",
-            "address": "125 Grand Junction Road",
-            "lat": -34.851273,
-            "long": 138.524673,
-            "map_url": "https://google.com/maps/place/-34.851273,138.524673",
-            "brand_ids": [
-                17,
-                18,
-                19,
-                20,
-                27,
-                28,
-                29,
-                30,
-                56
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -1524,6 +1521,28 @@
             "is_implement_iamhere": false
         },
         {
+            "location_id": 70,
+            "site_code": "575",
+            "name": "OTR Salisbury Parabanks",
+            "type": "location",
+            "suburb": "Salisbury",
+            "address": "106-110 Salisbury Highway",
+            "lat": -34.764599,
+            "long": 138.639832,
+            "map_url": "https://google.com/maps/place/-34.764599,138.639832",
+            "brand_ids": [
+                17,
+                19,
+                20,
+                27,
+                28,
+                29,
+                30
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
             "location_id": 83,
             "site_code": "885",
             "name": "OTR Salisbury Park Terrace",
@@ -1538,26 +1557,6 @@
                 20,
                 29,
                 30
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
-            "location_id": 126,
-            "site_code": "824",
-            "name": "OTR Seaford",
-            "type": "location",
-            "suburb": "Seaford",
-            "address": "112 Commercial Rd",
-            "lat": -35.188324,
-            "long": 138.477737,
-            "map_url": "https://google.com/maps/place/-35.188324,138.477737",
-            "brand_ids": [
-                19,
-                20,
-                29,
-                30,
-                56
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -1604,28 +1603,6 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 70,
-            "site_code": "575",
-            "name": "OTR Salisbury Parabanks",
-            "type": "location",
-            "suburb": "Salisbury",
-            "address": "106-110 Salisbury Highway",
-            "lat": -34.764599,
-            "long": 138.639832,
-            "map_url": "https://google.com/maps/place/-34.764599,138.639832",
-            "brand_ids": [
-                17,
-                19,
-                20,
-                27,
-                28,
-                29,
-                30
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
             "location_id": 206,
             "site_code": "937",
             "name": "OTR Salisbury North",
@@ -1641,6 +1618,52 @@
                 28,
                 29,
                 30
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 125,
+            "site_code": "573",
+            "name": "OTR Salisbury Drive Thru",
+            "type": "location",
+            "suburb": "Salisbury",
+            "address": "138 Salisbury Highway",
+            "lat": -34.767056,
+            "long": 138.637703,
+            "map_url": "https://google.com/maps/place/-34.767056,138.637703",
+            "brand_ids": [
+                19,
+                20,
+                27,
+                28,
+                29,
+                30,
+                56
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 82,
+            "site_code": "572",
+            "name": "OTR Rosewater",
+            "type": "location",
+            "suburb": "Rosewater",
+            "address": "125 Grand Junction Road",
+            "lat": -34.851273,
+            "long": 138.524673,
+            "map_url": "https://google.com/maps/place/-34.851273,138.524673",
+            "brand_ids": [
+                17,
+                18,
+                19,
+                20,
+                27,
+                28,
+                29,
+                30,
+                56
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -1705,28 +1728,6 @@
                 29,
                 30,
                 60
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
-            "location_id": 125,
-            "site_code": "573",
-            "name": "OTR Salisbury Drive Thru",
-            "type": "location",
-            "suburb": "Salisbury",
-            "address": "138 Salisbury Highway",
-            "lat": -34.767056,
-            "long": 138.637703,
-            "map_url": "https://google.com/maps/place/-34.767056,138.637703",
-            "brand_ids": [
-                19,
-                20,
-                27,
-                28,
-                29,
-                30,
-                56
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -1996,27 +1997,6 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 217,
-            "site_code": "842",
-            "name": "OTR Mildura",
-            "type": "location",
-            "suburb": "Mildura",
-            "address": "463-469 Deakin Avenue",
-            "lat": -34.20611,
-            "long": 142.1366,
-            "map_url": "https://google.com/maps/place/-34.20611,142.1366",
-            "brand_ids": [
-                16,
-                19,
-                20,
-                28,
-                30,
-                33
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
             "location_id": 59,
             "site_code": "857",
             "name": "OTR Mawson Lakes",
@@ -2037,6 +2017,28 @@
                 36,
                 56,
                 57
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 227,
+            "site_code": "754",
+            "name": "OTR Marryatville",
+            "type": "location",
+            "suburb": "Kensington Park",
+            "address": "287 Kensington Road",
+            "lat": -34.92618,
+            "long": 138.6523,
+            "map_url": "https://google.com/maps/place/-34.92618,138.6523",
+            "brand_ids": [
+                16,
+                19,
+                20,
+                27,
+                28,
+                29,
+                30
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -2806,7 +2808,8 @@
             "brand_ids": [
                 19,
                 20,
-                28
+                28,
+                30
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -2887,7 +2890,8 @@
             "brand_ids": [
                 19,
                 20,
-                28
+                28,
+                30
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -3043,6 +3047,27 @@
             "is_implement_iamhere": false
         },
         {
+            "location_id": 235,
+            "site_code": "390",
+            "name": "OTR Katherine",
+            "type": "location",
+            "suburb": "KATHERINE SOUTH",
+            "address": "85 Bicentennial Rd\n",
+            "lat": -14.470535,
+            "long": 132.274719,
+            "map_url": "https://google.com/maps/place/-14.470535,132.274719",
+            "brand_ids": [
+                19,
+                20,
+                27,
+                28,
+                30,
+                33
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
             "location_id": 48,
             "site_code": "582",
             "name": "OTR Kensington",
@@ -3107,48 +3132,6 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 51,
-            "site_code": "863",
-            "name": "OTR Kingston SE",
-            "type": "location",
-            "suburb": "Kingston SE",
-            "address": "1 Princess Highway",
-            "lat": -36.82566,
-            "long": 139.8619,
-            "map_url": "https://google.com/maps/place/-36.82566,139.8619",
-            "brand_ids": [
-                17,
-                19,
-                20,
-                27,
-                28,
-                29,
-                30
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
-            "location_id": 235,
-            "site_code": "390",
-            "name": "OTR Katherine",
-            "type": "location",
-            "suburb": "KATHERINE SOUTH",
-            "address": "85 Bicentennial Rd\n",
-            "lat": -14.470535,
-            "long": 132.274719,
-            "map_url": "https://google.com/maps/place/-14.470535,132.274719",
-            "brand_ids": [
-                19,
-                20,
-                27,
-                28,
-                33
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
             "location_id": 47,
             "site_code": "862",
             "name": "OTR Kapunda",
@@ -3166,6 +3149,47 @@
                 28,
                 29,
                 30
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 46,
+            "site_code": "861",
+            "name": "OTR Kadina",
+            "type": "location",
+            "suburb": "Kadina",
+            "address": "19 Frances Tce",
+            "lat": -33.964519,
+            "long": 137.713666,
+            "map_url": "https://google.com/maps/place/-33.964519,137.713666",
+            "brand_ids": [
+                19,
+                20,
+                27,
+                29,
+                30
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 44,
+            "site_code": "562",
+            "name": "OTR Holden Hill North",
+            "type": "location",
+            "suburb": "Holden Hill",
+            "address": "742 North East Road",
+            "lat": -34.846176,
+            "long": 138.670746,
+            "map_url": "https://google.com/maps/place/-34.846176,138.670746",
+            "brand_ids": [
+                19,
+                20,
+                28,
+                29,
+                30,
+                56
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -3234,19 +3258,21 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 46,
-            "site_code": "861",
-            "name": "OTR Kadina",
+            "location_id": 51,
+            "site_code": "863",
+            "name": "OTR Kingston SE",
             "type": "location",
-            "suburb": "Kadina",
-            "address": "19 Frances Tce",
-            "lat": -33.964519,
-            "long": 137.713666,
-            "map_url": "https://google.com/maps/place/-33.964519,137.713666",
+            "suburb": "Kingston SE",
+            "address": "1 Princess Highway",
+            "lat": -36.82566,
+            "long": 139.8619,
+            "map_url": "https://google.com/maps/place/-36.82566,139.8619",
             "brand_ids": [
+                17,
                 19,
                 20,
                 27,
+                28,
                 29,
                 30
             ],
@@ -3274,20 +3300,21 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 253,
-            "site_code": "436",
-            "name": "OTR Knuckey Lagoon",
+            "location_id": 54,
+            "site_code": "834",
+            "name": "OTR Littlehampton",
             "type": "location",
-            "suburb": "KNUCKEY LAGOON",
-            "address": "687 Stuart Hwy",
-            "lat": -12.43352,
-            "long": 130.9251,
-            "map_url": "https://google.com/maps/place/-12.43352,130.9251",
+            "suburb": "LITTLEHAMPTON",
+            "address": "81 Princes Highway",
+            "lat": -35.04809,
+            "long": 138.8662,
+            "map_url": "https://google.com/maps/place/-35.04809,138.8662",
             "brand_ids": [
                 19,
                 20,
-                27,
-                28
+                28,
+                29,
+                30
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -3357,48 +3384,6 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 227,
-            "site_code": "754",
-            "name": "OTR Marryatville",
-            "type": "location",
-            "suburb": "Kensington Park",
-            "address": "287 Kensington Road",
-            "lat": -34.92618,
-            "long": 138.6523,
-            "map_url": "https://google.com/maps/place/-34.92618,138.6523",
-            "brand_ids": [
-                16,
-                19,
-                20,
-                27,
-                28,
-                29,
-                30
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
-            "location_id": 54,
-            "site_code": "834",
-            "name": "OTR Littlehampton",
-            "type": "location",
-            "suburb": "LITTLEHAMPTON",
-            "address": "81 Princes Highway",
-            "lat": -35.04809,
-            "long": 138.8662,
-            "map_url": "https://google.com/maps/place/-35.04809,138.8662",
-            "brand_ids": [
-                19,
-                20,
-                28,
-                29,
-                30
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
             "location_id": 53,
             "site_code": "540",
             "name": "OTR Linden Park",
@@ -3418,6 +3403,46 @@
                 30,
                 56,
                 57
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 116,
+            "site_code": "817",
+            "name": "OTR Largs Bay Victoria Road",
+            "type": "location",
+            "suburb": "Largs Bay",
+            "address": "208-210 Victoria Rd & Jetty Rd",
+            "lat": -34.825455,
+            "long": 138.500336,
+            "map_url": "https://google.com/maps/place/-34.825455,138.500336",
+            "brand_ids": [
+                19,
+                20,
+                28,
+                29,
+                30
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 253,
+            "site_code": "436",
+            "name": "OTR Knuckey Lagoon",
+            "type": "location",
+            "suburb": "KNUCKEY LAGOON",
+            "address": "687 Stuart Hwy",
+            "lat": -12.43352,
+            "long": 130.9251,
+            "map_url": "https://google.com/maps/place/-12.43352,130.9251",
+            "brand_ids": [
+                19,
+                20,
+                27,
+                28,
+                30
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -3483,47 +3508,6 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 116,
-            "site_code": "817",
-            "name": "OTR Largs Bay Victoria Road",
-            "type": "location",
-            "suburb": "Largs Bay",
-            "address": "208-210 Victoria Rd & Jetty Rd",
-            "lat": -34.825455,
-            "long": 138.500336,
-            "map_url": "https://google.com/maps/place/-34.825455,138.500336",
-            "brand_ids": [
-                19,
-                20,
-                28,
-                29,
-                30
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
-            "location_id": 44,
-            "site_code": "562",
-            "name": "OTR Holden Hill North",
-            "type": "location",
-            "suburb": "Holden Hill",
-            "address": "742 North East Road",
-            "lat": -34.846176,
-            "long": 138.670746,
-            "map_url": "https://google.com/maps/place/-34.846176,138.670746",
-            "brand_ids": [
-                19,
-                20,
-                28,
-                29,
-                30,
-                56
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
             "location_id": 43,
             "site_code": "532",
             "name": "OTR Hilton",
@@ -3541,6 +3525,27 @@
                 30,
                 56,
                 60
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 42,
+            "site_code": "530",
+            "name": "OTR Hillcrest",
+            "type": "location",
+            "suburb": "Hillcrest",
+            "address": "431 North East Road",
+            "lat": -34.864788,
+            "long": 138.645309,
+            "map_url": "https://google.com/maps/place/-34.864788,138.645309",
+            "brand_ids": [
+                19,
+                20,
+                28,
+                29,
+                30,
+                56
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -3691,7 +3696,8 @@
             "brand_ids": [
                 19,
                 20,
-                28
+                28,
+                30
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -3802,6 +3808,24 @@
             "is_implement_iamhere": false
         },
         {
+            "location_id": 249,
+            "site_code": "666",
+            "name": "OTR Hamilton Tudor Street",
+            "type": "location",
+            "suburb": "HAMILTON",
+            "address": "56 Tudor St",
+            "lat": -32.92423,
+            "long": 151.7499,
+            "map_url": "https://google.com/maps/place/-32.92423,151.7499",
+            "brand_ids": [
+                19,
+                20,
+                30
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
             "location_id": 109,
             "site_code": "811",
             "name": "OTR Harbourtown Drive Thru",
@@ -3868,45 +3892,6 @@
             "is_implement_iamhere": false
         },
         {
-            "location_id": 42,
-            "site_code": "530",
-            "name": "OTR Hillcrest",
-            "type": "location",
-            "suburb": "Hillcrest",
-            "address": "431 North East Road",
-            "lat": -34.864788,
-            "long": 138.645309,
-            "map_url": "https://google.com/maps/place/-34.864788,138.645309",
-            "brand_ids": [
-                19,
-                20,
-                28,
-                29,
-                30,
-                56
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
-            "location_id": 249,
-            "site_code": "666",
-            "name": "OTR Hamilton Tudor Street",
-            "type": "location",
-            "suburb": "HAMILTON",
-            "address": "56 Tudor St",
-            "lat": -32.92423,
-            "long": 151.7499,
-            "map_url": "https://google.com/maps/place/-32.92423,151.7499",
-            "brand_ids": [
-                19,
-                20,
-                30
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
             "location_id": 204,
             "site_code": "924",
             "name": "OTR Hamilton",
@@ -3922,6 +3907,26 @@
                 28,
                 30,
                 60
+            ],
+            "fuel_ordering_enabled": 1,
+            "is_implement_iamhere": false
+        },
+        {
+            "location_id": 230,
+            "site_code": "156",
+            "name": "OTR Hackney",
+            "type": "location",
+            "suburb": "Hackney",
+            "address": "11-15 Hackney Road\n",
+            "lat": -34.91834,
+            "long": 148.6152,
+            "map_url": "https://google.com/maps/place/-34.91834,148.6152",
+            "brand_ids": [
+                19,
+                20,
+                28,
+                29,
+                30
             ],
             "fuel_ordering_enabled": 1,
             "is_implement_iamhere": false
@@ -3983,26 +3988,6 @@
                 19,
                 20,
                 27,
-                28,
-                29,
-                30
-            ],
-            "fuel_ordering_enabled": 1,
-            "is_implement_iamhere": false
-        },
-        {
-            "location_id": 230,
-            "site_code": "156",
-            "name": "OTR Hackney",
-            "type": "location",
-            "suburb": "Hackney",
-            "address": "11-15 Hackney Road\n",
-            "lat": -34.91834,
-            "long": 148.6152,
-            "map_url": "https://google.com/maps/place/-34.91834,148.6152",
-            "brand_ids": [
-                19,
-                20,
                 28,
                 29,
                 30
