@@ -9855,18 +9855,6 @@
                             "data": []
                         },
                         {
-                            "id": 1000859,
-                            "name": "Custard Tart",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "4.75",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10933.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
                             "id": 1000861,
                             "name": "Blueberry Muffin",
                             "description": "",
@@ -10668,13 +10656,13 @@
                             "data": []
                         },
                         {
-                            "id": 1002184,
-                            "name": "Dare Espresso 500ml",
+                            "id": 1002185,
+                            "name": "Dare No Sugar Added Double Espresso 500ml",
                             "range": "DARE 500ml Varieties",
                             "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
                             "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
                             "priceTotal": "5.29",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12197.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12201.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -10707,13 +10695,13 @@
                             "data": []
                         },
                         {
-                            "id": 1002185,
-                            "name": "Dare No Sugar Added Double Espresso 500ml",
+                            "id": 1002184,
+                            "name": "Dare Espresso 500ml",
                             "range": "DARE 500ml Varieties",
                             "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
                             "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
                             "priceTotal": "5.29",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12201.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12197.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
@@ -10746,19 +10734,6 @@
                             "data": []
                         },
                         {
-                            "id": 1001477,
-                            "name": "Dare Mocha 750mL",
-                            "range": "DARE 750ml Varieties",
-                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
-                            "priceTotal": "6.79",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11487.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "750ml, choc, chocolate, coffee, dairy, Dare, drink, ice, iced, milk, mocha",
-                            "data": []
-                        },
-                        {
                             "id": 1002188,
                             "name": "Dare No Sugar Added Double Espresso 750ml",
                             "range": "DARE 750ml Varieties",
@@ -10769,6 +10744,19 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 1001477,
+                            "name": "Dare Mocha 750mL",
+                            "range": "DARE 750ml Varieties",
+                            "description": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "shortDescription": "With a smooth coffee taste and lasting caffeine kick, it's no surprise that Dare is Australia's #1 Iced Coffee. Try it out today!",
+                            "priceTotal": "6.79",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11487.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "750ml, choc, chocolate, coffee, dairy, Dare, drink, ice, iced, milk, mocha",
                             "data": []
                         },
                         {
@@ -11312,18 +11300,6 @@
                             "data": []
                         },
                         {
-                            "id": 1002226,
-                            "name": "Pepsi Max 2L",
-                            "description": "With Max Taste, No Sugar \u2013 Pepsi Max is a low-calorie and sugar-free version of our classic Pepsi cola soft drink. Bold and refreshing.",
-                            "shortDescription": "With Max Taste, No Sugar \u2013 Pepsi Max is a low-calorie and sugar-free version of our classic Pepsi cola soft drink. Bold and refreshing.",
-                            "priceTotal": "6.29",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12232.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "Pepsi Max, Pepsi Max 2lt, Soft Drinks, Soft Drink, Fizzy Drink",
-                            "data": []
-                        },
-                        {
                             "id": 1002222,
                             "name": "Red Bull 4 x 250mL",
                             "description": "Red Bull Energy Drink. Appreciated worldwide by top athletes, students, busy professionals and travellers on long journeys.",
@@ -11702,18 +11678,6 @@
                             "data": []
                         },
                         {
-                            "id": 1001393,
-                            "name": "Menz Fruchoc 150g",
-                            "description": "SA's favourite FruChocs \u2013 Yummy apricot and peach centres covered in milk chocolate. ",
-                            "shortDescription": "SA's favourite FruChocs \u2013 Yummy apricot and peach centres covered in milk chocolate. ",
-                            "priceTotal": "7.79",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11442.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "150g, apricot, choc, choccy, chocolate, confectionary, Fru, Fruchoc, fruit, Menz, peach, snack",
-                            "data": []
-                        },
-                        {
                             "id": 1003083,
                             "name": "Nom Nom Sour Spiders 130g",
                             "description": "Nom Nom Sour Spiders 130g ",
@@ -11750,18 +11714,6 @@
                             "data": []
                         },
                         {
-                            "id": 1001440,
-                            "name": "Allens Snakes Alive 200g",
-                            "description": "Check out Allen's snakes alive.",
-                            "shortDescription": "Check out Allen's snakes alive.",
-                            "priceTotal": "6.99",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11413.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "200g, alive, Allens, Allen's, candy, lollies, snakes",
-                            "data": []
-                        },
-                        {
                             "id": 1003085,
                             "name": "Nom Nom Sour Neon Worms 132g",
                             "description": "Nom Nom Sour Neon Worms 132g ",
@@ -11771,6 +11723,18 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
+                            "data": []
+                        },
+                        {
+                            "id": 1001440,
+                            "name": "Allens Snakes Alive 200g",
+                            "description": "Check out Allen's snakes alive.",
+                            "shortDescription": "Check out Allen's snakes alive.",
+                            "priceTotal": "6.99",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11413.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "200g, alive, Allens, Allen's, candy, lollies, snakes",
                             "data": []
                         },
                         {
@@ -11990,18 +11954,6 @@
                             "data": []
                         },
                         {
-                            "id": 1003059,
-                            "name": "Red Rock Deli Honey Soy Chicken Potato Chips 45 g",
-                            "description": "Smith's take top quality Aussie potatoes, peel and slice them to just the right crinkle cut thickness, then cook them to perfection using healthier oils with 75% less saturated fat.",
-                            "shortDescription": "Smith's take top quality Aussie potatoes, peel and slice them to just the right crinkle cut thickness, then cook them to perfection using healthier oils with 75% less saturated fat.",
-                            "priceTotal": "3.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13119.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
                             "id": 1001386,
                             "name": "Smiths Crinkle Cut Cheese & Onion 170g",
                             "description": "Smith's take top quality Aussie potatoes, peel and slice them to just the right crinkle cut thickness, then cook them to perfection using healthier oils with 75% less saturated fat.",
@@ -12011,6 +11963,18 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "170g, Cheese, Chips, Crinkle, Crisps, Cut, Onion, Potato, Smith's, Snack",
+                            "data": []
+                        },
+                        {
+                            "id": 1003059,
+                            "name": "Red Rock Deli Honey Soy Chicken Potato Chips 45 g",
+                            "description": "Smith's take top quality Aussie potatoes, peel and slice them to just the right crinkle cut thickness, then cook them to perfection using healthier oils with 75% less saturated fat.",
+                            "shortDescription": "Smith's take top quality Aussie potatoes, peel and slice them to just the right crinkle cut thickness, then cook them to perfection using healthier oils with 75% less saturated fat.",
+                            "priceTotal": "3.49",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13119.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
                             "data": []
                         },
                         {
@@ -12380,18 +12344,6 @@
                             "data": []
                         },
                         {
-                            "id": 1001283,
-                            "name": "Kraft Cheddar Cheese Sliced Regular 250g",
-                            "description": "Tasty cheddar slices. Perfect for sandwiches and snacks ",
-                            "shortDescription": "Tasty cheddar slices. Perfect for sandwiches and snacks ",
-                            "priceTotal": "6.49",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/11405.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
                             "id": 1001368,
                             "name": "Don Kabanos Traditional 200g",
                             "description": "The perfect snack sausage, Don Kabanos. ",
@@ -12401,18 +12353,6 @@
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
-                            "data": []
-                        },
-                        {
-                            "id": 1002220,
-                            "name": "Adelaide Plains Barnlaid Eggs 500g 12pack",
-                            "description": "",
-                            "shortDescription": "",
-                            "priceTotal": "5.99",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12229.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "egg, eggs, breakfast, adelaide, plains, barnlaid, 500, 12, pack, carton",
                             "data": []
                         },
                         {
@@ -13369,5 +13309,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Mon, 05 Aug 2024 21:21:40 GMT"
+    "cached_at": "Tue, 06 Aug 2024 01:36:29 GMT"
 }
