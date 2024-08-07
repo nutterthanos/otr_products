@@ -13325,106 +13325,6 @@
                             ]
                         },
                         {
-                            "id": 4449585,
-                            "name": "Chilli Loaded Chips",
-                            "range": "Chilli Loaded Chips",
-                            "description": "Our famous hot chips, loaded with pulled chicken, mayo and our original chilli sauce.",
-                            "shortDescription": "Our famous hot chips, loaded with pulled chicken, mayo and our original chilli sauce.",
-                            "priceTotal": "10.95",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12514.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 11593,
-                                    "description": "Extras",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        4449585
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4447230,
-                                            "description": "Mayo",
-                                            "priceTotal": "0.00",
-                                            "isSelected": true,
-                                            "defaultSelection": true,
-                                            "productRange": "Mayo",
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 11592,
-                                    "description": "Sauces",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        4449585
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 4447188,
-                                            "description": "BBQ Sauce - Add",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "BBQ Sauce",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4447192,
-                                            "description": "Lemon Herb Sauce - Add",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Lemon Herb Sauce",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448128,
-                                            "description": "Extremo Picante - Add",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Picante Sauce",
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4447196,
-                                            "description": "Prego Sauce - Add",
-                                            "priceTotal": "0.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": "Prego Sauce",
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": "",
-                                    "description": "range",
-                                    "component": "rangeList",
-                                    "options": [
-                                        {
-                                            "id": 4449585,
-                                            "description": "Chilli Loaded Chips",
-                                            "rangeDescription": "Our famous hot chips, loaded with pulled chicken, mayo and our original chilli sauce.",
-                                            "priceTotal": "10.95",
-                                            "isSelected": true,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12514.png",
-                                            "hasMealDeal": false,
-                                            "rewardDescription": ""
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
                             "id": 4447271,
                             "name": "Family Chips",
                             "range": "Family Chips",
@@ -13523,82 +13423,6 @@
                             ]
                         },
                         {
-                            "id": 4450170,
-                            "name": "Chips & Strips",
-                            "description": "Two bite size 100% premium chicken pieces, with a small chips and your choice of dipping sauce.",
-                            "shortDescription": "Two bite size 100% premium chicken pieces, with a small chips and your choice of dipping sauce.",
-                            "priceTotal": "5.00",
-                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 10082,
-                                    "description": "Included Sauce",
-                                    "component": "blank",
-                                    "minQuantity": 1,
-                                    "maxQuantity": 1,
-                                    "options": [
-                                        {
-                                            "id": 4448169,
-                                            "description": "Chilli Dipping Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 86420,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448167,
-                                            "description": "Garlic Dipping Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 86424,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448170,
-                                            "description": "Lemon and Herb Dipping Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 86421,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448171,
-                                            "description": "Mayonnaise Dipping Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 86422,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448166,
-                                            "description": "Extremo Picante Dipping Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 86425,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 4448168,
-                                            "description": "Prego Dipping Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 86423,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
                             "id": 4448320,
                             "name": "Chilli Cheese Chips",
                             "description": "Our famous hot chips, deliciously cheesy, topped off with our legendary Original Chilli sauce.",
@@ -13610,6 +13434,115 @@
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
+                        },
+                        {
+                            "id": 4449585,
+                            "name": "Chilli Loaded Chips",
+                            "range": "Chilli Loaded Chips",
+                            "description": "Our famous hot chips, loaded with pulled chicken, mayo and our original chilli sauce.",
+                            "shortDescription": "Our famous hot chips, loaded with pulled chicken, mayo and our original chilli sauce.",
+                            "priceTotal": "10.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12514.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 11593,
+                                    "description": "Extras",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4449585
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4447230,
+                                            "description": "Mayo",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Mayo",
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 11592,
+                                    "description": "Sauces",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        4449585
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 4447188,
+                                            "description": "BBQ Sauce - Add",
+                                            "priceTotal": "0.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "BBQ Sauce",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4447192,
+                                            "description": "Lemon Herb Sauce - Add",
+                                            "priceTotal": "0.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Lemon Herb Sauce",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4448128,
+                                            "description": "Extremo Picante - Add",
+                                            "priceTotal": "0.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Picante Sauce",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4447196,
+                                            "description": "Prego Sauce - Add",
+                                            "priceTotal": "0.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Prego Sauce",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4447226,
+                                            "description": "Chilli Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Chilli Sauce",
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 4449585,
+                                            "description": "Chilli Loaded Chips",
+                                            "rangeDescription": "Our famous hot chips, loaded with pulled chicken, mayo and our original chilli sauce.",
+                                            "priceTotal": "10.95",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12514.png",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": ""
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "id": 4447267,
@@ -13812,16 +13745,80 @@
                             ]
                         },
                         {
-                            "id": 4447075,
-                            "name": "Hash Brown",
-                            "description": "Crisp and golden on the outside and fluffy potato on the inside. Perfect with a brekkie burger or as a morning snack.",
-                            "shortDescription": "Crisp and golden on the outside and fluffy potato on the inside. Perfect with a brekkie burger or as a morning snack.",
-                            "priceTotal": "2.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10238.png",
-                            "kjTotal": "780 kj",
+                            "id": 4450170,
+                            "name": "Chips & Strips",
+                            "description": "Two bite size 100% premium chicken pieces, with a small chips and your choice of dipping sauce.",
+                            "shortDescription": "Two bite size 100% premium chicken pieces, with a small chips and your choice of dipping sauce.",
+                            "priceTotal": "5.00",
+                            "imageUrl": "https://app-test.ontherun.com.au/images/icons/no_image.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
-                            "data": []
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 10082,
+                                    "description": "Included Sauce",
+                                    "component": "blank",
+                                    "minQuantity": 1,
+                                    "maxQuantity": 1,
+                                    "options": [
+                                        {
+                                            "id": 4448169,
+                                            "description": "Chilli Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 86420,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4448167,
+                                            "description": "Garlic Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 86424,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4448170,
+                                            "description": "Lemon and Herb Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 86421,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4448171,
+                                            "description": "Mayonnaise Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 86422,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4448166,
+                                            "description": "Extremo Picante Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 86425,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 4448168,
+                                            "description": "Prego Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 86423,
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "id": 4448891,
@@ -14213,6 +14210,18 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "id": 4447075,
+                            "name": "Hash Brown",
+                            "description": "Crisp and golden on the outside and fluffy potato on the inside. Perfect with a brekkie burger or as a morning snack.",
+                            "shortDescription": "Crisp and golden on the outside and fluffy potato on the inside. Perfect with a brekkie burger or as a morning snack.",
+                            "priceTotal": "2.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10238.png",
+                            "kjTotal": "780 kj",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "data": []
                         },
                         {
                             "id": 4447256,
@@ -22124,12 +22133,12 @@
                             ]
                         },
                         {
-                            "id": 4447746,
+                            "id": 4447737,
                             "name": "Chicken, Avocado & Lettuce Sandwich",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "7.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10915.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/10906.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
@@ -22151,12 +22160,12 @@
                             ]
                         },
                         {
-                            "id": 4449275,
+                            "id": 4449276,
                             "name": "Ham, Cheese & Tomato Sandwich",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "6.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12220.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12224.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
@@ -22179,12 +22188,12 @@
                             ]
                         },
                         {
-                            "id": 4449278,
+                            "id": 4449277,
                             "name": "Egg & Lettuce Sandwich",
                             "description": "",
                             "shortDescription": "",
                             "priceTotal": "6.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12221.png",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-uat-app-img/Product/12225.png",
                             "hasMealDeal": true,
                             "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August",
                             "loyalty_enabled": 0,
@@ -25419,5 +25428,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Tue, 06 Aug 2024 13:32:53 GMT"
+    "cached_at": "Wed, 07 Aug 2024 06:07:54 GMT"
 }
