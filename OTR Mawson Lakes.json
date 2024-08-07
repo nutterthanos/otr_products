@@ -12876,6 +12876,72 @@
                             "keywords": "",
                             "data": [
                                 {
+                                    "id": 6423,
+                                    "description": "Included Sauce",
+                                    "component": "blank",
+                                    "minQuantity": 2,
+                                    "maxQuantity": 2,
+                                    "ranges": [
+                                        1001258
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 1001107,
+                                            "description": "Chilli Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45763,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001105,
+                                            "description": "Garlic Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45761,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001108,
+                                            "description": "Lemon and Herb Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45764,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001109,
+                                            "description": "Mayonnaise Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45765,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001104,
+                                            "description": "Extremo Picante Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45760,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001106,
+                                            "description": "Prego Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 45762,
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
                                     "id": 2627,
                                     "description": "Dipping Sauce",
                                     "component": "blank",
@@ -12991,10 +13057,75 @@
                             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10239.png",
                             "kjTotal": "1590 kj",
                             "hasMealDeal": false,
-                            "rewardDescription": "",
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": [
+                                {
+                                    "id": 6123,
+                                    "description": "Dipping Sauce",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        1000205
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 1001014,
+                                            "description": "Chilli Sauce 25ml",
+                                            "priceTotal": "1.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 42726,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1000212,
+                                            "description": "Garlic Dip",
+                                            "priceTotal": "1.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 42721,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001016,
+                                            "description": "Lemon & Herb 25ml",
+                                            "priceTotal": "1.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 42725,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001017,
+                                            "description": "Mayonnaise 25ml",
+                                            "priceTotal": "1.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 42724,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001103,
+                                            "description": "Extremo Picante Dipping Sauce",
+                                            "priceTotal": "1.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 42722,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001018,
+                                            "description": "Prego Sauce 25ml",
+                                            "priceTotal": "1.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 42723,
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
                                 {
                                     "id": "",
                                     "description": "range",
@@ -13010,20 +13141,123 @@
                                             "kjTotal": "1590 kj",
                                             "hasMealDeal": false,
                                             "rewardDescription": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 1003090,
+                            "name": "Large Chips",
+                            "range": "Large Chips",
+                            "description": "Cooked until golden brown and lightly seasoned - our famous hot chips are great on the side or as a snack.",
+                            "shortDescription": "Cooked until golden brown and lightly seasoned - our famous hot chips are great on the side or as a snack.",
+                            "priceTotal": "6.50",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13171.png",
+                            "kjTotal": "1990 kj",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 6124,
+                                    "description": "Dipping Sauce",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        1003090
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 1001014,
+                                            "description": "Chilli Sauce 25ml",
+                                            "priceTotal": "1.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 42732,
+                                            "kjTotal": 0
                                         },
                                         {
-                                            "id": 1000400,
-                                            "description": "Family Chips",
-                                            "rangeDescription": "Cooked until golden brown and lightly seasoned - our famous hot chips are great on the side or as a snack.",
-                                            "priceTotal": "8.50",
+                                            "id": 1000212,
+                                            "description": "Garlic Dip",
+                                            "priceTotal": "1.50",
                                             "isSelected": false,
-                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10435.png",
-                                            "kjTotal": "7550 kj",
+                                            "defaultSelection": false,
+                                            "productRange": 42727,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001016,
+                                            "description": "Lemon & Herb 25ml",
+                                            "priceTotal": "1.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 42731,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001017,
+                                            "description": "Mayonnaise 25ml",
+                                            "priceTotal": "1.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 42730,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001103,
+                                            "description": "Extremo Picante Dipping Sauce",
+                                            "priceTotal": "1.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 42728,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001018,
+                                            "description": "Prego Sauce 25ml",
+                                            "priceTotal": "1.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 42729,
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 1003090,
+                                            "description": "Large Chips",
+                                            "rangeDescription": "Cooked until golden brown and lightly seasoned - our famous hot chips are great on the side or as a snack.",
+                                            "priceTotal": "6.50",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13171.png",
+                                            "kjTotal": "1990 kj",
                                             "hasMealDeal": false,
                                             "rewardDescription": ""
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "id": 1000400,
+                            "name": "Family Chips",
+                            "range": "Family Chips",
+                            "description": "Cooked until golden brown and lightly seasoned - our famous hot chips are great on the side or as a snack.",
+                            "shortDescription": "Cooked until golden brown and lightly seasoned - our famous hot chips are great on the side or as a snack.",
+                            "priceTotal": "8.50",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10435.png",
+                            "kjTotal": "7550 kj",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
                                 {
                                     "id": 6126,
                                     "description": "Dipping Sauce",
@@ -13091,170 +13325,20 @@
                                     ]
                                 },
                                 {
-                                    "id": 6123,
-                                    "description": "Dipping Sauce",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        1000205
-                                    ],
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
                                     "options": [
                                         {
-                                            "id": 1001014,
-                                            "description": "Chilli Sauce 25ml",
-                                            "priceTotal": "1.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 42726,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000212,
-                                            "description": "Garlic Dip",
-                                            "priceTotal": "1.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 42721,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001016,
-                                            "description": "Lemon & Herb 25ml",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 42725,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001017,
-                                            "description": "Mayonnaise 25ml",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 42724,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001103,
-                                            "description": "Extremo Picante Dipping Sauce",
-                                            "priceTotal": "1.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 42722,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001018,
-                                            "description": "Prego Sauce 25ml",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 42723,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "id": 1003090,
-                            "name": "Large Chips",
-                            "range": "Large Chips",
-                            "description": "Cooked until golden brown and lightly seasoned - our famous hot chips are great on the side or as a snack.",
-                            "shortDescription": "Cooked until golden brown and lightly seasoned - our famous hot chips are great on the side or as a snack.",
-                            "priceTotal": "6.50",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13171.png",
-                            "kjTotal": "1990 kj",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
-                            "id": 1002444,
-                            "name": "Chilli Loaded Chips",
-                            "description": "Our famous hot chips, loaded with pulled chicken, mayo and our original chilli sauce.",
-                            "shortDescription": "Our famous hot chips, loaded with pulled chicken, mayo and our original chilli sauce.",
-                            "priceTotal": "10.95",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12514.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": []
-                        },
-                        {
-                            "id": 1002992,
-                            "name": "Chips & Strips",
-                            "description": "Two bite size 100% premium chicken pieces, with a small chips and your choice of dipping sauce.",
-                            "shortDescription": "Two bite size 100% premium chicken pieces, with a small chips and your choice of dipping sauce.",
-                            "priceTotal": "5.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13056.png",
-                            "hasMealDeal": false,
-                            "loyalty_enabled": 0,
-                            "keywords": "",
-                            "data": [
-                                {
-                                    "id": 5664,
-                                    "description": "Included Sauce",
-                                    "component": "blank",
-                                    "minQuantity": 1,
-                                    "maxQuantity": 1,
-                                    "options": [
-                                        {
-                                            "id": 1001107,
-                                            "description": "Chilli Dipping Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 39488,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001105,
-                                            "description": "Garlic Dipping Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 39492,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001108,
-                                            "description": "Lemon and Herb Dipping Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 39489,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001109,
-                                            "description": "Mayonnaise Dipping Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 39490,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001104,
-                                            "description": "Extremo Picante Dipping Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 39493,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001106,
-                                            "description": "Prego Dipping Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 39491,
-                                            "kjTotal": 0
+                                            "id": 1000400,
+                                            "description": "Family Chips",
+                                            "rangeDescription": "Cooked until golden brown and lightly seasoned - our famous hot chips are great on the side or as a snack.",
+                                            "priceTotal": "8.50",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10435.png",
+                                            "kjTotal": "7550 kj",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": ""
                                         }
                                     ]
                                 }
@@ -13272,6 +13356,106 @@
                             "loyalty_enabled": 0,
                             "keywords": "",
                             "data": []
+                        },
+                        {
+                            "id": 1002444,
+                            "name": "Chilli Loaded Chips",
+                            "range": "Chilli Loaded Chips",
+                            "description": "Our famous hot chips, loaded with pulled chicken, mayo and our original chilli sauce.",
+                            "shortDescription": "Our famous hot chips, loaded with pulled chicken, mayo and our original chilli sauce.",
+                            "priceTotal": "10.95",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12514.png",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": [
+                                {
+                                    "id": 6420,
+                                    "description": "Extras",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        1002444
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 1000359,
+                                            "description": "Mayo",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Mayo",
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 6419,
+                                    "description": "Sauces",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        1002444
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 1000317,
+                                            "description": "BBQ Sauce - Add",
+                                            "priceTotal": "0.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "BBQ Sauce",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1000321,
+                                            "description": "Lemon Herb Sauce - Add",
+                                            "priceTotal": "0.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Lemon Herb Sauce",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001069,
+                                            "description": "Extremo Picante - Add",
+                                            "priceTotal": "0.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Picante Sauce",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1000325,
+                                            "description": "Prego Sauce - Add",
+                                            "priceTotal": "0.50",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": "Prego Sauce",
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 1002444,
+                                            "description": "Chilli Loaded Chips",
+                                            "rangeDescription": "Our famous hot chips, loaded with pulled chicken, mayo and our original chilli sauce.",
+                                            "priceTotal": "10.95",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12514.png",
+                                            "hasMealDeal": false,
+                                            "rewardDescription": ""
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "id": 1000396,
@@ -13451,17 +13635,80 @@
                             ]
                         },
                         {
-                            "id": 1000204,
-                            "name": "Hash Brown",
-                            "description": "Crisp and golden on the outside and fluffy potato on the inside. Perfect with a brekkie burger or as a morning snack.",
-                            "shortDescription": "Crisp and golden on the outside and fluffy potato on the inside. Perfect with a brekkie burger or as a morning snack.",
-                            "priceTotal": "2.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10238.png",
-                            "kjTotal": "780 kj",
+                            "id": 1002992,
+                            "name": "Chips & Strips",
+                            "description": "Two bite size 100% premium chicken pieces, with a small chips and your choice of dipping sauce.",
+                            "shortDescription": "Two bite size 100% premium chicken pieces, with a small chips and your choice of dipping sauce.",
+                            "priceTotal": "5.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13056.png",
                             "hasMealDeal": false,
                             "loyalty_enabled": 0,
                             "keywords": "",
-                            "data": []
+                            "data": [
+                                {
+                                    "id": 5664,
+                                    "description": "Included Sauce",
+                                    "component": "blank",
+                                    "minQuantity": 1,
+                                    "maxQuantity": 1,
+                                    "options": [
+                                        {
+                                            "id": 1001107,
+                                            "description": "Chilli Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 39488,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001105,
+                                            "description": "Garlic Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 39492,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001108,
+                                            "description": "Lemon and Herb Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 39489,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001109,
+                                            "description": "Mayonnaise Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 39490,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001104,
+                                            "description": "Extremo Picante Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 39493,
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1001106,
+                                            "description": "Prego Dipping Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": false,
+                                            "defaultSelection": false,
+                                            "productRange": 39491,
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "id": 1001814,
@@ -13803,6 +14050,19 @@
                             ]
                         },
                         {
+                            "id": 1000204,
+                            "name": "Hash Brown",
+                            "description": "Crisp and golden on the outside and fluffy potato on the inside. Perfect with a brekkie burger or as a morning snack.",
+                            "shortDescription": "Crisp and golden on the outside and fluffy potato on the inside. Perfect with a brekkie burger or as a morning snack.",
+                            "priceTotal": "2.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10238.png",
+                            "kjTotal": "780 kj",
+                            "hasMealDeal": false,
+                            "loyalty_enabled": 0,
+                            "keywords": "",
+                            "data": []
+                        },
+                        {
                             "id": 1000385,
                             "name": "Crispy Chicken Strips - 5 pack",
                             "range": "Crispy Chicken Strips 5 Pack",
@@ -14065,72 +14325,6 @@
                                             "isSelected": false,
                                             "defaultSelection": false,
                                             "productRange": 3144,
-                                            "kjTotal": 0
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 760,
-                                    "description": "Dipping Sauce",
-                                    "component": "blank",
-                                    "minQuantity": 0,
-                                    "maxQuantity": 99,
-                                    "ranges": [
-                                        1000386
-                                    ],
-                                    "options": [
-                                        {
-                                            "id": 1001014,
-                                            "description": "Chilli Sauce 25ml",
-                                            "priceTotal": "1.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3136,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000212,
-                                            "description": "Garlic Dip",
-                                            "priceTotal": "1.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 8277,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001016,
-                                            "description": "Lemon & Herb 25ml",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3138,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001017,
-                                            "description": "Mayonnaise 25ml",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3139,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001103,
-                                            "description": "Extremo Picante Dipping Sauce",
-                                            "priceTotal": "1.50",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 8278,
-                                            "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1001018,
-                                            "description": "Prego Sauce 25ml",
-                                            "priceTotal": "1.00",
-                                            "isSelected": false,
-                                            "defaultSelection": false,
-                                            "productRange": 3140,
                                             "kjTotal": 0
                                         }
                                     ]
@@ -14675,15 +14869,6 @@
                                             "defaultSelection": false,
                                             "productRange": "Prego Sauce",
                                             "kjTotal": 0
-                                        },
-                                        {
-                                            "id": 1000353,
-                                            "description": "BBQ Sauce",
-                                            "priceTotal": "0.00",
-                                            "isSelected": true,
-                                            "defaultSelection": true,
-                                            "productRange": "BBQ Sauce",
-                                            "kjTotal": 0
                                         }
                                     ]
                                 },
@@ -14818,12 +15003,30 @@
                                             "kjTotal": 0
                                         },
                                         {
+                                            "id": 1001062,
+                                            "description": "Spicy Rice",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Spicy Rice",
+                                            "kjTotal": 0
+                                        },
+                                        {
                                             "id": 1001057,
                                             "description": "Crunchy Slaw",
                                             "priceTotal": "0.00",
                                             "isSelected": true,
                                             "defaultSelection": true,
                                             "productRange": "Crunchy Slaw",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1000359,
+                                            "description": "Mayo",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Mayo",
                                             "kjTotal": 0
                                         }
                                     ]
@@ -15298,6 +15501,7 @@
                         {
                             "id": 1002341,
                             "name": "Bondi Rappa",
+                            "range": "Bondi Rappa",
                             "description": "Two grilled chicken breast fillets, crisp lettuce, cheese, creamy mayo and Original Chilli sauce \u2013 all in a warm pita bread wrap.",
                             "shortDescription": "Two grilled chicken breast fillets, crisp lettuce, cheese, creamy mayo and Original Chilli sauce \u2013 all in a warm pita bread wrap.",
                             "priceTotal": "11.25",
@@ -15309,11 +15513,53 @@
                             "keywords": "",
                             "data": [
                                 {
+                                    "id": 6421,
+                                    "description": "Extras",
+                                    "component": "blank",
+                                    "minQuantity": 0,
+                                    "maxQuantity": 99,
+                                    "ranges": [
+                                        1002341
+                                    ],
+                                    "options": [
+                                        {
+                                            "id": 1000354,
+                                            "description": "Cheese",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Cheese",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1000358,
+                                            "description": "Lettuce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Lettuce",
+                                            "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1000359,
+                                            "description": "Mayo",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Mayo",
+                                            "kjTotal": 0
+                                        }
+                                    ]
+                                },
+                                {
                                     "id": 3140,
                                     "description": "Sauces",
                                     "component": "blank",
                                     "minQuantity": 0,
                                     "maxQuantity": 99,
+                                    "ranges": [
+                                        1002341
+                                    ],
                                     "options": [
                                         {
                                             "id": 1000317,
@@ -15359,6 +15605,15 @@
                                             "defaultSelection": false,
                                             "productRange": "Prego Sauce",
                                             "kjTotal": 0
+                                        },
+                                        {
+                                            "id": 1000355,
+                                            "description": "Chilli Sauce",
+                                            "priceTotal": "0.00",
+                                            "isSelected": true,
+                                            "defaultSelection": true,
+                                            "productRange": "Chilli Sauce",
+                                            "kjTotal": 0
                                         }
                                     ]
                                 },
@@ -15373,6 +15628,24 @@
                                             "priceTotal": "5.00",
                                             "shortName": "O",
                                             "isSelected": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "",
+                                    "description": "range",
+                                    "component": "rangeList",
+                                    "options": [
+                                        {
+                                            "id": 1002341,
+                                            "description": "Bondi Rappa",
+                                            "rangeDescription": "Two grilled chicken breast fillets, crisp lettuce, cheese, creamy mayo and Original Chilli sauce \u2013 all in a warm pita bread wrap.",
+                                            "priceTotal": "11.25",
+                                            "isSelected": true,
+                                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/12350.png",
+                                            "kjTotal": "2680 kj",
+                                            "hasMealDeal": true,
+                                            "rewardDescription": "Buy 4 get 1 FREE ends on 24th June, make sure to redeem your rewards before 24th August"
                                         }
                                     ]
                                 }
@@ -18563,117 +18836,6 @@
                     ]
                 },
                 {
-                    "id": 7657,
-                    "description": "Drink",
-                    "component": "radioList",
-                    "mealDealId": 336,
-                    "minQuantity": 1,
-                    "maxQuantity": 1,
-                    "options": [
-                        {
-                            "description": "Soft Drink 375ml",
-                            "isMealDeal": true,
-                            "isSelected": false,
-                            "productRange": "Soft Drink 375ml",
-                            "options": [
-                                {
-                                    "id": 1000270,
-                                    "description": "FANTA",
-                                    "priceTotal": "4.29",
-                                    "priceIncrement": "0.00",
-                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10304.png",
-                                    "range": "Soft Drink 375ml",
-                                    "isSelected": false,
-                                    "defaultSelection": false
-                                },
-                                {
-                                    "id": 1000229,
-                                    "description": "COKE",
-                                    "priceTotal": "4.29",
-                                    "priceIncrement": "0.00",
-                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10263.png",
-                                    "range": "Soft Drink 375ml",
-                                    "isSelected": false,
-                                    "defaultSelection": false
-                                },
-                                {
-                                    "id": 1000236,
-                                    "description": "COKE DIET",
-                                    "priceTotal": "4.29",
-                                    "priceIncrement": "0.00",
-                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10270.png",
-                                    "range": "Soft Drink 375ml",
-                                    "isSelected": false,
-                                    "defaultSelection": false
-                                },
-                                {
-                                    "id": 1000241,
-                                    "description": "SPRITE",
-                                    "priceTotal": "4.29",
-                                    "priceIncrement": "0.00",
-                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10275.png",
-                                    "range": "Soft Drink 375ml",
-                                    "isSelected": false,
-                                    "defaultSelection": false
-                                },
-                                {
-                                    "id": 1000266,
-                                    "description": "COKE VANILLA",
-                                    "priceTotal": "3.49",
-                                    "priceIncrement": "0.00",
-                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10300.png",
-                                    "range": "Soft Drink 375ml",
-                                    "isSelected": false,
-                                    "defaultSelection": false
-                                },
-                                {
-                                    "id": 1003210,
-                                    "description": "Coke No Sugar",
-                                    "priceTotal": "4.29",
-                                    "priceIncrement": "0.00",
-                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13266.png",
-                                    "range": "Soft Drink 375ml",
-                                    "kjTotal": "4 kj",
-                                    "isSelected": false,
-                                    "defaultSelection": false
-                                },
-                                {
-                                    "id": 1003211,
-                                    "description": "Sprite Lemon Plus Can",
-                                    "priceTotal": "4.29",
-                                    "priceIncrement": "0.00",
-                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13267.png",
-                                    "range": "Soft Drink 375ml",
-                                    "kjTotal": "444 kj",
-                                    "isSelected": false,
-                                    "defaultSelection": false
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": 7716,
-                    "description": "Crispy Strips ",
-                    "component": "radioList",
-                    "mealDealId": 336,
-                    "minQuantity": 1,
-                    "maxQuantity": 1,
-                    "options": [
-                        {
-                            "id": 1001714,
-                            "description": "Crispy Chicken Strips - 2 pack",
-                            "priceTotal": "4.00",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11699.png",
-                            "range": "",
-                            "isSelected": false,
-                            "defaultSelection": false,
-                            "productRange": "Crispy Chicken Strips"
-                        }
-                    ]
-                },
-                {
                     "id": 7940,
                     "description": "Burger",
                     "component": "radioList",
@@ -18714,6 +18876,27 @@
                             "kjTotal": "1220 kj",
                             "isSelected": false,
                             "defaultSelection": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7944,
+                    "description": "Crispy Strips ",
+                    "component": "radioList",
+                    "mealDealId": 336,
+                    "minQuantity": 1,
+                    "maxQuantity": 1,
+                    "options": [
+                        {
+                            "id": 1001714,
+                            "description": "Crispy Chicken Strips - 2 pack",
+                            "priceTotal": "4.00",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11699.png",
+                            "range": "",
+                            "isSelected": false,
+                            "defaultSelection": false,
+                            "productRange": "Crispy Chicken Strips"
                         }
                     ]
                 },
@@ -18800,32 +18983,10 @@
                     ]
                 },
                 {
-                    "id": 4965,
-                    "description": "Snack Chips",
-                    "component": "radioList",
-                    "mealDealId": 335,
-                    "minQuantity": 1,
-                    "maxQuantity": 1,
-                    "options": [
-                        {
-                            "id": 1001992,
-                            "description": "Small Chips",
-                            "priceTotal": "2.50",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://app2.ontherun.com.au/images/icons/no_image.png",
-                            "range": "",
-                            "productRange": 4965,
-                            "kjTotal": "1220 kj",
-                            "isSelected": false,
-                            "defaultSelection": false
-                        }
-                    ]
-                },
-                {
-                    "id": 7660,
+                    "id": 7958,
                     "description": "Drink",
                     "component": "radioList",
-                    "mealDealId": 335,
+                    "mealDealId": 336,
                     "minQuantity": 1,
                     "maxQuantity": 1,
                     "options": [
@@ -18835,16 +18996,6 @@
                             "isSelected": false,
                             "productRange": "Soft Drink 375ml",
                             "options": [
-                                {
-                                    "id": 1000270,
-                                    "description": "FANTA",
-                                    "priceTotal": "4.29",
-                                    "priceIncrement": "0.00",
-                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10304.png",
-                                    "range": "Soft Drink 375ml",
-                                    "isSelected": false,
-                                    "defaultSelection": false
-                                },
                                 {
                                     "id": 1000229,
                                     "description": "COKE",
@@ -18886,6 +19037,16 @@
                                     "defaultSelection": false
                                 },
                                 {
+                                    "id": 1000270,
+                                    "description": "FANTA",
+                                    "priceTotal": "4.29",
+                                    "priceIncrement": "0.00",
+                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10304.png",
+                                    "range": "Soft Drink 375ml",
+                                    "isSelected": false,
+                                    "defaultSelection": false
+                                },
+                                {
                                     "id": 1003210,
                                     "description": "Coke No Sugar",
                                     "priceTotal": "4.29",
@@ -18912,23 +19073,24 @@
                     ]
                 },
                 {
-                    "id": 7945,
-                    "description": "Crispy Strips",
+                    "id": 4965,
+                    "description": "Snack Chips",
                     "component": "radioList",
                     "mealDealId": 335,
                     "minQuantity": 1,
                     "maxQuantity": 1,
                     "options": [
                         {
-                            "id": 1001714,
-                            "description": "Crispy Chicken Strips - 2 pack",
-                            "priceTotal": "4.00",
+                            "id": 1001992,
+                            "description": "Small Chips",
+                            "priceTotal": "2.50",
                             "priceIncrement": "0.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11699.png",
+                            "imageUrl": "https://app2.ontherun.com.au/images/icons/no_image.png",
                             "range": "",
+                            "productRange": 4965,
+                            "kjTotal": "1220 kj",
                             "isSelected": false,
-                            "defaultSelection": false,
-                            "productRange": "Crispy Chicken Strips"
+                            "defaultSelection": false
                         }
                     ]
                 },
@@ -18962,6 +19124,27 @@
                             "isSelected": false,
                             "defaultSelection": false,
                             "productRange": "Classic Burger"
+                        }
+                    ]
+                },
+                {
+                    "id": 7977,
+                    "description": "Crispy Strips",
+                    "component": "radioList",
+                    "mealDealId": 335,
+                    "minQuantity": 1,
+                    "maxQuantity": 1,
+                    "options": [
+                        {
+                            "id": 1001714,
+                            "description": "Crispy Chicken Strips - 2 pack",
+                            "priceTotal": "4.00",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/11699.png",
+                            "range": "",
+                            "isSelected": false,
+                            "defaultSelection": false,
+                            "productRange": "Crispy Chicken Strips"
                         }
                     ]
                 },
@@ -19048,45 +19231,92 @@
                     ]
                 },
                 {
-                    "id": 7092,
-                    "description": "Basting",
+                    "id": 7991,
+                    "description": "Drink",
                     "component": "radioList",
-                    "mealDealId": 332,
+                    "mealDealId": 335,
                     "minQuantity": 1,
                     "maxQuantity": 1,
                     "options": [
                         {
-                            "id": 1000364,
-                            "description": "Chilli Basting - Add",
-                            "priceTotal": "0.00",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://app2.ontherun.com.au/images/icons/no_image.png",
-                            "range": "",
+                            "description": "Soft Drink 375ml",
+                            "isMealDeal": true,
                             "isSelected": false,
-                            "defaultSelection": false,
-                            "productRange": "Chilli Basting"
-                        },
-                        {
-                            "id": 1000367,
-                            "description": "Lemon & Herb Basting - Add",
-                            "priceTotal": "0.00",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://app2.ontherun.com.au/images/icons/no_image.png",
-                            "range": "",
-                            "isSelected": false,
-                            "defaultSelection": false,
-                            "productRange": "Lemon & Herb Basting"
-                        },
-                        {
-                            "id": 1001006,
-                            "description": "Extremo Picante Basting - Add",
-                            "priceTotal": "0.00",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://app2.ontherun.com.au/images/icons/no_image.png",
-                            "range": "",
-                            "isSelected": false,
-                            "defaultSelection": false,
-                            "productRange": "Picante Basting"
+                            "productRange": "Soft Drink 375ml",
+                            "options": [
+                                {
+                                    "id": 1000229,
+                                    "description": "COKE",
+                                    "priceTotal": "4.29",
+                                    "priceIncrement": "0.00",
+                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10263.png",
+                                    "range": "Soft Drink 375ml",
+                                    "isSelected": false,
+                                    "defaultSelection": false
+                                },
+                                {
+                                    "id": 1000236,
+                                    "description": "COKE DIET",
+                                    "priceTotal": "4.29",
+                                    "priceIncrement": "0.00",
+                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10270.png",
+                                    "range": "Soft Drink 375ml",
+                                    "isSelected": false,
+                                    "defaultSelection": false
+                                },
+                                {
+                                    "id": 1000241,
+                                    "description": "SPRITE",
+                                    "priceTotal": "4.29",
+                                    "priceIncrement": "0.00",
+                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10275.png",
+                                    "range": "Soft Drink 375ml",
+                                    "isSelected": false,
+                                    "defaultSelection": false
+                                },
+                                {
+                                    "id": 1000266,
+                                    "description": "COKE VANILLA",
+                                    "priceTotal": "3.49",
+                                    "priceIncrement": "0.00",
+                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10300.png",
+                                    "range": "Soft Drink 375ml",
+                                    "isSelected": false,
+                                    "defaultSelection": false
+                                },
+                                {
+                                    "id": 1000270,
+                                    "description": "FANTA",
+                                    "priceTotal": "4.29",
+                                    "priceIncrement": "0.00",
+                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10304.png",
+                                    "range": "Soft Drink 375ml",
+                                    "isSelected": false,
+                                    "defaultSelection": false
+                                },
+                                {
+                                    "id": 1003210,
+                                    "description": "Coke No Sugar",
+                                    "priceTotal": "4.29",
+                                    "priceIncrement": "0.00",
+                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13266.png",
+                                    "range": "Soft Drink 375ml",
+                                    "kjTotal": "4 kj",
+                                    "isSelected": false,
+                                    "defaultSelection": false
+                                },
+                                {
+                                    "id": 1003211,
+                                    "description": "Sprite Lemon Plus Can",
+                                    "priceTotal": "4.29",
+                                    "priceIncrement": "0.00",
+                                    "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/13267.png",
+                                    "range": "Soft Drink 375ml",
+                                    "kjTotal": "444 kj",
+                                    "isSelected": false,
+                                    "defaultSelection": false
+                                }
+                            ]
                         }
                     ]
                 },
@@ -19143,6 +19373,49 @@
                             "isSelected": false,
                             "defaultSelection": false,
                             "productRange": "Quarter Chicken - Wing"
+                        }
+                    ]
+                },
+                {
+                    "id": 7932,
+                    "description": "Basting",
+                    "component": "radioList",
+                    "mealDealId": 332,
+                    "minQuantity": 1,
+                    "maxQuantity": 1,
+                    "options": [
+                        {
+                            "id": 1000364,
+                            "description": "Chilli Basting - Add",
+                            "priceTotal": "0.00",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://app2.ontherun.com.au/images/icons/no_image.png",
+                            "range": "",
+                            "isSelected": false,
+                            "defaultSelection": false,
+                            "productRange": "Chilli Basting"
+                        },
+                        {
+                            "id": 1000367,
+                            "description": "Lemon & Herb Basting - Add",
+                            "priceTotal": "0.00",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://app2.ontherun.com.au/images/icons/no_image.png",
+                            "range": "",
+                            "isSelected": false,
+                            "defaultSelection": false,
+                            "productRange": "Lemon & Herb Basting"
+                        },
+                        {
+                            "id": 1001006,
+                            "description": "Extremo Picante Basting - Add",
+                            "priceTotal": "0.00",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://app2.ontherun.com.au/images/icons/no_image.png",
+                            "range": "",
+                            "isSelected": false,
+                            "defaultSelection": false,
+                            "productRange": "Picante Basting"
                         }
                     ]
                 },
@@ -19453,7 +19726,29 @@
                     ]
                 },
                 {
-                    "id": 7035,
+                    "id": 7837,
+                    "description": "Whole Chicken",
+                    "component": "radioList",
+                    "mealDealId": 331,
+                    "minQuantity": 1,
+                    "maxQuantity": 1,
+                    "options": [
+                        {
+                            "id": 1000377,
+                            "description": "Whole Chicken",
+                            "priceTotal": "19.75",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10411.png",
+                            "range": "",
+                            "kjTotal": "5660 kj",
+                            "isSelected": false,
+                            "defaultSelection": false,
+                            "productRange": "Whole Chicken"
+                        }
+                    ]
+                },
+                {
+                    "id": 7839,
                     "description": "Basting",
                     "component": "radioList",
                     "mealDealId": 331,
@@ -19503,28 +19798,6 @@
                             "isSelected": false,
                             "defaultSelection": false,
                             "productRange": "Picante Basting"
-                        }
-                    ]
-                },
-                {
-                    "id": 7837,
-                    "description": "Whole Chicken",
-                    "component": "radioList",
-                    "mealDealId": 331,
-                    "minQuantity": 1,
-                    "maxQuantity": 1,
-                    "options": [
-                        {
-                            "id": 1000377,
-                            "description": "Whole Chicken",
-                            "priceTotal": "19.75",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10411.png",
-                            "range": "",
-                            "kjTotal": "5660 kj",
-                            "isSelected": false,
-                            "defaultSelection": false,
-                            "productRange": "Whole Chicken"
                         }
                     ]
                 },
@@ -19606,7 +19879,7 @@
                             "kjTotal": "7550 kj",
                             "isSelected": false,
                             "defaultSelection": false,
-                            "productRange": "Chips"
+                            "productRange": "Family Chips"
                         }
                     ]
                 },
@@ -19666,12 +19939,34 @@
                             "kjTotal": "7550 kj",
                             "isSelected": false,
                             "defaultSelection": false,
-                            "productRange": "Chips"
+                            "productRange": "Family Chips"
                         }
                     ]
                 },
                 {
-                    "id": 4239,
+                    "id": 7815,
+                    "description": "Whole Chicken",
+                    "component": "radioList",
+                    "mealDealId": 329,
+                    "minQuantity": 1,
+                    "maxQuantity": 1,
+                    "options": [
+                        {
+                            "id": 1000377,
+                            "description": "Whole Chicken",
+                            "priceTotal": "19.75",
+                            "priceIncrement": "0.00",
+                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10411.png",
+                            "range": "",
+                            "kjTotal": "5660 kj",
+                            "isSelected": false,
+                            "defaultSelection": false,
+                            "productRange": "Whole Chicken"
+                        }
+                    ]
+                },
+                {
+                    "id": 7817,
                     "description": "Basting",
                     "component": "radioList",
                     "mealDealId": 329,
@@ -19721,28 +20016,6 @@
                             "isSelected": false,
                             "defaultSelection": false,
                             "productRange": "Picante Basting"
-                        }
-                    ]
-                },
-                {
-                    "id": 7815,
-                    "description": "Whole Chicken",
-                    "component": "radioList",
-                    "mealDealId": 329,
-                    "minQuantity": 1,
-                    "maxQuantity": 1,
-                    "options": [
-                        {
-                            "id": 1000377,
-                            "description": "Whole Chicken",
-                            "priceTotal": "19.75",
-                            "priceIncrement": "0.00",
-                            "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Product/10411.png",
-                            "range": "",
-                            "kjTotal": "5660 kj",
-                            "isSelected": false,
-                            "defaultSelection": false,
-                            "productRange": "Whole Chicken"
                         }
                     ]
                 },
@@ -19824,7 +20097,7 @@
                             "kjTotal": "7550 kj",
                             "isSelected": false,
                             "defaultSelection": false,
-                            "productRange": "Chips"
+                            "productRange": "Family Chips"
                         }
                     ]
                 },
@@ -24723,5 +24996,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Wed, 07 Aug 2024 00:31:14 GMT"
+    "cached_at": "Wed, 07 Aug 2024 01:36:36 GMT"
 }
