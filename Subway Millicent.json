@@ -7,7 +7,7 @@
             "name": "Subway",
             "description": "Eat Well",
             "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Offer/Offer_3.png",
-            "promo": "https://ontherun-web.s3.amazonaws.com/uploads/20240618222740/Subway-Southern-Style-Chicken-Footlong-OTR-App-Header-1080x522px-FINAL-720x348.jpg",
+            "promo": "https://ontherun-web.s3.amazonaws.com/uploads/20200723223018/Subway-600x290px-Web-Banner-Logo-Final.jpg",
             "headerImageUrl": "https://s3-ap-southeast-2.amazonaws.com/otr-prod-app-img/Offer/Header_3.png",
             "menu_layout_type": 1,
             "show_nutrition": true,
@@ -22,5 +22,5 @@
         "status": "order_enabled"
     },
     "cached": true,
-    "cached_at": "Wed, 07 Aug 2024 10:31:12 GMT"
+    "cached_at": "Wed, 07 Aug 2024 15:03:54 GMT"
 }
