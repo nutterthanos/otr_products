@@ -2960,9 +2960,9 @@
                 56
             ],
             "fuel_ordering_enabled": 1,
-            "isUnavailable": false,
+            "isUnavailable": true,
             "is_implement_iamhere": false,
-            "status": "order_enabled"
+            "status": "disabled"
         },
         {
             "location_id": 84,
